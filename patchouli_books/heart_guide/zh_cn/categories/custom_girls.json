@@ -1,6 +1,6 @@
 {
   "name": "自定义女孩",
-  "description": "这些是通过JSON配置和资源包加载的特殊女孩。她们可以拥有完全自定义的外观、行为和场景。",
+  "description": "了解如何在游戏内生成自定义女孩。",
   "icon": "minecraft:knowledge_book",
-  "parent": "heartbound:girls"
+  "parent": "mate:girls"
 }

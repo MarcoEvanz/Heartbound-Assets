@@ -1,6 +1,6 @@
 {
   "name": "Custom Girls",
-  "description": "These are special girls loaded from JSON configurations and resource packs. They can have completely custom appearances, behaviors, and scenes.",
+  "description": "Learn how to spawn custom girls in-game.",
   "icon": "minecraft:knowledge_book",
-  "parent": "heartbound:girls"
+  "parent": "mate:girls"
 }

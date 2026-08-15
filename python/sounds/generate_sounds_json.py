@@ -2,7 +2,7 @@ import os
 import json
 import re
 
-MOD_ID = "heartbound"
+MOD_ID = "mate"
 GIRLS_PATH = f"{MOD_ID}:girls"
 MISC_PATH = f"{MOD_ID}:misc"
 

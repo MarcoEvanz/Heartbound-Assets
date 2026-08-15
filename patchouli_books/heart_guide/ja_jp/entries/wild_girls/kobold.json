@@ -1,7 +1,7 @@
 {
   "name": "コボルド",
   "icon": "minecraft:raw_iron",
-  "category": "heartbound:wild_girls",
+  "category": "mate:wild_girls",
   "pages": [
     {
       "type": "patchouli:text",
@@ -9,7 +9,7 @@
     },
     {
       "type": "patchouli:entity",
-      "entity": "heartbound:kobold",
+      "entity": "mate:kobold",
       "scale": 0.8,
       "offset": 0.3,
       "rotate": false,

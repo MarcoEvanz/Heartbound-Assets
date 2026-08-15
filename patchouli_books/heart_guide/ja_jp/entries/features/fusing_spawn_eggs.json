@@ -1,7 +1,7 @@
 {
   "name": "スポーンエッグのフュージョン",
-  "icon": "heartbound:fusion_table",
-  "category": "heartbound:features",
+  "icon": "mate:fusion_table",
+  "category": "mate:features",
   "pages": [
     {
       "type": "patchouli:text",

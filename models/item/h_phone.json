@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "heartbound:item/h_phone"
+    "layer0": "mate:item/h_phone"
   }
 }

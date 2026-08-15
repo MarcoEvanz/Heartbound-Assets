@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "heartbound:block/building_tag_house",
-		"particle": "heartbound:block/building_tag_house"
+		"0": "mate:block/building_tag_house",
+		"particle": "mate:block/building_tag_house"
 	},
 	"elements": [
 		{

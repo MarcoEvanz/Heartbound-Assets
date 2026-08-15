@@ -1,7 +1,7 @@
 {
   "name": "Transformação",
-  "icon": "heartbound:x_pill",
-  "category": "heartbound:features",
+  "icon": "mate:x_pill",
+  "category": "mate:features",
   "pages": [
     {
       "type": "patchouli:text",
@@ -13,7 +13,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "heartbound:x_pill",
+      "recipe": "mate:x_pill",
       "text": "Fabrique a Pílula X usando uma papoula, açúcar, uma poção, uma maçã e uma tigela."
     }
   ]

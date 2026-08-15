@@ -1,7 +1,7 @@
 {
   "name": "变身",
-  "icon": "heartbound:x_pill",
-  "category": "heartbound:features",
+  "icon": "mate:x_pill",
+  "category": "mate:features",
   "pages": [
     {
       "type": "patchouli:text",
@@ -13,7 +13,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "heartbound:x_pill",
+      "recipe": "mate:x_pill",
       "text": "使用虞美人、糖、药水、苹果和碗合成X药丸。"
     }
   ]

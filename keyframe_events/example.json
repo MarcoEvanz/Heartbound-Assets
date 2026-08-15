@@ -5,7 +5,7 @@
       "key": "angry",
       "sounds": [],
       "random_sounds": [
-        "heartbound:momo.breath",
+        "mate:momo.breath",
         "minecraft:block.metal.break"
       ],
       "messages": [
@@ -16,8 +16,8 @@
     {
       "key": "doggyCumMSG1",
       "sounds": [
-        "heartbound:misc.cuminflation",
-        "heartbound:momo.ahh"
+        "mate:misc.cuminflation",
+        "mate:momo.ahh"
       ],
       "random_sounds": [],
       "messages": [

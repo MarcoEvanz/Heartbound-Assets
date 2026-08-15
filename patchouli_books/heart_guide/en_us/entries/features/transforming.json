@@ -1,7 +1,7 @@
 {
   "name": "Transforming",
-  "icon": "heartbound:x_pill",
-  "category": "heartbound:features",
+  "icon": "mate:x_pill",
+  "category": "mate:features",
   "pages": [
     {
       "type": "patchouli:text",
@@ -13,7 +13,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "heartbound:x_pill",
+      "recipe": "mate:x_pill",
       "text": "Craft the X-Pill using a poppy, sugar, a potion, an apple, and a bowl."
     }
   ]

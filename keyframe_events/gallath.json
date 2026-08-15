@@ -4,101 +4,101 @@
     {
       "key": "pound_thrust",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ]
     },
     {
       "key": "poundRape_thrust",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ]
     },
     {
       "key": "switchmoan",
       "random_sounds": [
-        "heartbound:gallath.moan",
-        "heartbound:gallath.ahh",
-        "heartbound:gallath.uuh"
+        "mate:gallath.moan",
+        "mate:gallath.ahh",
+        "mate:gallath.uuh"
       ]
     },
     {
       "key": "cum",
       "sounds": [
-        "heartbound:misc.inserts",
-        "heartbound:gallath.orgasm"
+        "mate:misc.inserts",
+        "mate:gallath.orgasm"
       ]
     },
     {
       "key": "giggle",
       "sounds": [
-        "heartbound:gallath.giggle"
+        "mate:gallath.giggle"
       ]
     },
     {
       "key": "flap",
       "sounds": [
-        "heartbound:misc.flap"
+        "mate:misc.flap"
       ]
     },
     {
       "key": "dialog1",
       "sounds": [
-        "heartbound:gallath.dialog"
+        "mate:gallath.dialog"
       ]
     },
     {
       "key": "rapeHurt",
       "sounds": [
-        "heartbound:gallath.hmph"
+        "mate:gallath.hmph"
       ]
     },
     {
       "key": "summontaunt",
       "random_messages": [
-        "msg.heartbound.gallath.dialog.summoned.1",
-        "msg.heartbound.gallath.dialog.summoned.2",
-        "msg.heartbound.gallath.dialog.summoned.3"
+        "msg.mate.gallath.dialog.summoned.1",
+        "msg.mate.gallath.dialog.summoned.2",
+        "msg.mate.gallath.dialog.summoned.3"
       ]
     },
     {
       "key": "fireballtaunt",
       "random_messages": [
-        "msg.heartbound.gallath.dialog.fireball.1",
-        "msg.heartbound.gallath.dialog.fireball.2"
+        "msg.mate.gallath.dialog.fireball.1",
+        "msg.mate.gallath.dialog.fireball.2"
       ]
     },
     {
       "key": "miniontaunt",
       "random_messages": [
-        "msg.heartbound.gallath.dialog.summon_minions.1",
-        "msg.heartbound.gallath.dialog.summon_minions.2"
+        "msg.mate.gallath.dialog.summon_minions.1",
+        "msg.mate.gallath.dialog.summon_minions.2"
       ]
     },
     {
       "key": "knockouttaunt",
       "random_messages": [
-        "msg.heartbound.gallath.dialog.knocked_out.1",
-        "msg.heartbound.gallath.dialog.knocked_out.2"
+        "msg.mate.gallath.dialog.knocked_out.1",
+        "msg.mate.gallath.dialog.knocked_out.2"
       ]
     },
     {
       "key": "standuptaunt",
       "random_messages": [
-        "msg.heartbound.gallath.dialog.stand_up.1",
-        "msg.heartbound.gallath.dialog.stand_up.2"
+        "msg.mate.gallath.dialog.stand_up.1",
+        "msg.mate.gallath.dialog.stand_up.2"
       ]
     },
     {
       "key": "cointaunt",
       "messages": [
-        "msg.heartbound.gallath.dialog.coin_reward"
+        "msg.mate.gallath.dialog.coin_reward"
       ]
     },
     {
       "key": "sacrificetaunt",
       "random_messages": [
-        "msg.heartbound.gallath.dialog.sacrifice.1",
-        "msg.heartbound.gallath.dialog.sacrifice.2"
+        "msg.mate.gallath.dialog.sacrifice.1",
+        "msg.mate.gallath.dialog.sacrifice.2"
       ]
     }
   ]

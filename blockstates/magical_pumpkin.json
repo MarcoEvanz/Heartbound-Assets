@@ -1,18 +1,18 @@
 {
   "variants": {
     "facing=east": {
-      "model": "heartbound:block/magical_pumpkin",
+      "model": "mate:block/magical_pumpkin",
       "y": 90
     },
     "facing=north": {
-      "model": "heartbound:block/magical_pumpkin"
+      "model": "mate:block/magical_pumpkin"
     },
     "facing=south": {
-      "model": "heartbound:block/magical_pumpkin",
+      "model": "mate:block/magical_pumpkin",
       "y": 180
     },
     "facing=west": {
-      "model": "heartbound:block/magical_pumpkin",
+      "model": "mate:block/magical_pumpkin",
       "y": 270
     }
   }

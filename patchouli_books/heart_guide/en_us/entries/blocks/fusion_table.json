@@ -1,7 +1,7 @@
 {
   "name": "Fusion Table",
-  "icon": "heartbound:fusion_table",
-  "category": "heartbound:blocks",
+  "icon": "mate:fusion_table",
+  "category": "mate:blocks",
   "pages": [
     {
       "type": "patchouli:text",
@@ -13,7 +13,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "heartbound:fusion_table",
+      "recipe": "mate:fusion_table",
       "text": "Craft the Fusion Table using blaze powder, diamonds, ender pearls, and iron ingots in this specific pattern."
     }
   ]
