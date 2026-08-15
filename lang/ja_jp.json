@@ -11,14 +11,9 @@
 
   "item.heartbound.coppie_spawn_egg": "コッピーのスポーンエッグ",
   "item.heartbound.aly_spawn_egg": "アリーのスポーンエッグ",
-  "item.heartbound.zoey_spawn_egg": "ゾーイのスポーンエッグ",
-  "item.heartbound.sarah_spawn_egg": "サラのスポーンエッグ",
 
   "item.heartbound.custom_girl_spawn_egg": "カスタムガールのスポーンエッグ",
   "item.heartbound.custom_girl_spawn_egg.named": "%sのスポーンエッグ",
-  "item.heartbound.custom_girl_spawn_egg.unspecified": "未選択ガールのスポーンエッグ",
-  "item.heartbound.custom_girl_spawn_egg.choose_first": "空中で右クリックして、どのガールにするか選択してください。",
-  "gui.heartbound.choose_girl_profile.title": "ガールを選んでください",
 
   "item.heartbound.love_ball": "ラブボール",
   "item.heartbound.love_ball.filled": "ラブボール（捕獲済み）",
@@ -52,50 +47,11 @@
   "item.heartbound.master_ring.released": "%sをマスターリングから解放しました",
   "item.heartbound.master_ring.invalid_data": "解放に失敗しました - データが無効です！",
   "item.heartbound.master_ring.spawn_failed": "ガールのスポーンに失敗しました！",
-  "item.heartbound.master_ring.boss_active": "この指輪は堕ちた悪魔を縛れない――ガラスコインを試せ。",
-
-  "item.heartbound.gallath_coin": "ガラスコイン",
-  "item.heartbound.gallath_coin.filled": "ガラスコイン（封印済み）",
-  "item.heartbound.gallath_coin.empty": "このガラスコインは空です！",
-  "item.heartbound.gallath_coin.released": "ガラスをコインから解放しました",
-  "item.heartbound.gallath_coin.spawn_failed": "ガラスの解放に失敗しました！",
-  "item.heartbound.gallath_coin.already_contains": "このコインには既にガラスが封じられています！",
-  "item.heartbound.gallath_coin.stored": "ガラスをコインに封印しました",
-  "item.heartbound.gallath_coin.boss_active": "今は危険すぎて封印できない！",
-  "item.heartbound.gallath_coin.invalid_data": "このコインには本来ないものが入っている。",
-  "item.heartbound.gallath_coin.coin_only": "彼女を封じられるのはガラスコインだけ――指輪では魂を保てない。",
-  "item.heartbound.gallath_coin.tooltip.girl": "封印中: %s",
-  "item.heartbound.gallath_coin.tooltip.owner": "オーナー: %s",
 
   "item.heartbound.heart_guide": "ハートガイド",
   "item.heartbound.heart_guide.tooltip.edition": "初版",
 
   "item.heartbound.x_pill": "X-ピル",
-  "item.heartbound.h_phone": "Hフォン",
-  "item.heartbound.h_phone.tooltip": "場所を見つけるためのスマートデバイス",
-  "screen.heartbound.phone.home_finder": "ホームファインダー",
-  "screen.heartbound.phone.searching": "検索中...",
-  "screen.heartbound.phone.not_found": "近くに見つかりません",
-  "screen.heartbound.phone.found": "発見: %d, %d",
-  "screen.heartbound.phone.jenny_house": "ジェニーの家",
-  "screen.heartbound.phone.ellie_house": "エリーの家",
-  "screen.heartbound.phone.bia_house": "ビアの家",
-  "screen.heartbound.phone.sandguard": "砂のガード",
-  "screen.heartbound.phone.stoneguard": "石のガード",
-  "msg.heartbound.structure_found": "[Hフォン] %sを発見: %d, %d",
-  "msg.heartbound.structure_not_found": "[Hフォン] %sは近くに見つかりません",
-  "screen.heartbound.phone.directory": "ディレクトリ",
-  "screen.heartbound.phone.call": "呼ぶ",
-  "screen.heartbound.phone.no_girls": "ガールが見つかりません",
-  "msg.heartbound.girl_called": "[Hフォン] %sが向かっています！",
-  "msg.heartbound.girl_not_found": "[Hフォン] 近くにガールが見つかりません",
-  "screen.heartbound.phone.call_all": "全員呼ぶ",
-  "msg.heartbound.girls_called_all": "[Hフォン] %d人のガールを呼びました！",
-  "screen.heartbound.phone.in_ball": "ボール内",
-  "screen.heartbound.phone.heart_container": "ハートコンテナ",
-  "screen.heartbound.phone.store_all": "全て収納",
-  "screen.heartbound.phone.your_items": "あなたのアイテム",
-  "screen.heartbound.phone.no_items": "アイテムなし",
   "gui.heartbound.girl_selection": "変身先...",
 
   "block.heartbound.fusion_table": "フュージョンテーブル",
@@ -116,24 +72,6 @@
   "entity.heartbound.kobold": "コボルド",
 
   "entity.heartbound.aly": "アリー",
-
-  "entity.heartbound.zoey": "ゾーイ",
-
-  "entity.heartbound.sarah": "サラ",
-
-  "entity.heartbound.gallath": "ガラス",
-
-  "entity.heartbound.tamed_gallath": "ガラス",
-
-  "msg.heartbound.gallath.gift.like.1": "ふむ。許容範囲だ。",
-  "msg.heartbound.gallath.gift.like.2": "小物で私の機嫌を取れると思っているのか？…まあ、続けるがよい。",
-  "msg.heartbound.gallath.gift.like.3": "人間どもは普段もっと粗末な物を捧げる。これは認めてやろう。",
-  "msg.heartbound.gallath.gift.love.1": "甘やかすな。…嫌いではない、と言っておこう。",
-  "msg.heartbound.gallath.gift.love.2": "ちっ――堕ちた悪魔の心を解く術を、よく心得ているな。",
-  "msg.heartbound.gallath.gift.love.3": "私がこんな笑みを見せるのを、当たり前と思うなよ。",
-
-  "scene.heartbound.gallath_grab": "強制グラブ",
-  "scene.heartbound.gallath_corrupt": "堕落",
 
   "entity.heartbound.custom_girl": "カスタムガール",
 
@@ -166,30 +104,6 @@
   "gui.heartbound.button.stopMining": "採掘を止める",
   "gui.heartbound.button.strip": "脱がす",
   "gui.heartbound.button.dressUp": "着せる",
-  "gui.heartbound.button.hideArmor": "防具を隠す",
-  "gui.heartbound.button.showArmor": "防具を表示",
-  "msg.heartbound.gallath.ritual.begun": "炎が揺らめく…",
-  "msg.heartbound.gallath.ritual.invalid": "祭壇の紋様が不完全だ。",
-  "msg.heartbound.gallath.dialog.summoned.1": "誰だ、私を奈落から引き出したのは？",
-  "msg.heartbound.gallath.dialog.summoned.2": "人間の肉体か…珍妙だな。",
-  "msg.heartbound.gallath.dialog.summoned.3": "私を呼んだか？ならば挑むがよい。",
-  "msg.heartbound.gallath.dialog.summon_minions.1": "起き上がれ、私の子らよ～",
-  "msg.heartbound.gallath.dialog.summon_minions.2": "引き裂け。",
-  "msg.heartbound.gallath.dialog.phase2.1": "私の注意を引いたな、人間。",
-  "msg.heartbound.gallath.dialog.phase2.2": "ふん。戦えるじゃないか。",
-  "msg.heartbound.gallath.dialog.phase3.1": "ならば共に焼かれよ！",
-  "msg.heartbound.gallath.dialog.phase3.2": "もう遊びは終わりだ…",
-  "msg.heartbound.gallath.dialog.fireball.1": "燃えろ！",
-  "msg.heartbound.gallath.dialog.fireball.2": "受け取れ～",
-  "msg.heartbound.gallath.dialog.knocked_out.1": "ぐっ…まだ…",
-  "msg.heartbound.gallath.dialog.knocked_out.2": "…これは…終わりじゃ…ない…",
-  "msg.heartbound.gallath.dialog.stand_up.1": "後悔させてやろう。",
-  "msg.heartbound.gallath.dialog.stand_up.2": "まだ準備運動だぞ～",
-  "msg.heartbound.gallath.dialog.coin_reward": "ふふ、お前は資格を示した。私はもうお前のものだ、これを受け取れ～",
-  "msg.heartbound.gallath.dialog.sacrifice.1": "許せ、わが子よ～",
-  "msg.heartbound.gallath.dialog.sacrifice.2": "お前の魂が私を満たすだろう。",
-  "advancements.heartbound.succubus_queen.title": "我が支配下のサキュバスの女王",
-  "advancements.heartbound.succubus_queen.description": "堕落シーンで堕ちた悪魔ガラスを手なずける。",
   "gui.heartbound.button.sex": "エッチ",
   "gui.heartbound.button.select": "選択",
   "gui.heartbound.button.confirm": "確認",
@@ -206,12 +120,9 @@
 
   "gui.heartbound.customizeGirl": "ガールのカスタマイズ",
   "gui.heartbound.customizeKobold": "コボルドのカスタマイズ",
-  "gui.heartbound.customizePlayer": "プレイヤーのカスタマイズ",
 
   "gui.heartbound.customize.breastSize": "胸のサイズ",
   "gui.heartbound.customize.breastOffset": "胸のオフセット",
-  "gui.heartbound.customize.playerBreastSize": "胸のサイズ",
-  "gui.heartbound.customize.playerBreastOffset": "胸のオフセット",
   "gui.heartbound.customize.bodySize": "体のサイズ",
   "gui.heartbound.customize.bodySize.tooltip": "サイズは当たり判定の高さに影響します\n65 = 1ブロック、115 = 1.75ブロック",
   "gui.heartbound.customize.breastSize.tooltip": "胸のサイズを調整（60-160）",
@@ -235,8 +146,6 @@
   "scene.heartbound.sideFuck": "側位",
   "scene.heartbound.proneDown": "寝バック",
   "scene.heartbound.kneeling": "跪位",
-  "scene.heartbound.cunnilingus": "クンニ",
-  "scene.heartbound.nursing_handjob": "授乳手コキ",
 
   "jei.heartbound.fusion": "フュージョンレシピ",
 
@@ -260,24 +169,8 @@
 
   "msg.heartbound.gift.like.1": "いいね",
   "msg.heartbound.gift.like.2": "ありがとう",
-  "msg.heartbound.gift.like.3": "嬉しい",
   "msg.heartbound.gift.love.1": "あら、ありがとう",
   "msg.heartbound.gift.love.2": "大好き～_^",
-  "msg.heartbound.gift.love.3": "優しすぎるよ",
-
-  "msg.heartbound.sarah.gift.like.1": "カカオ豆？どこで見つけたの？",
-  "msg.heartbound.sarah.gift.like.2": "ああ、ありがとう――コレクションに加えようと思ってたんだ。",
-  "msg.heartbound.sarah.gift.like.3": "可愛いね。ちゃんと覚えていてくれたんだ。",
-  "msg.heartbound.sarah.gift.love.1": "本当によく見てくれてるね～",
-  "msg.heartbound.sarah.gift.love.2": "ふふ、その調子なら何かもらえるかもよ。",
-  "msg.heartbound.sarah.gift.love.3": "これを持って来る時の笑顔、ちゃんと見てたよ。",
-
-  "msg.heartbound.zoey.gift.like.1": "わぁ、私に？嬉しい！",
-  "msg.heartbound.zoey.gift.like.2": "気が利くね！",
-  "msg.heartbound.zoey.gift.like.3": "ゾーイはプレゼント大好き！",
-  "msg.heartbound.zoey.gift.love.1": "甘やかすの止めて…大好き！",
-  "msg.heartbound.zoey.gift.love.2": "また？女の子の扱いをよく分かってるね～",
-  "msg.heartbound.zoey.gift.love.3": "ゾーイ、心まで温かくなっちゃう…",
 
   "msg.heartbound.jenny.gift.like.1": "わぁ、私に？ありがとう！",
   "msg.heartbound.jenny.gift.like.2": "アリウム？嬉しい…！",
@@ -332,8 +225,6 @@
   "msg.heartbound.scene.ellie.cowgirlcumMSG4": "いい子...えぇ...ふふ～",
 
   "msg.heartbound.scene.bia.sitdownMSG1": "こっちにおいで～",
-
-  "msg.heartbound.scene.zoey.sitdownMSG1": "おいで～可愛い人～",
 
   "msg.heartbound.canGoInToFreeCam": "フリーカメラモードに入るにはF4を押してください",
 
@@ -421,30 +312,6 @@
 
   "subtitles.bia.mmm": "んん",
 
-  "subtitles.zoey.ahh": "あぁ",
-
-  "subtitles.zoey.bjmoan": "フェラの喘ぎ",
-
-  "subtitles.zoey.moan": "喘ぎ",
-
-  "subtitles.zoey.lightbreathing": "軽い息",
-
-  "subtitles.zoey.giggle": "くすくす",
-
-  "subtitles.zoey.hey": "ねぇ",
-
-  "subtitles.zoey.happyoh": "嬉しいあぁ",
-
-  "subtitles.zoey.sadoh": "悲しいあぁ",
-
-  "subtitles.zoey.sigh": "ため息",
-
-  "subtitles.zoey.huh": "えっ",
-
-  "subtitles.zoey.hmph": "ふんっ",
-
-  "subtitles.zoey.mmm": "んん",
-
   "subtitles.ellie.aftersessionmoan": "事後の喘ぎ",
 
   "subtitles.ellie.ahh": "あぁ",
@@ -519,14 +386,6 @@
   "text.autoconfig.heartbound.option.girls.disableShading.@Tooltip": "ガールのシェーディング/影を無効にしてフラットライティングにします",
 
   "text.autoconfig.heartbound.option.player": "プレイヤー",
-
-  "text.autoconfig.heartbound.option.player.renderFirstPersonBody": "一人称で体を表示",
-
-  "text.autoconfig.heartbound.option.player.renderFirstPersonBody.@Tooltip": "一人称視点で変身したガールの体を表示します（頭は非表示のまま）",
-
-  "text.autoconfig.heartbound.option.player.renderPenis": "ペニスを表示",
-
-  "text.autoconfig.heartbound.option.player.renderPenis.@Tooltip": "シーン中にプレイヤーモデルにペニスを表示するかどうか切り替え",
 
   "text.autoconfig.heartbound.option.player.penisShaftColor": "ペニスの竿の色",
 
@@ -709,36 +568,5 @@
   "advancements.heartbound.capture_love_ball.title": "僕と一緒に行こう",
   "advancements.heartbound.capture_love_ball.description": "ラブボールでガールを捕獲する",
   "advancements.heartbound.capture_master_ring.title": "今度は逃がさないぞ",
-  "advancements.heartbound.capture_master_ring.description": "マスターリングでガールを捕獲する",
-
-  "subtitles.sarah.aftersessionmoan": "事後の喘ぎ",
-  "subtitles.sarah.ahh": "あぁ",
-  "subtitles.sarah.bjmoan": "フェラの喘ぎ",
-  "subtitles.sarah.cometomommy": "ママのところにおいで",
-  "subtitles.sarah.giggle": "くすくす",
-  "subtitles.sarah.goodboy": "いい子",
-  "subtitles.sarah.happyoh": "嬉しいあぁ",
-  "subtitles.sarah.heavybreathing": "荒い息",
-  "subtitles.sarah.hmph": "ふんっ",
-  "subtitles.sarah.huh": "えっ",
-  "subtitles.sarah.lightbreathing": "軽い息",
-  "subtitles.sarah.lipsound": "リップ音",
-  "subtitles.sarah.mmm": "んん",
-  "subtitles.sarah.moan": "喘ぎ",
-  "subtitles.sarah.mommyhorny": "ママ発情中",
-  "subtitles.sarah.sadoh": "悲しいあぁ",
-  "subtitles.sarah.sigh": "ため息",
-
-  "subtitles.gallath.aaa": "戦闘の叫び",
-  "subtitles.gallath.ahh": "あぁ",
-  "subtitles.gallath.breathing": "呼吸",
-  "subtitles.gallath.dialog": "セリフ",
-  "subtitles.gallath.giggle": "くすくす",
-  "subtitles.gallath.hmph": "ふんっ",
-  "subtitles.gallath.huh": "えっ",
-  "subtitles.gallath.lightcharge": "軽いチャージ",
-  "subtitles.gallath.moan": "喘ぎ",
-  "subtitles.gallath.orgasm": "オーガズム",
-  "subtitles.gallath.strongcharge": "強いチャージ",
-  "subtitles.gallath.uuh": "うぅ"
+  "advancements.heartbound.capture_master_ring.description": "マスターリングでガールを捕獲する"
 }
