@@ -6059,6 +6059,10 @@
 						"2.84": [0, 0, -2],
 						"6.24": [0, 0, 0]
 					}
+				},
+				"body": {
+					"rotation": [0, 0, 0],
+					"position": [0, 0, 0]
 				}
 			}
 		},
@@ -18010,7 +18014,8 @@
 			"animation_length": 1.4583,
 			"bones": {
 				"body": {
-					"rotation": [90, 0, 0]
+					"rotation": [90, 0, 0],
+					"position": [0, 0, 19]
 				},
 				"legL": {
 					"rotation": {
@@ -18116,7 +18121,8 @@
 			"animation_length": 2.9583,
 			"bones": {
 				"body": {
-					"rotation": [90, 0, 0]
+					"rotation": [90, 0, 0],
+					"position": [0, 0, 19]
 				},
 				"legL": {
 					"rotation": {
