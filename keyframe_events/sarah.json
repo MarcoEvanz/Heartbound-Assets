@@ -1,0 +1,119 @@
+{
+  "girl_id": "sarah",
+  "events": [
+    {
+      "key": "stripMSG1",
+      "random_sounds": [
+        "heartbound:sarah.giggle"
+      ]
+    },
+    {
+      "key": "lipsound",
+      "sounds": [
+        "heartbound:sarah.lipsound"
+      ]
+    },
+    {
+      "key": "cum",
+      "sounds": [
+        "heartbound:misc.inserts",
+        "heartbound:sarah.lipsound"
+      ]
+    },
+    {
+      "key": "attackSound",
+      "sounds": [
+        "heartbound:misc.slap"
+      ]
+    },
+    {
+      "key": "carry_introMSG1",
+      "sounds": [
+        "heartbound:sarah.hmph"
+      ]
+    },
+    {
+      "key": "carry_introMSG2",
+      "sounds": [
+        "heartbound:sarah.giggle"
+      ]
+    },
+    {
+      "key": "sitdownMSG1",
+      "sounds": [
+        "heartbound:sarah.cometomommy"
+      ]
+    },
+    {
+      "key": "cowgirlStartMSG0",
+      "sounds": [
+        "heartbound:sarah.giggle"
+      ]
+    },
+    {
+      "key": "cowgirlStartMSG2",
+      "sounds": [
+        "heartbound:misc.pounding"
+      ],
+      "random_sounds": [
+        "heartbound:sarah.ahh",
+        "heartbound:sarah.moan"
+      ]
+    },
+    {
+      "key": "cowgirlfastMSG1",
+      "sounds": [
+        "heartbound:misc.pounding"
+      ],
+      "random_sounds": [
+        "heartbound:sarah.ahh",
+        "heartbound:sarah.moan"
+      ]
+    },
+    {
+      "key": "cowgirlfastReady",
+      "random_sounds": [
+        "heartbound:sarah.heavybreathing",
+        "heartbound:sarah.lightbreathing"
+      ]
+    },
+    {
+      "key": "cowgirlcumMSG1",
+      "sounds": [
+        "heartbound:misc.pounding",
+        "heartbound:sarah.ahh"
+      ]
+    },
+    {
+      "key": "cowgirlcumMSG2",
+      "sounds": [
+        "heartbound:misc.pounding",
+        "heartbound:sarah.moan"
+      ]
+    },
+    {
+      "key": "cowgirlcumMSG3",
+      "sounds": [
+        "heartbound:misc.pounding"
+      ]
+    },
+    {
+      "key": "cowgirlcumMSG4",
+      "sounds": [
+        "heartbound:sarah.goodboy"
+      ]
+    },
+    {
+      "key": "cowgirlcumMSG5",
+      "sounds": [
+        "heartbound:sarah.aftersessionmoan"
+      ]
+    },
+    {
+      "key": "cowgirlcumMSG6",
+      "sounds": [
+        "heartbound:sarah.sigh"
+      ]
+    }
+  ]
+}

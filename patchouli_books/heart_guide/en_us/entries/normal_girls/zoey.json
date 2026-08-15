@@ -1,0 +1,31 @@
+{
+  "name": "Zoey",
+  "icon": "heartbound:zoey_spawn_egg",
+  "category": "heartbound:normal_girls",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Zoey is a sweet and cheerful girl with a love for life. She's always ready for an adventure and loves spending time with her friends.$(br2)She has a warm personality and a light pink aesthetic."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "heartbound:zoey",
+      "scale": 0.8,
+      "offset": 0.3,
+      "rotate": false,
+      "default_rotation": 0,
+      "name": "Zoey",
+      "text": "Zoey, the sweet adventurer!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "heartbound:zoey_spawn_egg",
+      "title": "Zoey Spawn Egg",
+      "text": "Craft with an X-Pill, pink wool, and an egg."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(o)Tame Item$()$(br)Zoey loves $(#fa8072)Salmon$(). It's her favorite treat!$(br2)$(o)Scenes$()$(br)Coming soon!"
+    }
+  ]
+}

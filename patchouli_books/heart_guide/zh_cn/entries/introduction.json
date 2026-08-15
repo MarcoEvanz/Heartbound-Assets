@@ -1,0 +1,15 @@
+{
+  "name": "女孩介绍",
+  "icon": "minecraft:player_head",
+  "category": "heartbound:girls",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "欢迎来到乐趣百科！本书包含了关于你在 Heartbound 世界中可以找到的所有美丽女孩的信息。$(br2)女孩是可以被捕获、驯服和照顾的特殊实体。每个女孩都有自己的性格、能力和故事。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "女孩分为三个主要类别：$(br2)$(l:normal_girls)普通女孩$(/l) - 在女孩村庄中自然生成的友好女孩。$(br)$(l:wild_girls)野生女孩$(/l) - 可以在野外找到的狂野女孩。$(br)$(l:custom_girls)自定义女孩$(/l) - 通过JSON配置加载的特殊女孩。$(br2)使用主人之戒来捕获和驯服女孩！"
+    }
+  ]
+}

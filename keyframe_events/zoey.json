@@ -1,0 +1,104 @@
+{
+  "girl_id": "zoey",
+  "events": [
+    {
+      "key": "stripMSG1",
+      "random_sounds": [
+        "heartbound:zoey.giggle"
+      ]
+    },
+    {
+      "key": "sitdownMSG1",
+      "sounds": [
+        "heartbound:zoey.breath"
+      ],
+      "messages": [
+        "msg.heartbound.scene.zoey.sitdownMSG1"
+      ]
+    },
+    {
+      "key": "slide",
+      "sounds": [
+        "heartbound:misc.slide"
+      ]
+    },
+    {
+      "key": "pound",
+      "sounds": [
+        "heartbound:misc.pounding"
+      ]
+    },
+    {
+      "key": "doggyMoan",
+      "random_sounds": [
+        "heartbound:zoey.ahh",
+        "heartbound:zoey.mmm"
+      ]
+    },
+    {
+      "key": "cum",
+      "sounds": [
+        "heartbound:misc.inserts"
+      ]
+    },
+    {
+      "key": "orgasm1",
+      "sounds": [
+        "heartbound:zoey.mmm"
+      ]
+    },
+    {
+      "key": "orgasm2",
+      "sounds": [
+        "heartbound:zoey.mmm"
+      ]
+    },
+    {
+      "key": "anal_prepareMSG1",
+      "sounds": [
+        "heartbound:misc.plob"
+      ]
+    },
+    {
+      "key": "anal_prepareMSG2",
+      "sounds": [
+        "heartbound:misc.bedrustle"
+      ]
+    },
+    {
+      "key": "anal_startMSG1",
+      "sounds": [
+        "heartbound:zoey.ahh"
+      ]
+    },
+    {
+      "key": "anal_startMSG2",
+      "sounds": [
+        "heartbound:misc.pounding"
+      ],
+      "random_sounds": [
+        "heartbound:zoey.mmm"
+      ]
+    },
+    {
+      "key": "anal_slowMSG1",
+      "sounds": [
+        "heartbound:zoey.ahh",
+        "heartbound:misc.pounding"
+      ]
+    },
+    {
+      "key": "anal_fastMSG1",
+      "sounds": [
+        "heartbound:zoey.ahh",
+        "heartbound:misc.pounding"
+      ]
+    },
+    {
+      "key": "anal_cumMSG2",
+      "sounds": [
+        "heartbound:zoey.ahh"
+      ]
+    }
+  ]
+}

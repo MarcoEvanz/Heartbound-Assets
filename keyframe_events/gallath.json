@@ -1,0 +1,105 @@
+{
+  "girl_id": "gallath",
+  "events": [
+    {
+      "key": "pound_thrust",
+      "sounds": [
+        "heartbound:misc.pounding"
+      ]
+    },
+    {
+      "key": "poundRape_thrust",
+      "sounds": [
+        "heartbound:misc.pounding"
+      ]
+    },
+    {
+      "key": "switchmoan",
+      "random_sounds": [
+        "heartbound:gallath.moan",
+        "heartbound:gallath.ahh",
+        "heartbound:gallath.uuh"
+      ]
+    },
+    {
+      "key": "cum",
+      "sounds": [
+        "heartbound:misc.inserts",
+        "heartbound:gallath.orgasm"
+      ]
+    },
+    {
+      "key": "giggle",
+      "sounds": [
+        "heartbound:gallath.giggle"
+      ]
+    },
+    {
+      "key": "flap",
+      "sounds": [
+        "heartbound:misc.flap"
+      ]
+    },
+    {
+      "key": "dialog1",
+      "sounds": [
+        "heartbound:gallath.dialog"
+      ]
+    },
+    {
+      "key": "rapeHurt",
+      "sounds": [
+        "heartbound:gallath.hmph"
+      ]
+    },
+    {
+      "key": "summontaunt",
+      "random_messages": [
+        "msg.heartbound.gallath.dialog.summoned.1",
+        "msg.heartbound.gallath.dialog.summoned.2",
+        "msg.heartbound.gallath.dialog.summoned.3"
+      ]
+    },
+    {
+      "key": "fireballtaunt",
+      "random_messages": [
+        "msg.heartbound.gallath.dialog.fireball.1",
+        "msg.heartbound.gallath.dialog.fireball.2"
+      ]
+    },
+    {
+      "key": "miniontaunt",
+      "random_messages": [
+        "msg.heartbound.gallath.dialog.summon_minions.1",
+        "msg.heartbound.gallath.dialog.summon_minions.2"
+      ]
+    },
+    {
+      "key": "knockouttaunt",
+      "random_messages": [
+        "msg.heartbound.gallath.dialog.knocked_out.1",
+        "msg.heartbound.gallath.dialog.knocked_out.2"
+      ]
+    },
+    {
+      "key": "standuptaunt",
+      "random_messages": [
+        "msg.heartbound.gallath.dialog.stand_up.1",
+        "msg.heartbound.gallath.dialog.stand_up.2"
+      ]
+    },
+    {
+      "key": "cointaunt",
+      "messages": [
+        "msg.heartbound.gallath.dialog.coin_reward"
+      ]
+    },
+    {
+      "key": "sacrificetaunt",
+      "random_messages": [
+        "msg.heartbound.gallath.dialog.sacrifice.1",
+        "msg.heartbound.gallath.dialog.sacrifice.2"
+      ]
+    }
+  ]
+}

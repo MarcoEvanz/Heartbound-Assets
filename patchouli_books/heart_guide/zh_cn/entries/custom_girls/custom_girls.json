@@ -1,0 +1,15 @@
+{
+  "name": "自定义女孩",
+  "icon": "minecraft:knowledge_book",
+  "category": "heartbound:custom_girls",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "自定义女孩是可以通过JSON配置和资源包添加的特殊女孩。她们允许完全自定义的外观、行为和互动。$(br2)这些女孩从$(o)girls.json$()文件加载，可以拥有独特的模型、材质、音效和场景配置。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(o)生成方式：$()$(br)合成$(item)自定义女孩刷怪蛋$()，然后在$(item)融合台$()中使用两个相同的驯服物品进行融合，制作专属刷怪蛋。右键使用即可生成女孩。$(br2)$(o)自定义女孩安装：$()$(br)- 将$(o)（女孩名称）.json$()文件安装到$(o)\\config\\Heartbound\\girls\\$()$(br)- 安装并启用资源包$(br2)$(o)驯服物品$() - 每个女孩可配置$(br)$(o)场景$() - 完全自定义"
+    }
+  ]
+}
