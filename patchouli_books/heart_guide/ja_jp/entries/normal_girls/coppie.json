@@ -1,7 +1,7 @@
 {
   "name": "コッピー",
   "icon": "minecraft:copper_ingot",
-  "category": "heartbound:normal_girls",
+  "category": "mate:normal_girls",
   "pages": [
     {
       "type": "patchouli:text",
@@ -9,7 +9,7 @@
     },
     {
       "type": "patchouli:entity",
-      "entity": "heartbound:coppie",
+      "entity": "mate:coppie",
       "scale": 0.8,
       "offset": 0.3,
       "rotate": false,

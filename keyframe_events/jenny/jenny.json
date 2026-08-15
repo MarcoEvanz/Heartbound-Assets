@@ -4,592 +4,592 @@
     {
       "key": "stripMSG1",
       "random_sounds": [
-        "heartbound:jenny.giggle"
+        "mate:jenny.giggle"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.stripMSG1"
+        "msg.mate.scene.jenny.stripMSG1"
       ]
     },
     {
       "key": "paizuriStartMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ]
     },
     {
       "key": "paizuriSlowMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ]
     },
     {
       "key": "paizuriFastMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:jenny.ahh",
-        "heartbound:jenny.mmm"
+        "mate:jenny.ahh",
+        "mate:jenny.mmm"
       ]
     },
     {
       "key": "bjiMSG1",
       "sounds": [
-        "heartbound:jenny.mmm"
+        "mate:jenny.mmm"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.bjiMSG1"
+        "msg.mate.scene.jenny.bjiMSG1"
       ]
     },
     {
       "key": "bjiMSG2",
       "sounds": [
-        "heartbound:jenny.lightbreathing"
+        "mate:jenny.lightbreathing"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.bjiMSG2"
+        "msg.mate.scene.jenny.bjiMSG2"
       ]
     },
     {
       "key": "bjiMSG3",
       "sounds": [
-        "heartbound:jenny.aftersessionmoan"
+        "mate:jenny.aftersessionmoan"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.bjiMSG3"
+        "msg.mate.scene.jenny.bjiMSG3"
       ]
     },
     {
       "key": "bjiMSG4",
       "sounds": [
-        "heartbound:misc.belljingle"
+        "mate:misc.belljingle"
       ]
     },
     {
       "key": "bjiMSG5",
       "sounds": [
-        "heartbound:jenny.hmph"
+        "mate:jenny.hmph"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.bjiMSG5"
+        "msg.mate.scene.jenny.bjiMSG5"
       ]
     },
     {
       "key": "bjiMSG6",
       "sounds": [
-        "heartbound:jenny.lightbreathing"
+        "mate:jenny.lightbreathing"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.bjiMSG6"
+        "msg.mate.scene.jenny.bjiMSG6"
       ]
     },
     {
       "key": "bjiMSG7",
       "sounds": [
-        "heartbound:jenny.giggle"
+        "mate:jenny.giggle"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.bjiMSG7"
+        "msg.mate.scene.jenny.bjiMSG7"
       ]
     },
     {
       "key": "bjiMSG8",
       "sounds": [
-        "heartbound:misc.plob"
+        "mate:misc.plob"
       ],
       "player_messages": [
-        "msg.heartbound.scene.player.bjiMSG8"
+        "msg.mate.scene.player.bjiMSG8"
       ]
     },
     {
       "key": "bjiMSG9",
       "sounds": [
-        "heartbound:jenny.giggle"
+        "mate:jenny.giggle"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.bjiMSG9"
+        "msg.mate.scene.jenny.bjiMSG9"
       ]
     },
     {
       "key": "bjiMSG11",
       "random_sounds": [
-        "heartbound:jenny.lipsound",
-        "heartbound:jenny.bjmoan"
+        "mate:jenny.lipsound",
+        "mate:jenny.bjmoan"
       ]
     },
     {
       "key": "bjiMSG12",
       "sounds": [
-        "heartbound:jenny.lipsound"
+        "mate:jenny.lipsound"
       ]
     },
     {
       "key": "bjtMSG1",
       "sounds": [
-        "heartbound:jenny.mmm",
-        "heartbound:jenny.lipsound"
+        "mate:jenny.mmm",
+        "mate:jenny.lipsound"
       ]
     },
     {
       "key": "bjcMSG1",
       "sounds": [
-        "heartbound:jenny.bjmoan"
+        "mate:jenny.bjmoan"
       ]
     },
     {
       "key": "bjcMSG2",
       "sounds": [
-        "heartbound:jenny.bjmoan"
+        "mate:jenny.bjmoan"
       ]
     },
     {
       "key": "bjcMSG3",
       "sounds": [
-        "heartbound:jenny.aftersessionmoan"
+        "mate:jenny.aftersessionmoan"
       ]
     },
     {
       "key": "bjcMSG4",
       "sounds": [
-        "heartbound:jenny.lightbreathing"
+        "mate:jenny.lightbreathing"
       ]
     },
     {
       "key": "bjcMSG5",
       "sounds": [
-        "heartbound:jenny.lightbreathing"
+        "mate:jenny.lightbreathing"
       ]
     },
     {
       "key": "bjcMSG6",
       "sounds": [
-        "heartbound:jenny.lightbreathing"
+        "mate:jenny.lightbreathing"
       ]
     },
     {
       "key": "doggyLayOnBedMSG1",
       "sounds": [
-        "heartbound:misc.bedrustle"
+        "mate:misc.bedrustle"
       ]
     },
     {
       "key": "doggyLayOnBedMSG2",
       "sounds": [
-        "heartbound:jenny.lightbreathing"
+        "mate:jenny.lightbreathing"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.doggyLayOnBedMSG2"
+        "msg.mate.scene.jenny.doggyLayOnBedMSG2"
       ]
     },
     {
       "key": "doggyLayOnBedMSG3",
       "sounds": [
-        "heartbound:jenny.giggle"
+        "mate:jenny.giggle"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.doggyLayOnBedMSG3"
+        "msg.mate.scene.jenny.doggyLayOnBedMSG3"
       ]
     },
     {
       "key": "doggyLayOnBedMSG4",
       "sounds": [
-        "heartbound:misc.slap"
+        "mate:misc.slap"
       ]
     },
     {
       "key": "doggyintroMSG1",
       "sounds": [
-        "heartbound:misc.touch"
+        "mate:misc.touch"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.doggyintroMSG1"
+        "msg.mate.scene.jenny.doggyintroMSG1"
       ]
     },
     {
       "key": "doggyintroMSG2",
       "sounds": [
-        "heartbound:misc.touch"
+        "mate:misc.touch"
       ]
     },
     {
       "key": "doggyintroMSG3",
       "sounds": [
-        "heartbound:misc.bedrustle"
+        "mate:misc.bedrustle"
       ]
     },
     {
       "key": "doggyintroMSG4",
       "sounds": [
-        "heartbound:misc.smallinserts",
-        "heartbound:jenny.mmm"
+        "mate:misc.smallinserts",
+        "mate:jenny.mmm"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.doggyintroMSG4"
+        "msg.mate.scene.jenny.doggyintroMSG4"
       ]
     },
     {
       "key": "doggyintroMSG5",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:jenny.moan"
+        "mate:misc.pounding",
+        "mate:jenny.moan"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.doggyintroMSG5"
+        "msg.mate.scene.jenny.doggyintroMSG5"
       ]
     },
     {
       "key": "doggyslowMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:jenny.moan",
-        "heartbound:jenny.heavybreathing",
-        "heartbound:jenny.mmm"
+        "mate:jenny.moan",
+        "mate:jenny.heavybreathing",
+        "mate:jenny.mmm"
       ]
     },
     {
       "key": "doggyslowMSG2",
       "sounds": [
-        "heartbound:jenny.lightbreathing"
+        "mate:jenny.lightbreathing"
       ]
     },
     {
       "key": "doggyfastMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:jenny.moan",
-        "heartbound:jenny.heavybreathing",
-        "heartbound:jenny.ahh"
+        "mate:jenny.moan",
+        "mate:jenny.heavybreathing",
+        "mate:jenny.ahh"
       ]
     },
     {
       "key": "doggycumMSG1",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:misc.cuminflation",
-        "heartbound:jenny.moan"
+        "mate:misc.pounding",
+        "mate:misc.cuminflation",
+        "mate:jenny.moan"
       ],
       "messages": [
-        "msg.heartbound.scene.jenny.doggycumMSG1"
+        "msg.mate.scene.jenny.doggycumMSG1"
       ]
     },
     {
       "key": "doggycumMSG2",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "doggycumMSG3",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "doggycumMSG4",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "doggycumMSG5",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "sidefuckIntroMSG1",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:jenny.lightbreathing"
+        "mate:misc.pounding",
+        "mate:jenny.lightbreathing"
       ]
     },
     {
       "key": "sidefuckSlowMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:jenny.moan",
-        "heartbound:jenny.heavybreathing",
-        "heartbound:jenny.mmm"
+        "mate:jenny.moan",
+        "mate:jenny.heavybreathing",
+        "mate:jenny.mmm"
       ]
     },
     {
       "key": "sidefuckFastMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:jenny.moan",
-        "heartbound:jenny.heavybreathing",
-        "heartbound:jenny.ahh"
+        "mate:jenny.moan",
+        "mate:jenny.heavybreathing",
+        "mate:jenny.ahh"
       ]
     },
     {
       "key": "sidefuckCumMSG1",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:misc.cuminflation",
-        "heartbound:jenny.moan"
+        "mate:misc.pounding",
+        "mate:misc.cuminflation",
+        "mate:jenny.moan"
       ]
     },
     {
       "key": "sidefuckCumMSG2",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "sidefuckCumMSG3",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "sidefuckCumMSG4",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "sidefuckCumMSG5",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "proneboneIntroMSG1",
       "sounds": [
-        "heartbound:misc.slide"
+        "mate:misc.slide"
       ]
     },
     {
       "key": "proneboneIntroMSG2",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:jenny.lightbreathing"
+        "mate:misc.pounding",
+        "mate:jenny.lightbreathing"
       ]
     },
     {
       "key": "proneboneSlowMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:jenny.moan",
-        "heartbound:jenny.heavybreathing",
-        "heartbound:jenny.mmm"
+        "mate:jenny.moan",
+        "mate:jenny.heavybreathing",
+        "mate:jenny.mmm"
       ]
     },
     {
       "key": "proneboneFastMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:jenny.moan",
-        "heartbound:jenny.heavybreathing",
-        "heartbound:jenny.ahh"
+        "mate:jenny.moan",
+        "mate:jenny.heavybreathing",
+        "mate:jenny.ahh"
       ]
     },
     {
       "key": "proneboneCumMSG1",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:misc.cuminflation",
-        "heartbound:jenny.moan"
+        "mate:misc.pounding",
+        "mate:misc.cuminflation",
+        "mate:jenny.moan"
       ]
     },
     {
       "key": "proneboneCumMSG2",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "proneboneCumMSG3",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "proneboneCumMSG4",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "proneboneCumMSG5",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "kneelingBedMSG1",
       "sounds": [
-        "heartbound:misc.bedrustle"
+        "mate:misc.bedrustle"
       ]
     },
     {
       "key": "kneelingBedMSG2",
       "sounds": [
-        "heartbound:jenny.lightbreathing"
+        "mate:jenny.lightbreathing"
       ]
     },
     {
       "key": "kneelingBedMSG3",
       "sounds": [
-        "heartbound:misc.slap"
+        "mate:misc.slap"
       ]
     },
     {
       "key": "kneelingIntroMSG1",
       "sounds": [
-        "heartbound:jenny.mmm"
+        "mate:jenny.mmm"
       ]
     },
     {
       "key": "kneelingIntroMSG2",
       "sounds": [
-        "heartbound:misc.bedrustle"
+        "mate:misc.bedrustle"
       ]
     },
     {
       "key": "kneelingIntroMSG3",
       "sounds": [
-        "heartbound:misc.slide"
+        "mate:misc.slide"
       ]
     },
     {
       "key": "kneelingIntroMSG4",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:misc.bedrustle",
-        "heartbound:jenny.mmm"
+        "mate:misc.pounding",
+        "mate:misc.bedrustle",
+        "mate:jenny.mmm"
       ]
     },
     {
       "key": "kneelingSlowMSG1",
       "sounds": [
-        "heartbound:misc.slide"
+        "mate:misc.slide"
       ]
     },
     {
       "key": "kneelingSlowMSG2",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:misc.bedrustle"
+        "mate:misc.pounding",
+        "mate:misc.bedrustle"
       ],
       "random_sounds": [
-        "heartbound:jenny.moan",
-        "heartbound:jenny.heavybreathing",
-        "heartbound:jenny.mmm"
+        "mate:jenny.moan",
+        "mate:jenny.heavybreathing",
+        "mate:jenny.mmm"
       ]
     },
     {
       "key": "kneelingFastMSG1",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:misc.bedrustle"
+        "mate:misc.pounding",
+        "mate:misc.bedrustle"
       ],
       "random_sounds": [
-        "heartbound:jenny.moan",
-        "heartbound:jenny.heavybreathing",
-        "heartbound:jenny.ahh"
+        "mate:jenny.moan",
+        "mate:jenny.heavybreathing",
+        "mate:jenny.ahh"
       ]
     },
     {
       "key": "kneelingCumMSG1",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:misc.bedrustle",
-        "heartbound:misc.cuminflation",
-        "heartbound:jenny.moan"
+        "mate:misc.pounding",
+        "mate:misc.bedrustle",
+        "mate:misc.cuminflation",
+        "mate:jenny.moan"
       ]
     },
     {
       "key": "kneelingCumMSG2",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "kneelingCumMSG3",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "kneelingCumMSG4",
       "sounds": [
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "kneelingCumMSG5",
       "sounds": [
-        "heartbound:jenny.lightbreathing"
+        "mate:jenny.lightbreathing"
       ]
     },
     {
       "key": "masturbatingMSG1",
       "random_sounds": [
-        "heartbound:jenny.lightbreathing",
-        "heartbound:jenny.mmm"
+        "mate:jenny.lightbreathing",
+        "mate:jenny.mmm"
       ]
     },
     {
       "key": "masturbatingMSG2",
       "random_sounds": [
-        "heartbound:jenny.mmm",
-        "heartbound:jenny.moan",
-        "heartbound:jenny.lightbreathing"
+        "mate:jenny.mmm",
+        "mate:jenny.moan",
+        "mate:jenny.lightbreathing"
       ]
     },
     {
       "key": "masturbatingMSG3",
       "random_sounds": [
-        "heartbound:jenny.moan",
-        "heartbound:jenny.heavybreathing",
-        "heartbound:jenny.mmm"
+        "mate:jenny.moan",
+        "mate:jenny.heavybreathing",
+        "mate:jenny.mmm"
       ]
     },
     {
       "key": "masturbatingMSG4",
       "random_sounds": [
-        "heartbound:jenny.moan",
-        "heartbound:jenny.ahh",
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.moan",
+        "mate:jenny.ahh",
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "masturbatingMSG5",
       "random_sounds": [
-        "heartbound:jenny.ahh",
-        "heartbound:jenny.moan",
-        "heartbound:jenny.heavybreathing"
+        "mate:jenny.ahh",
+        "mate:jenny.moan",
+        "mate:jenny.heavybreathing"
       ]
     },
     {
       "key": "startclothes_off",
       "random_sounds": [
-        "heartbound:misc.clothes"
+        "mate:misc.clothes"
       ]
     },
     {
       "key": "clothes_off",
       "random_sounds": [
-        "heartbound:misc.clothes"
+        "mate:misc.clothes"
       ]
     },
     {
       "key": "boobs_bounce_2",
       "random_sounds": [
-        "heartbound:misc.bounceboobs"
+        "mate:misc.bounceboobs"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "name": "Bia",
-  "icon": "heartbound:bia_spawn_egg",
-  "category": "heartbound:normal_girls",
+  "icon": "mate:bia_spawn_egg",
+  "category": "mate:normal_girls",
   "pages": [
     {
       "type": "patchouli:text",
@@ -9,7 +9,7 @@
     },
     {
       "type": "patchouli:entity",
-      "entity": "heartbound:bia",
+      "entity": "mate:bia",
       "scale": 0.8,
       "offset": 0.3,
       "rotate": false,
@@ -19,7 +19,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "heartbound:bia_spawn_egg",
+      "recipe": "mate:bia_spawn_egg",
       "title": "Ovo Gerador da Bia",
       "text": "Fabrique com uma Pílula X, lã marrom e um ovo."
     },

@@ -1,5 +1,5 @@
 {
   "name": "方块",
-  "description": "了解 Heartbound 中的特殊方块及其功能。",
-  "icon": "heartbound:fusion_table"
+  "description": "了解 Mate 中的特殊方块及其功能。",
+  "icon": "mate:fusion_table"
 }

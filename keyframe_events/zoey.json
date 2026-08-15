@@ -4,100 +4,100 @@
     {
       "key": "stripMSG1",
       "random_sounds": [
-        "heartbound:zoey.giggle"
+        "mate:zoey.giggle"
       ]
     },
     {
       "key": "sitdownMSG1",
       "sounds": [
-        "heartbound:zoey.breath"
+        "mate:zoey.breath"
       ],
       "messages": [
-        "msg.heartbound.scene.zoey.sitdownMSG1"
+        "msg.mate.scene.zoey.sitdownMSG1"
       ]
     },
     {
       "key": "slide",
       "sounds": [
-        "heartbound:misc.slide"
+        "mate:misc.slide"
       ]
     },
     {
       "key": "pound",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ]
     },
     {
       "key": "doggyMoan",
       "random_sounds": [
-        "heartbound:zoey.ahh",
-        "heartbound:zoey.mmm"
+        "mate:zoey.ahh",
+        "mate:zoey.mmm"
       ]
     },
     {
       "key": "cum",
       "sounds": [
-        "heartbound:misc.inserts"
+        "mate:misc.inserts"
       ]
     },
     {
       "key": "orgasm1",
       "sounds": [
-        "heartbound:zoey.mmm"
+        "mate:zoey.mmm"
       ]
     },
     {
       "key": "orgasm2",
       "sounds": [
-        "heartbound:zoey.mmm"
+        "mate:zoey.mmm"
       ]
     },
     {
       "key": "anal_prepareMSG1",
       "sounds": [
-        "heartbound:misc.plob"
+        "mate:misc.plob"
       ]
     },
     {
       "key": "anal_prepareMSG2",
       "sounds": [
-        "heartbound:misc.bedrustle"
+        "mate:misc.bedrustle"
       ]
     },
     {
       "key": "anal_startMSG1",
       "sounds": [
-        "heartbound:zoey.ahh"
+        "mate:zoey.ahh"
       ]
     },
     {
       "key": "anal_startMSG2",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:zoey.mmm"
+        "mate:zoey.mmm"
       ]
     },
     {
       "key": "anal_slowMSG1",
       "sounds": [
-        "heartbound:zoey.ahh",
-        "heartbound:misc.pounding"
+        "mate:zoey.ahh",
+        "mate:misc.pounding"
       ]
     },
     {
       "key": "anal_fastMSG1",
       "sounds": [
-        "heartbound:zoey.ahh",
-        "heartbound:misc.pounding"
+        "mate:zoey.ahh",
+        "mate:misc.pounding"
       ]
     },
     {
       "key": "anal_cumMSG2",
       "sounds": [
-        "heartbound:zoey.ahh"
+        "mate:zoey.ahh"
       ]
     }
   ]

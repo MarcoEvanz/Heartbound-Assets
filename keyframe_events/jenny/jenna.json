@@ -5,187 +5,187 @@
     {
       "key": "aftersessionmoan",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.aftersessionmoan" ]
+      "random_sounds": [ "mate:jenna.aftersessionmoan" ]
     },
     {
       "key": "ahh",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.ahh" ]
+      "random_sounds": [ "mate:jenna.ahh" ]
     },
     {
       "key": "bjmoan",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.bjmoan" ]
+      "random_sounds": [ "mate:jenna.bjmoan" ]
     },
     {
       "key": "lipsound",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.lipsound" ]
+      "random_sounds": [ "mate:jenna.lipsound" ]
     },
     {
       "key": "giggle",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.giggle" ]
+      "random_sounds": [ "mate:jenna.giggle" ]
     },
     {
       "key": "happyoh",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.happyoh" ]
+      "random_sounds": [ "mate:jenna.happyoh" ]
     },
     {
       "key": "heavybreathing",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.heavybreathing" ]
+      "random_sounds": [ "mate:jenna.heavybreathing" ]
     },
     {
       "key": "hmph",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.hmph" ]
+      "random_sounds": [ "mate:jenna.hmph" ]
     },
     {
       "key": "huh",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.huh" ]
+      "random_sounds": [ "mate:jenna.huh" ]
     },
     {
       "key": "lightbreathing",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.lightbreathing" ]
+      "random_sounds": [ "mate:jenna.lightbreathing" ]
     },
     {
       "key": "moan",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.moan" ]
+      "random_sounds": [ "mate:jenna.moan" ]
     },
     {
       "key": "mmm",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.mmm" ]
+      "random_sounds": [ "mate:jenna.mmm" ]
     },
     {
       "key": "sadoh",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.sadoh" ]
+      "random_sounds": [ "mate:jenna.sadoh" ]
     },
     {
       "key": "sigh",
       "sounds": [],
-      "random_sounds": [ "heartbound:jenna.sigh" ]
+      "random_sounds": [ "mate:jenna.sigh" ]
     },
     {
       "key": "bjtMSG1",
       "sounds": [
-        "heartbound:jenna.mmm",
-        "heartbound:jenna.lipsound"
+        "mate:jenna.mmm",
+        "mate:jenna.lipsound"
       ]
     },
     {
       "key": "bjcMSG1",
       "sounds": [
-        "heartbound:jenna.bjmoan"
+        "mate:jenna.bjmoan"
       ]
     },
     {
       "key": "bjcMSG2",
       "sounds": [
-        "heartbound:jenna.bjmoan"
+        "mate:jenna.bjmoan"
       ]
     },
     {
       "key": "bjcMSG3",
       "sounds": [
-        "heartbound:jenna.aftersessionmoan"
+        "mate:jenna.aftersessionmoan"
       ]
     },
     {
       "key": "bjcMSG4",
       "sounds": [
-        "heartbound:jenna.lightbreathing"
+        "mate:jenna.lightbreathing"
       ]
     },
     {
       "key": "bjcMSG5",
       "sounds": [
-        "heartbound:jenna.lightbreathing"
+        "mate:jenna.lightbreathing"
       ]
     },
     {
       "key": "bjcMSG6",
       "sounds": [
-        "heartbound:jenna.lightbreathing"
+        "mate:jenna.lightbreathing"
       ]
     },
     {
       "key": "paizuriStartMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ]
     },
     {
       "key": "doggyIntroMSG1",
       "sounds": [
-        "heartbound:misc.touch"
+        "mate:misc.touch"
       ]
     },
     {
       "key": "doggyIntroMSG2",
       "sounds": [
-        "heartbound:misc.touch"
+        "mate:misc.touch"
       ]
     },
     {
       "key": "doggyIntroMSG3",
       "sounds": [
-        "heartbound:misc.bedrustle"
+        "mate:misc.bedrustle"
       ]
     },
     {
       "key": "doggyIntroMSG4",
       "sounds": [
-        "heartbound:misc.smallinserts",
-        "heartbound:jenna.mmm"
+        "mate:misc.smallinserts",
+        "mate:jenna.mmm"
       ]
     },
     {
       "key": "doggyIntroMSG5",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:jenna.moan"
+        "mate:misc.pounding",
+        "mate:jenna.moan"
       ]
     },
     {
       "key": "doggySlowMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:jenna.lightbreathing",
-        "heartbound:jenna.mmm"
+        "mate:jenna.lightbreathing",
+        "mate:jenna.mmm"
       ]
     },
     {
       "key": "doggySlowMSG2",
       "sounds": [
-        "heartbound:jenna.lightbreathing"
+        "mate:jenna.lightbreathing"
       ]
     },
     {
       "key": "doggyFastMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:jenna.moan",
-        "heartbound:jenna.heavybreathing",
-        "heartbound:jenna.ahh"
+        "mate:jenna.moan",
+        "mate:jenna.heavybreathing",
+        "mate:jenna.ahh"
       ]
     },    
     {
       "key": "doggyCumMSG1",
       "sounds": [
-        "heartbound:misc.cuminflation",
-        "heartbound:misc.cuminflation",
-        "heartbound:misc.cuminflation"
+        "mate:misc.cuminflation",
+        "mate:misc.cuminflation",
+        "mate:misc.cuminflation"
       ]
     }
   ]

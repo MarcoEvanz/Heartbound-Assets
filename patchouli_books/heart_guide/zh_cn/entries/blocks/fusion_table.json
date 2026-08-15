@@ -1,7 +1,7 @@
 {
   "name": "融合台",
-  "icon": "heartbound:fusion_table",
-  "category": "heartbound:blocks",
+  "icon": "mate:fusion_table",
+  "category": "mate:blocks",
   "pages": [
     {
       "type": "patchouli:text",
@@ -13,7 +13,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "heartbound:fusion_table",
+      "recipe": "mate:fusion_table",
       "text": "使用烈焰粉、钻石、末影珍珠和铁锭按特定图案合成融合台。"
     }
   ]

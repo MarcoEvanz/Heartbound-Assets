@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "heartbound:item/bia_spawn_egg"
+    "model": "mate:item/bia_spawn_egg"
   }
 }

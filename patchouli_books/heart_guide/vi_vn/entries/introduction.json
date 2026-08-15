@@ -1,11 +1,11 @@
 {
   "name": "Giới Thiệu Về Các Cô Gái",
   "icon": "minecraft:player_head",
-  "category": "heartbound:girls",
+  "category": "mate:girls",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Chào mừng đến với Cẩm Nang Trái Tim! Cuốn sách này chứa thông tin về tất cả các cô gái xinh đẹp mà bạn có thể tìm thấy trong thế giới Heartbound.$(br2)Các cô gái là những thực thể đặc biệt có thể bắt, thuần hóa và chăm sóc. Mỗi cô gái có tính cách, khả năng và câu chuyện riêng."
+      "text": "Chào mừng đến với Cẩm Nang Trái Tim! Cuốn sách này chứa thông tin về tất cả các cô gái xinh đẹp mà bạn có thể tìm thấy trong thế giới Mate.$(br2)Các cô gái là những thực thể đặc biệt có thể bắt, thuần hóa và chăm sóc. Mỗi cô gái có tính cách, khả năng và câu chuyện riêng."
     },
     {
       "type": "patchouli:text",

@@ -1,7 +1,7 @@
 {
   "name": "Abóbora Mágica",
-  "icon": "heartbound:magical_pumpkin",
-  "category": "heartbound:blocks",
+  "icon": "mate:magical_pumpkin",
+  "category": "mate:blocks",
   "pages": [
     {
       "type": "patchouli:text",
@@ -13,7 +13,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "heartbound:magical_pumpkin",
+      "recipe": "mate:magical_pumpkin",
       "text": "Fabrique a Abóbora Mágica usando uma abóbora esculpida comum e uma flor de papoula."
     }
   ]

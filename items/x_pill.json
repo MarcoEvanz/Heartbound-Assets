@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "heartbound:item/x_pill"
+    "model": "mate:item/x_pill"
   }
 }

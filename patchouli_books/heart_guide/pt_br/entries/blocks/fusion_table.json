@@ -1,7 +1,7 @@
 {
   "name": "Mesa de Fusão",
-  "icon": "heartbound:fusion_table",
-  "category": "heartbound:blocks",
+  "icon": "mate:fusion_table",
+  "category": "mate:blocks",
   "pages": [
     {
       "type": "patchouli:text",
@@ -13,7 +13,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "heartbound:fusion_table",
+      "recipe": "mate:fusion_table",
       "text": "Fabrique a Mesa de Fusão usando pó de blaze, diamantes, pérolas do End e barras de ferro neste padrão específico."
     }
   ]

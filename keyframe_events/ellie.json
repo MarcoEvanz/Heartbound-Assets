@@ -4,159 +4,159 @@
     {
       "key": "stripMSG1",
       "random_sounds": [
-        "heartbound:ellie.giggle"
+        "mate:ellie.giggle"
       ]
     },
     {
       "key": "carry_introMSG1",
       "sounds": [
-        "heartbound:ellie.hmph"
+        "mate:ellie.hmph"
       ],
       "messages": [
-        "msg.heartbound.scene.ellie.carry_introMSG1"
+        "msg.mate.scene.ellie.carry_introMSG1"
       ]
     },
     {
       "key": "carry_introMSG2",
       "sounds": [
-        "heartbound:ellie.giggle"
+        "mate:ellie.giggle"
       ],
       "messages": [
-        "msg.heartbound.scene.ellie.carry_introMSG2"
+        "msg.mate.scene.ellie.carry_introMSG2"
       ]
     },
     {
       "key": "lipsound",
       "sounds": [
-        "heartbound:ellie.lipsound"
+        "mate:ellie.lipsound"
       ]
     },
     {
       "key": "suckFast",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ]
     },
     {
       "key": "cum",
       "sounds": [
-        "heartbound:misc.inserts",
-        "heartbound:ellie.lipsound"
+        "mate:misc.inserts",
+        "mate:ellie.lipsound"
       ]
     },
     {
       "key": "sitdownMSG1",
       "sounds": [
-        "heartbound:ellie.cometomommy"
+        "mate:ellie.cometomommy"
       ],
       "messages": [
-        "msg.heartbound.scene.ellie.sitdownMSG1"
+        "msg.mate.scene.ellie.sitdownMSG1"
       ]
     },
     {
       "key": "missionary_slowMSG1",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:ellie.ahh"
+        "mate:misc.pounding",
+        "mate:ellie.ahh"
       ]
     },
     {
       "key": "missionary_fastMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:ellie.ahh",
-        "heartbound:ellie.moan"
+        "mate:ellie.ahh",
+        "mate:ellie.moan"
       ]
     },
     {
       "key": "bedRustle",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:misc.bedrustle"
+        "mate:misc.pounding",
+        "mate:misc.bedrustle"
       ]
     },
     {
       "key": "missionary_cumMSG1",
       "sounds": [
-        "heartbound:ellie.ahh"
+        "mate:ellie.ahh"
       ]
     },
     {
       "key": "missionary_cumMSG2",
       "sounds": [
-        "heartbound:ellie.goodboy"
+        "mate:ellie.goodboy"
       ],
       "messages": [
-        "msg.heartbound.scene.ellie.missionary_cumMSG2"
+        "msg.mate.scene.ellie.missionary_cumMSG2"
       ]
     },
     {
       "key": "cowgirlStartMSG0",
       "sounds": [
-        "heartbound:ellie.giggle"
+        "mate:ellie.giggle"
       ]
     },
     {
       "key": "cowgirlStartMSG1",
       "messages": [
-        "msg.heartbound.scene.ellie.cowgirlStartMSG1"
+        "msg.mate.scene.ellie.cowgirlStartMSG1"
       ]
     },
     {
       "key": "cowgirlStartMSG2",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:ellie.ahh",
-        "heartbound:ellie.moan"
+        "mate:ellie.ahh",
+        "mate:ellie.moan"
       ]
     },
     {
       "key": "cowgirlfastMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:ellie.ahh",
-        "heartbound:ellie.moan"
+        "mate:ellie.ahh",
+        "mate:ellie.moan"
       ]
     },
     {
       "key": "cowgirlcumMSG1",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:ellie.ahh"
+        "mate:misc.pounding",
+        "mate:ellie.ahh"
       ]
     },
     {
       "key": "cowgirlcumMSG2",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:ellie.moan"
+        "mate:misc.pounding",
+        "mate:ellie.moan"
       ]
     },
     {
       "key": "cowgirlcumMSG3",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ]
     },
     {
       "key": "cowgirlcumMSG4",
       "sounds": [
-        "heartbound:ellie.goodboy"
+        "mate:ellie.goodboy"
       ],
       "messages": [
-        "msg.heartbound.scene.ellie.cowgirlcumMSG4"
+        "msg.mate.scene.ellie.cowgirlcumMSG4"
       ]
     },
     {
       "key": "clothes_off",
       "random_sounds": [
-        "heartbound:misc.clothes"
+        "mate:misc.clothes"
       ]
     }
   ]

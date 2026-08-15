@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "heartbound:item/x_pill"
+    "layer0": "mate:item/x_pill"
   }
 }

@@ -1,7 +1,7 @@
 {
   "texture_size": [64, 32],
   "textures": {
-    "layer0": "heartbound:item/love_ball_3d"
+    "layer0": "mate:item/love_ball_3d"
   },
   "elements": [
     {

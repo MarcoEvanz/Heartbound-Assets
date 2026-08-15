@@ -1,11 +1,11 @@
 {
   "name": "ガールの紹介",
   "icon": "minecraft:player_head",
-  "category": "heartbound:girls",
+  "category": "mate:girls",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "ハートガイドへようこそ！この本にはHeartboundの世界で出会える全ての美しいガールの情報が載っています。$(br2)ガールは捕獲、なつかせ、お世話できる特別なエンティティです。それぞれ固有の性格、能力、ストーリーを持っています。"
+      "text": "ハートガイドへようこそ！この本にはMateの世界で出会える全ての美しいガールの情報が載っています。$(br2)ガールは捕獲、なつかせ、お世話できる特別なエンティティです。それぞれ固有の性格、能力、ストーリーを持っています。"
     },
     {
       "type": "patchouli:text",

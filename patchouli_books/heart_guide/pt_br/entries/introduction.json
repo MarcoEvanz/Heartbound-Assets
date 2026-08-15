@@ -1,11 +1,11 @@
 {
   "name": "Introdução às Garotas",
   "icon": "minecraft:player_head",
-  "category": "heartbound:girls",
+  "category": "mate:girls",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Bem-vindo à Wiki do Prazer! Este livro contém informações sobre todas as garotas lindas que você pode encontrar no mundo de Heartbound.$(br2)Garotas são entidades especiais que podem ser capturadas, domesticadas e cuidadas. Cada garota tem sua própria personalidade, habilidades e história."
+      "text": "Bem-vindo à Wiki do Prazer! Este livro contém informações sobre todas as garotas lindas que você pode encontrar no mundo de Mate.$(br2)Garotas são entidades especiais que podem ser capturadas, domesticadas e cuidadas. Cada garota tem sua própria personalidade, habilidades e história."
     },
     {
       "type": "patchouli:text",

@@ -4,115 +4,115 @@
     {
       "key": "stripMSG1",
       "random_sounds": [
-        "heartbound:sarah.giggle"
+        "mate:sarah.giggle"
       ]
     },
     {
       "key": "lipsound",
       "sounds": [
-        "heartbound:sarah.lipsound"
+        "mate:sarah.lipsound"
       ]
     },
     {
       "key": "cum",
       "sounds": [
-        "heartbound:misc.inserts",
-        "heartbound:sarah.lipsound"
+        "mate:misc.inserts",
+        "mate:sarah.lipsound"
       ]
     },
     {
       "key": "attackSound",
       "sounds": [
-        "heartbound:misc.slap"
+        "mate:misc.slap"
       ]
     },
     {
       "key": "carry_introMSG1",
       "sounds": [
-        "heartbound:sarah.hmph"
+        "mate:sarah.hmph"
       ]
     },
     {
       "key": "carry_introMSG2",
       "sounds": [
-        "heartbound:sarah.giggle"
+        "mate:sarah.giggle"
       ]
     },
     {
       "key": "sitdownMSG1",
       "sounds": [
-        "heartbound:sarah.cometomommy"
+        "mate:sarah.cometomommy"
       ]
     },
     {
       "key": "cowgirlStartMSG0",
       "sounds": [
-        "heartbound:sarah.giggle"
+        "mate:sarah.giggle"
       ]
     },
     {
       "key": "cowgirlStartMSG2",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:sarah.ahh",
-        "heartbound:sarah.moan"
+        "mate:sarah.ahh",
+        "mate:sarah.moan"
       ]
     },
     {
       "key": "cowgirlfastMSG1",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ],
       "random_sounds": [
-        "heartbound:sarah.ahh",
-        "heartbound:sarah.moan"
+        "mate:sarah.ahh",
+        "mate:sarah.moan"
       ]
     },
     {
       "key": "cowgirlfastReady",
       "random_sounds": [
-        "heartbound:sarah.heavybreathing",
-        "heartbound:sarah.lightbreathing"
+        "mate:sarah.heavybreathing",
+        "mate:sarah.lightbreathing"
       ]
     },
     {
       "key": "cowgirlcumMSG1",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:sarah.ahh"
+        "mate:misc.pounding",
+        "mate:sarah.ahh"
       ]
     },
     {
       "key": "cowgirlcumMSG2",
       "sounds": [
-        "heartbound:misc.pounding",
-        "heartbound:sarah.moan"
+        "mate:misc.pounding",
+        "mate:sarah.moan"
       ]
     },
     {
       "key": "cowgirlcumMSG3",
       "sounds": [
-        "heartbound:misc.pounding"
+        "mate:misc.pounding"
       ]
     },
     {
       "key": "cowgirlcumMSG4",
       "sounds": [
-        "heartbound:sarah.goodboy"
+        "mate:sarah.goodboy"
       ]
     },
     {
       "key": "cowgirlcumMSG5",
       "sounds": [
-        "heartbound:sarah.aftersessionmoan"
+        "mate:sarah.aftersessionmoan"
       ]
     },
     {
       "key": "cowgirlcumMSG6",
       "sounds": [
-        "heartbound:sarah.sigh"
+        "mate:sarah.sigh"
       ]
     }
   ]

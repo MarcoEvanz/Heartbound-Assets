@@ -1,11 +1,11 @@
 {
   "name": "Introduction to Girls",
   "icon": "minecraft:player_head",
-  "category": "heartbound:girls",
+  "category": "mate:girls",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Welcome to the Heart Guide! This book contains information about all the beautiful girls you can find in the world of Heartbound.$(br2)Girls are special entities that can be captured, tamed, and cared for. Each girl has her own personality, abilities, and story."
+      "text": "Welcome to the Heart Guide! This book contains information about all the beautiful girls you can find in the world of Mate.$(br2)Girls are special entities that can be captured, tamed, and cared for. Each girl has her own personality, abilities, and story."
     },
     {
       "type": "patchouli:text",

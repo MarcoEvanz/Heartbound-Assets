@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "heartbound:item/masterring_captured"
+    "layer0": "mate:item/masterring_captured"
   }
 }
