@@ -1,0 +1,17 @@
+{
+  "girl_id": "kobold",
+  "events": [
+    {
+      "key": "pounding",
+      "sounds": [
+        "mate:misc.pounding"
+      ]
+    },
+    {
+      "key": "cumLoud",
+      "sounds": [
+        "mate:misc.cuminflation"
+      ]
+    }
+  ]
+}

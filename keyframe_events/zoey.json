@@ -99,6 +99,43 @@
       "sounds": [
         "mate:zoey.ahh"
       ]
+    },
+    {
+      "key": "pounding",
+      "sounds": [
+        "mate:misc.pounding"
+      ]
+    },
+    {
+      "key": "pounding1",
+      "sounds": [
+        "mate:misc.pounding"
+      ]
+    },
+    {
+      "key": "breath",
+      "sounds": [
+        "mate:zoey.lightbreathing"
+      ]
+    },
+    {
+      "key": "moan7",
+      "random_sounds": [
+        "mate:zoey.moan",
+        "mate:zoey.ahh"
+      ]
+    },
+    {
+      "key": "orgasm",
+      "sounds": [
+        "mate:zoey.moan"
+      ]
+    },
+    {
+      "key": "cumLoud",
+      "sounds": [
+        "mate:misc.cuminflation"
+      ]
     }
   ]
 }

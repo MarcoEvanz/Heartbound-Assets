@@ -4790,8 +4790,7 @@
 							"pivot": [-0.01609, 17.65684, -7.24034],
 							"rotation": [-6.5, 0, 0],
 							"uv": {
-								"north": {"uv": [18.79137, 54.93675], "uv_size": [2.74381, 0.67181]},
-								"south": {"uv": [14.032, 56.032], "uv_size": [2.936, 0.936]}
+								"north": {"uv": [18.79137, 54.93675], "uv_size": [2.74381, 0.67181]}
 							}
 						},
 						{
@@ -4800,8 +4799,7 @@
 							"pivot": [-0.0743, 18.23705, -7.17307],
 							"rotation": [-29.5, 0, 0],
 							"uv": {
-								"north": {"uv": [18.20388, 54.00075], "uv_size": [3.936, 0.936]},
-								"south": {"uv": [14.032, 55.032], "uv_size": [3.936, 0.936]}
+								"north": {"uv": [18.20388, 54.00075], "uv_size": [3.936, 0.936]}
 							}
 						},
 						{
@@ -4810,8 +4808,7 @@
 							"pivot": [-0.0743, 19.25367, -6.5979],
 							"rotation": [-37.25, 0, 0],
 							"uv": {
-								"north": {"uv": [18.20388, 53.00075], "uv_size": [3.936, 0.936]},
-								"south": {"uv": [14.032, 54.032], "uv_size": [3.936, 0.936]}
+								"north": {"uv": [18.20388, 53.00075], "uv_size": [3.936, 0.936]}
 							}
 						},
 						{
@@ -6116,14 +6113,14 @@
 					]
 				},
 				{
-					"name": "boobL",
+					"name": "boobprevL",
 					"parent": "boobsFlesh",
 					"pivot": [0.48091, 26.51973, -0.71492],
 					"rotation": [8.25, -22, -1]
 				},
 				{
 					"name": "midsection4",
-					"parent": "boobL",
+					"parent": "boobprevL",
 					"pivot": [0.4839, 21.95561, -5.48592],
 					"cubes": [
 						{
@@ -7048,7 +7045,7 @@
 				},
 				{
 					"name": "rside2",
-					"parent": "boobL",
+					"parent": "boobprevL",
 					"pivot": [12.70273, 15.72506, -8.9396],
 					"rotation": [148.5, 0, 0],
 					"cubes": [
@@ -7632,7 +7629,7 @@
 				},
 				{
 					"name": "rside3",
-					"parent": "boobL",
+					"parent": "boobprevL",
 					"pivot": [-13.58821, 15.72506, -8.9396],
 					"rotation": [148.5, 0, 0],
 					"cubes": [
@@ -8215,14 +8212,14 @@
 					]
 				},
 				{
-					"name": "boobR",
+					"name": "boobprevR",
 					"parent": "boobsFlesh",
 					"pivot": [-0.58091, 26.39473, -0.83992],
 					"rotation": [8.25, 22, 1]
 				},
 				{
 					"name": "midsection2",
-					"parent": "boobR",
+					"parent": "boobprevR",
 					"pivot": [-0.5839, 21.83061, -5.61092],
 					"cubes": [
 						{
@@ -9138,7 +9135,7 @@
 				},
 				{
 					"name": "rside4",
-					"parent": "boobR",
+					"parent": "boobprevR",
 					"pivot": [-12.80273, 15.60006, -9.0646],
 					"rotation": [148.5, 0, 0],
 					"cubes": [
@@ -9722,7 +9719,7 @@
 				},
 				{
 					"name": "rside5",
-					"parent": "boobR",
+					"parent": "boobprevR",
 					"pivot": [13.48821, 15.60006, -9.0646],
 					"rotation": [148.5, 0, 0],
 					"cubes": [

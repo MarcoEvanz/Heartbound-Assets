@@ -1,26 +1,19 @@
 {
   "item.mate.jenny_spawn_egg": "Jenny 刷怪蛋",
-
   "item.mate.ellie_spawn_egg": "Ellie 刷怪蛋",
-
   "item.mate.bia_spawn_egg": "Bia 刷怪蛋",
-
   "item.mate.slime_spawn_egg": "史莱姆 刷怪蛋",
-
   "item.mate.kobold_spawn_egg": "狗头人 刷怪蛋",
-
   "item.mate.coppie_spawn_egg": "Coppie 刷怪蛋",
   "item.mate.aly_spawn_egg": "Aly 刷怪蛋",
   "item.mate.zoey_spawn_egg": "Zoey 刷怪蛋",
   "item.mate.sarah_spawn_egg": "Sarah 刷怪蛋",
-
   "item.mate.custom_girl_spawn_egg": "自定义女孩 刷怪蛋",
   "item.mate.custom_girl_spawn_egg.named": "%s 刷怪蛋",
   "item.mate.custom_girl_spawn_egg.unspecified": "未选择女孩 刷怪蛋",
   "item.mate.custom_girl_spawn_egg.choose_first": "在空中右键点击以选择此蛋将变成哪个女孩。",
   "item.mate.custom_girl_spawn_egg.incomplete": "你的人物不完整请检查",
   "gui.mate.choose_girl_profile.title": "选择一个女孩",
-
   "item.mate.love_ball": "乐趣球",
   "item.mate.love_ball.filled": "乐趣球（已捕获）",
   "item.mate.love_ball.tooltip.girl": "女孩：%s",
@@ -36,7 +29,6 @@
   "item.mate.love_ball.released": "已从乐趣球中释放 %s",
   "item.mate.love_ball.invalid_data": "释放失败 - 数据无效！",
   "item.mate.love_ball.spawn_failed": "生成女孩失败！",
-
   "item.mate.master_ring": "主人之戒",
   "item.mate.master_ring.filled": "主人之戒（已捕获）",
   "item.mate.master_ring.tooltip.girl": "女孩：%s",
@@ -54,7 +46,6 @@
   "item.mate.master_ring.invalid_data": "释放失败 - 数据无效！",
   "item.mate.master_ring.spawn_failed": "生成女孩失败！",
   "item.mate.master_ring.boss_active": "戒指无法束缚堕落恶魔——试试 Gallath 之币吧。",
-
   "item.mate.gallath_coin": "Gallath 之币",
   "item.mate.gallath_coin.filled": "Gallath 之币（已封印）",
   "item.mate.gallath_coin.empty": "这枚 Gallath 之币是空的！",
@@ -67,10 +58,8 @@
   "item.mate.gallath_coin.coin_only": "只有 Gallath 之币能封印她——戒指无法承载她的本质。",
   "item.mate.gallath_coin.tooltip.girl": "已封印：%s",
   "item.mate.gallath_coin.tooltip.owner": "主人：%s",
-
   "item.mate.heart_guide": "乐趣百科",
   "item.mate.heart_guide.tooltip.edition": "第一版",
-
   "item.mate.x_pill": "X药丸",
   "item.mate.h_phone": "H手机",
   "item.mate.h_phone.tooltip": "用于查找位置的智能设备",
@@ -98,55 +87,35 @@
   "screen.mate.phone.your_items": "你的物品",
   "screen.mate.phone.no_items": "无物品",
   "gui.mate.girl_selection": "变身为...",
-
   "block.mate.fusion_table": "融合台",
-
   "block.mate.magical_pumpkin": "魔法南瓜",
   "block.mate.litted_magical_pumpkin": "发光魔法南瓜",
-
   "entity.mate.jenny": "Jenny",
-
   "entity.mate.ellie": "Ellie",
-
   "entity.mate.bia": "Bia",
-
   "entity.mate.slime": "史莱姆",
-
   "entity.mate.coppie": "Coppie",
-
   "entity.mate.kobold": "狗头人",
-
   "entity.mate.aly": "Aly",
-
   "entity.mate.zoey": "Zoey",
-
   "entity.mate.sarah": "Sarah",
-
   "entity.mate.gallath": "Gallath",
-
   "entity.mate.tamed_gallath": "Gallath",
-
   "msg.mate.gallath.gift.like.1": "嗯，还能接受。",
   "msg.mate.gallath.gift.like.2": "你以为一个小玩意就能买通本宫？……罢了，继续送吧。",
   "msg.mate.gallath.gift.like.3": "凡人通常献上的东西更糟糕。这个我准了。",
   "msg.mate.gallath.gift.love.1": "你太宠我了。我不确定我讨厌这种感觉。",
   "msg.mate.gallath.gift.love.2": "啧——你还真懂得怎么解除一个堕落恶魔的心防。",
   "msg.mate.gallath.gift.love.3": "别习以为常我对你这样笑。",
-
   "scene.mate.gallath_grab": "强制抓取",
   "scene.mate.gallath_corrupt": "堕落",
-
   "entity.mate.custom_girl": "自定义女孩",
-
   "screen.mate.girl_inventory": "背包",
   "screen.mate.girl_inventory.relationship_tooltip": "好感度",
   "screen.mate.fusion_table": "融合台",
-
   "gui.mate.fusion_table": "融合台",
-
   "gui.mate.sceneOptions": "场景选项",
   "gui.mate.tooltip.requiresLevel": "需要好感度等级 %s",
-
   "gui.mate.button.breakUp": "分手",
   "gui.mate.button.setBase": "设为据点",
   "gui.mate.button.goToBase": "前往据点",
@@ -197,18 +166,14 @@
   "gui.mate.button.cancel": "取消",
   "gui.mate.button.clear": "清除",
   "gui.mate.button.randomize": "随机",
-
   "gui.mate.button.defaultGirl": "默认女孩",
   "gui.mate.button.customGirl": "自定义女孩",
   "gui.mate.button.back": "返回",
-
   "gui.mate.search": "搜索",
   "gui.mate.search.placeholder": "搜索...",
-
   "gui.mate.customizeGirl": "自定义女孩",
   "gui.mate.customizeKobold": "狗头人自定义",
   "gui.mate.customizePlayer": "自定义玩家",
-
   "gui.mate.customize.breastSize": "西瓜大小",
   "gui.mate.customize.breastOffset": "西瓜偏移",
   "gui.mate.customize.playerBreastSize": "西瓜大小",
@@ -222,7 +187,6 @@
   "gui.mate.customize.bottomHorns": "下方角:",
   "gui.mate.customize.type": "类型 %s",
   "gui.mate.customize.offset": "%s 偏移",
-
   "scene.mate.masturbation": "自我操作",
   "scene.mate.paizuri": "大西瓜",
   "scene.mate.blowJob": "大嘴巴",
@@ -238,76 +202,61 @@
   "scene.mate.kneeling": "跪姿",
   "scene.mate.cunnilingus": "舌头",
   "scene.mate.nursing_handjob": "西瓜暴鸟",
-
   "jei.mate.fusion": "融合配方",
-
   "itemgroup.mate.mate_items": "Mate 物品",
-
   "itemgroup.mate.mate_blocks": "Mate 方块",
-
   "msg.mate.noBedFound": "附近需要一张空床才能进行……",
   "msg.mate.needsToStrip": "你需要先脱掉衣服才能进行此操作。",
-
   "msg.mate.alreadyInRelationship": "她已经和别人在一起了",
-
   "msg.mate.sheIgnoresYou": "她无视了你。也许试着给她一个%s。",
   "msg.mate.askedOutYes": "你向%s告白了，她说§a好的",
   "msg.mate.brokeUp": "你和%s分手了",
   "msg.mate.diedRespawned": "%s死亡并在据点重生：%s, %s, %s",
   "msg.mate.baseSet": "据点已设置在（%s, %s, %s）",
   "msg.mate.mustFollowToMine": "女孩必须处于跟随状态才能挖矿",
-
   "msg.mate.sheLikedTheGift": "她喜欢这个礼物",
-
   "msg.mate.gift.like.1": "不错",
   "msg.mate.gift.like.2": "非常感谢",
   "msg.mate.gift.like.3": "真贴心",
   "msg.mate.gift.love.1": "哦，谢谢你",
   "msg.mate.gift.love.2": "爱你 ~_^",
   "msg.mate.gift.love.3": "你对我太好了",
-
   "msg.mate.sarah.gift.like.1": "可可豆？你在哪儿找到的？",
   "msg.mate.sarah.gift.like.2": "哦，谢谢——我正想把这个加入收藏。",
   "msg.mate.sarah.gift.like.3": "真可爱。你居然记得。",
   "msg.mate.sarah.gift.love.1": "你真的会留意呢~",
   "msg.mate.sarah.gift.love.2": "嗯，继续这样下去说不定你能得到点什么。",
   "msg.mate.sarah.gift.love.3": "别以为我没看到你拿过来时脸上的笑容。",
-
   "msg.mate.zoey.gift.like.1": "哦，给我的？真贴心！",
   "msg.mate.zoey.gift.like.2": "你真细心！",
   "msg.mate.zoey.gift.like.3": "Zoey 喜欢礼物！",
   "msg.mate.zoey.gift.love.1": "你一直这样宠我……我超喜欢！",
   "msg.mate.zoey.gift.love.2": "又一个？你真懂得怎么对待女孩~",
   "msg.mate.zoey.gift.love.3": "你让 Zoey 心里暖洋洋的……",
-
   "msg.mate.jenny.gift.like.1": "哇，给我的？谢谢！",
   "msg.mate.jenny.gift.like.2": "绒球葱？你真好……！",
   "msg.mate.jenny.gift.like.3": "啊哈，太棒了！",
   "msg.mate.jenny.gift.love.1": "又一个？嗯，你才是真正的礼物呢~",
   "msg.mate.jenny.gift.love.2": "宝贝，你太好了。还很帅~",
   "msg.mate.jenny.gift.love.3": "别再送礼物了，直接来操我吧~！",
-
   "msg.mate.ellie.gift.like.1": "等等，那是……真的凋灵玫瑰……！",
   "msg.mate.ellie.gift.like.2": "你挺无聊的，但这个……谢了……！",
   "msg.mate.ellie.gift.like.3": "太棒了……原来凋灵玫瑰长这样……！",
   "msg.mate.ellie.gift.love.1": "嗯，你其实还挺帅的……",
   "msg.mate.ellie.gift.love.2": "你是不是需要一个妈妈呀？",
   "msg.mate.ellie.gift.love.3": "别……别这样……太过分了……",
-
   "msg.mate.bia.gift.like.1": "哇！！！虞美人！！耶！！",
   "msg.mate.bia.gift.like.2": "哇哇哇！给Bia的礼物！",
   "msg.mate.bia.gift.like.3": "Bia喜欢礼物！再给Bia更多！",
   "msg.mate.bia.gift.love.1": "耶！！又一个礼物！你真的应该当Bia的主人！",
   "msg.mate.bia.gift.love.2": "耶耶耶！我们现在可以玩了吗！",
   "msg.mate.bia.gift.love.3": "M-Bia因为你……发情了……",
-
   "msg.mate.coppie.gift.like.1": "此傀儡接受这个……东西。",
   "msg.mate.coppie.gift.like.2": "此傀儡将接受这份礼物。",
   "msg.mate.coppie.gift.like.3": "主人为何要给此傀儡送礼物？",
   "msg.mate.coppie.gift.love.1": "此傀儡……不……我很感激，主人。",
   "msg.mate.coppie.gift.love.2": "这对我意义重大，主人。",
   "msg.mate.coppie.gift.love.3": "主人确定不想使用我的性功能吗？",
-
   "msg.mate.scene.jenny.stripMSG1": "嘻嘻~",
   "msg.mate.scene.jenny.bjiMSG1": "你在干什么...",
   "msg.mate.scene.jenny.bjiMSG2": "嗯...男孩子...",
@@ -322,365 +271,188 @@
   "msg.mate.scene.jenny.doggyintroMSG4": "哦~！",
   "msg.mate.scene.jenny.doggyintroMSG5": "啊啊~！",
   "msg.mate.scene.jenny.doggycumMSG1": "我要去了~！",
-
   "msg.mate.scene.player.bjiMSG8": "耶",
-
   "msg.mate.scene.ellie.carry_introMSG1": "我饿了..",
   "msg.mate.scene.ellie.carry_introMSG2": "嘿~",
   "msg.mate.scene.ellie.sitdownMSG1": "到妈妈这里来~",
   "msg.mate.scene.ellie.missionary_cumMSG2": "好孩子...嗯...嘿嘿~",
   "msg.mate.scene.ellie.cowgirlStartMSG1": "喜欢你看到的吗亲爱的？~",
   "msg.mate.scene.ellie.cowgirlcumMSG4": "好孩子...嗯...嘿嘿~",
-
   "msg.mate.scene.bia.sitdownMSG1": "过来吧大男孩~",
-
   "msg.mate.scene.zoey.sitdownMSG1": "过来吧可爱的~",
-
   "msg.mate.canGoInToFreeCam": "按 F4 进入自由镜头模式",
-
   "key.Mate.thrust": "冲刺",
-
   "key.Mate.cum": "发射子孙",
-
   "key.Mate.transformScene": "变换场景",
-
   "key.categories.Mate": "Mate",
-
   "subtitles.bedrustle": "床铺摩擦",
-
   "subtitles.belljingle": "铃铛叮当",
-
   "subtitles.clap": "拍击",
-
   "subtitles.cuminflation": "膨胀",
-
   "subtitles.flap": "拍打",
-
   "subtitles.inserts": "插入",
-
   "subtitles.pounding": "撞击",
-
   "subtitles.slap": "拍打",
-
   "subtitles.slide": "滑动",
-
   "subtitles.smallinserts": "轻微深入",
-
   "subtitles.touch": "触摸",
-
   "subtitles.plob": "扑通",
-
   "subtitles.jenny.heavybreathing": "粗重呼吸",
-
   "subtitles.jenny.hmph": "哼",
-
   "subtitles.jenny.huh": "嗯？",
-
   "subtitles.jenny.aftersessionmoan": "事后呻吟",
-
   "subtitles.jenny.ahh": "啊",
-
   "subtitles.jenny.bjmoan": "口中呻吟",
-
   "subtitles.jenny.giggle": "咯咯笑",
-
   "subtitles.jenny.happyoh": "开心的哦",
-
   "subtitles.jenny.lightbreathing": "轻微呼吸",
-
   "subtitles.jenny.lipsound": "唇音",
-
   "subtitles.jenny.mmm": "嗯嗯",
-
   "subtitles.jenny.moan": "呻吟",
-
   "subtitles.jenny.sadoh": "悲伤的哦",
-
   "subtitles.jenny.sigh": "叹息",
-
   "subtitles.bia.ahh": "啊",
-
   "subtitles.bia.bjmoan": "口中呻吟",
-
   "subtitles.bia.moan": "呻吟",
-
   "subtitles.bia.lightbreathing": "轻微呼吸",
-
   "subtitles.bia.giggle": "咯咯笑",
-
   "subtitles.bia.hey": "嘿",
-
   "subtitles.bia.happyoh": "开心的哦",
-
   "subtitles.bia.sadoh": "悲伤的哦",
-
   "subtitles.bia.sigh": "叹息",
-
   "subtitles.bia.huh": "嗯？",
-
   "subtitles.bia.hmph": "哼",
-
   "subtitles.bia.mmm": "嗯嗯",
-
   "subtitles.zoey.ahh": "啊",
-
   "subtitles.zoey.bjmoan": "口中呻吟",
-
   "subtitles.zoey.moan": "呻吟",
-
   "subtitles.zoey.lightbreathing": "轻微呼吸",
-
   "subtitles.zoey.giggle": "咯咯笑",
-
   "subtitles.zoey.hey": "嘿",
-
   "subtitles.zoey.happyoh": "开心的哦",
-
   "subtitles.zoey.sadoh": "悲伤的哦",
-
   "subtitles.zoey.sigh": "叹息",
-
   "subtitles.zoey.huh": "嗯？",
-
   "subtitles.zoey.hmph": "哼",
-
   "subtitles.zoey.mmm": "嗯嗯",
-
   "subtitles.ellie.aftersessionmoan": "事后呻吟",
-
   "subtitles.ellie.ahh": "啊",
-
   "subtitles.ellie.bjmoan": "口中呻吟",
-
   "subtitles.ellie.cometomommy": "到妈妈这里来",
-
   "subtitles.ellie.giggle": "咯咯笑",
-
   "subtitles.ellie.goodboy": "好孩子",
-
   "subtitles.ellie.happyoh": "开心的哦",
-
   "subtitles.ellie.heavybreathing": "粗重呼吸",
-
   "subtitles.ellie.hmph": "哼",
-
   "subtitles.ellie.huh": "嗯？",
-
   "subtitles.ellie.lightbreathing": "轻微呼吸",
-
   "subtitles.ellie.lipsound": "唇音",
-
   "subtitles.ellie.mmm": "嗯嗯",
-
   "subtitles.ellie.moan": "呻吟",
-
   "subtitles.ellie.mommyhorny": "妈妈想要了",
-
   "subtitles.ellie.sadoh": "悲伤的哦",
-
   "subtitles.ellie.sigh": "叹息",
-
   "key.categories.freecam": "Mate - 自由镜头",
-
   "key.freecam.toggle": "切换自由镜头",
-
   "key.freecam.playerControl": "控制玩家",
-
   "key.freecam.tripodReset": "重置三脚架",
-
   "key.freecam.configGui": "配置界面",
-
   "mate.patchouli.heart_guide.name": "乐趣百科",
   "mate.patchouli.heart_guide.landing_text": "$(o)欢迎来到乐趣百科！$()$(br2)探索你世界中所有美丽的女孩！了解她们的性格、如何驯服她们，以及她们喜欢的场景。$(br2)浏览右侧的分类开始探索吧！",
-
   "msg.freecam.enable": "自由镜头已启用。",
-
   "msg.freecam.disable": "自由镜头已禁用。",
-
   "msg.freecam.openTripod": "打开镜头 %s",
-
   "msg.freecam.closeTripod": "关闭镜头 %s",
-
   "msg.freecam.tripodReset": "重置镜头 %s",
-
   "text.autoconfig.mate.category.default": "Mate",
-
   "text.autoconfig.mate.category.freecam": "自由镜头",
-
   "text.autoconfig.mate.title": "Mate 选项",
-
   "text.autoconfig.mate.option.girls": "女孩",
-
   "text.autoconfig.mate.option.girls.boobWindow": "西瓜窗口",
-
   "text.autoconfig.mate.option.girls.disableShading": "禁用着色",
-
   "text.autoconfig.mate.option.girls.boobJiggle": "西瓜抖动",
-
   "text.autoconfig.mate.option.girls.buttJiggle": "西瓜抖动",
-
   "text.autoconfig.mate.option.girls.boobWindow.@Tooltip": "使女孩的盔甲带有窗口以展示西瓜",
-
   "text.autoconfig.mate.option.girls.disableShading.@Tooltip": "禁用女孩身上的着色/阴影，使其使用平面光照",
-
   "text.autoconfig.mate.option.girls.boobJiggle.@Tooltip": "为女孩的西瓜启用抖动物理效果。",
-
   "text.autoconfig.mate.option.girls.buttJiggle.@Tooltip": "为女孩的臀部启用抖动物理效果。",
-
   "text.autoconfig.mate.option.player": "玩家",
-
   "text.autoconfig.mate.option.player.renderFirstPersonBody": "在第一人称中渲染身体",
-
   "text.autoconfig.mate.option.player.renderFirstPersonBody.@Tooltip": "在第一人称视角下显示已变身女孩的身体（头部仍然隐藏）",
-
   "text.autoconfig.mate.option.player.renderPenis": "渲染坤坤",
-
   "text.autoconfig.mate.option.player.renderPenis.@Tooltip": "在场景中切换玩家模型上坤坤模型的渲染",
-
   "text.autoconfig.mate.option.player.penisShaftColor": "坤坤柱体颜色",
-
   "text.autoconfig.mate.option.player.penisShaftColor.@Tooltip": "设置玩家模型上阴茎柱体的颜色",
-
   "text.autoconfig.mate.option.player.penisHeadColor": "坤坤颜色",
-
   "text.autoconfig.mate.option.player.penisHeadColor.@Tooltip": "设置玩家模型上坤坤的颜色",
-
   "text.autoconfig.mate.option.controls": "按键绑定",
-
   "text.autoconfig.mate.option.controls.@Tooltip": "自由镜头按键绑定。",
-
   "text.autoconfig.mate.option.movement": "移动选项",
-
   "text.autoconfig.mate.option.movement.@Tooltip": "镜头的移动方式。",
-
   "text.autoconfig.mate.option.movement.flightMode": "飞行模式",
-
   "text.autoconfig.mate.option.movement.flightMode.@Tooltip": "自由镜头使用的飞行类型。",
-
   "text.autoconfig.mate.option.movement.flightMode.default": "默认",
-
   "text.autoconfig.mate.option.movement.flightMode.creative": "创造",
-
   "text.autoconfig.mate.option.movement.horizontalSpeed": "水平速度",
-
   "text.autoconfig.mate.option.movement.horizontalSpeed.@Tooltip": "自由镜头的水平速度。",
-
   "text.autoconfig.mate.option.movement.verticalSpeed": "垂直速度",
-
   "text.autoconfig.mate.option.movement.verticalSpeed.@Tooltip": "自由镜头的垂直速度。",
-
   "text.autoconfig.mate.option.collision": "碰撞选项",
-
   "text.autoconfig.mate.option.collision.@Tooltip": "自由镜头中可以穿过哪些方块。",
-
   "text.autoconfig.mate.option.collision.ignoreTransparent": "忽略透明方块",
-
   "text.autoconfig.mate.option.collision.ignoreTransparent.@Tooltip": "允许在自由镜头中穿过透明方块。",
-
   "text.autoconfig.mate.option.collision.ignoreOpenable": "忽略可开启方块",
-
   "text.autoconfig.mate.option.collision.ignoreOpenable.@Tooltip": "允许在自由镜头中穿过门/活板门/栅栏门。",
-
   "text.autoconfig.mate.option.collision.ignoreCustom": "自定义忽略列表",
-
   "text.autoconfig.mate.option.collision.ignoreCustom.@Tooltip[0]": "允许在自由镜头中穿过指定方块。",
-
   "text.autoconfig.mate.option.collision.whitelist.ids": "忽略的方块ID",
-
   "text.autoconfig.mate.option.collision.whitelist.ids.@Tooltip[0]": "使用方块ID，例如 \"grass_block\"。",
-
   "text.autoconfig.mate.option.collision.whitelist.ids.@Tooltip[1]": "如果省略命名空间，默认使用 \"minecraft:\"。",
-
   "text.autoconfig.mate.option.collision.whitelist.patterns": "忽略的正则表达式",
-
   "text.autoconfig.mate.option.collision.whitelist.patterns.@Tooltip[0]": "使用正则表达式语法。",
-
   "text.autoconfig.mate.option.collision.whitelist.patterns.@Tooltip[1]": "匹配完整方块ID，例如 \"minecraft:grass_block\"。",
-
   "text.autoconfig.mate.option.collision.ignoreAll": "忽略所有碰撞",
-
   "text.autoconfig.mate.option.collision.ignoreAll.@Tooltip[0]": "允许在自由镜头中穿过所有方块。",
-
   "text.autoconfig.mate.option.collision.ignoreAll.@Tooltip[1]": "§e覆盖以上设置。",
-
   "text.autoconfig.mate.option.collision.ignoreAll.@ModrinthTooltip[2]": "§c注意：仅在单人游戏、创造模式或拥有管理员权限时可用。",
-
   "text.autoconfig.mate.option.collision.alwaysCheck": "始终检查初始碰撞",
-
   "text.autoconfig.mate.option.collision.alwaysCheck.@Tooltip[0]": "§7初始视角§r 是否应该检查",
-
   "text.autoconfig.mate.option.collision.alwaysCheck.@Tooltip[1]": "碰撞，即使在使用 §7忽略所有碰撞§r 时。",
-
   "text.autoconfig.mate.option.visual": "视觉选项",
-
   "text.autoconfig.mate.option.visual.@Tooltip": "自由镜头的外观。",
-
   "text.autoconfig.mate.option.visual.perspective": "初始视角",
-
   "text.autoconfig.mate.option.visual.perspective.@Tooltip": "镜头的初始视角。",
-
   "text.autoconfig.mate.option.visual.perspective.firstPerson": "第一人称",
-
   "text.autoconfig.mate.option.visual.perspective.thirdPerson": "第三人称",
-
   "text.autoconfig.mate.option.visual.perspective.thirdPersonMirror": "镜像",
-
   "text.autoconfig.mate.option.visual.perspective.inside": "内部",
-
   "text.autoconfig.mate.option.visual.hidePlayer": "隐藏玩家",
-
   "text.autoconfig.mate.option.visual.hidePlayer.@Tooltip": "隐藏你的玩家模型。",
-
   "text.autoconfig.mate.option.visual.showHand": "显示手部",
-
   "text.autoconfig.mate.option.visual.showHand.@Tooltip": "是否在自由镜头中显示手部。",
-
   "text.autoconfig.mate.option.visual.fullBright": "全亮度",
-
   "text.autoconfig.mate.option.visual.fullBright.@Tooltip": "在自由镜头中提高亮度。",
-
   "text.autoconfig.mate.option.visual.showSubmersion": "显示浸没雾效",
-
   "text.autoconfig.mate.option.visual.showSubmersion.@Tooltip": "在水下、岩浆中或细雪中是否显示雾效覆盖。",
-
   "text.autoconfig.mate.option.utility": "实用选项",
-
   "text.autoconfig.mate.option.utility.@Tooltip": "自由镜头增强功能。",
-
   "text.autoconfig.mate.option.utility.disableOnDamage": "受伤时禁用",
-
   "text.autoconfig.mate.option.utility.disableOnDamage.@Tooltip": "受到伤害时禁用自由镜头。",
-
   "text.autoconfig.mate.option.utility.freezePlayer": "冻结玩家",
-
   "text.autoconfig.mate.option.utility.freezePlayer.@Tooltip[0]": "在自由镜头激活时阻止玩家移动。",
-
   "text.autoconfig.mate.option.utility.freezePlayer.@Tooltip[1]": "§c警告：不建议在多人游戏中使用。",
-
   "text.autoconfig.mate.option.utility.allowInteract": "允许交互",
-
   "text.autoconfig.mate.option.utility.allowInteract.@Tooltip[0]": "是否允许在自由镜头中与方块/实体交互。",
-
   "text.autoconfig.mate.option.utility.interactionMode": "交互模式",
-
   "text.autoconfig.mate.option.utility.interactionMode.@Tooltip": "方块/实体交互的来源。",
-
   "text.autoconfig.mate.option.utility.interactionMode.camera": "镜头",
-
   "text.autoconfig.mate.option.utility.interactionMode.player": "玩家",
-
   "text.autoconfig.mate.option.notification": "通知选项",
-
   "text.autoconfig.mate.option.notification.@Tooltip": "显示或隐藏通知。",
-
   "text.autoconfig.mate.option.notification.notifyFreecam": "自由镜头通知",
-
   "text.autoconfig.mate.option.notification.notifyFreecam.@Tooltip": "进入/退出自由镜头时通知你。",
-
   "text.autoconfig.mate.option.notification.notifyTripod": "三脚架通知",
-
   "text.autoconfig.mate.option.notification.notifyTripod.@Tooltip": "进入/退出三脚架镜头时通知你。",
-
   "advancements.mate.root.title": "嘿，你，你终于醒了",
   "advancements.mate.root.description": "你是想偷渡过境的，对吧？",
   "advancements.mate.tame_girl.title": "永远在一起",
@@ -719,7 +491,6 @@
   "advancements.mate.capture_love_ball.description": "使用乐趣球捕获一个女孩",
   "advancements.mate.capture_master_ring.title": "这次跑不掉了",
   "advancements.mate.capture_master_ring.description": "使用主人之戒捕获一个女孩",
-
   "subtitles.sarah.aftersessionmoan": "事后呻吟",
   "subtitles.sarah.ahh": "啊",
   "subtitles.sarah.bjmoan": "口中呻吟",
@@ -737,7 +508,6 @@
   "subtitles.sarah.mommyhorny": "妈妈想要了",
   "subtitles.sarah.sadoh": "悲伤的哦",
   "subtitles.sarah.sigh": "叹息",
-
   "subtitles.gallath.aaa": "战斗呐喊",
   "subtitles.gallath.ahh": "啊",
   "subtitles.gallath.breathing": "呼吸",
@@ -750,7 +520,6 @@
   "subtitles.gallath.orgasm": "去了",
   "subtitles.gallath.strongcharge": "强蓄力",
   "subtitles.gallath.uuh": "唔",
-
   "entity.mate.jenny.variant.jenna": "珍娜",
   "gui.mate.button.variant": "变体",
   "gui.mate.variant_selection": "选择变体",
@@ -762,5 +531,35 @@
   "scene.mate.jenna.straddling": "跨坐",
   "scene.mate.jenna.stuck": "卡住",
   "subtitles.misc.bounceboobs": "珍妮: *西瓜晃动*",
-  "subtitles.misc.clothes": "珍妮: *衣服摩擦声*"
+  "subtitles.misc.clothes": "珍妮: *衣服摩擦声*",
+  "item.mate.alex_spawn_egg": "艾丽克丝刷怪蛋",
+  "entity.mate.alex": "艾丽克丝",
+  "scene.mate.matingPress": "种付压制",
+  "scene.mate.reverseCowgirl": "反向骑乘",
+  "scene.mate.thighSex": "腿交",
+  "scene.mate.fence": "栅栏",
+  "msg.mate.alex.gift.like.1": "哦,给我的?谢啦!",
+  "msg.mate.alex.gift.like.2": "太好了!你还记得!",
+  "msg.mate.alex.gift.like.3": "艾丽克丝表示认可。眼光不错!",
+  "msg.mate.alex.gift.love.1": "哇……你真的很懂我。",
+  "msg.mate.alex.gift.love.2": "再这样下去,我可能永远不想离开你了~",
+  "msg.mate.alex.gift.love.3": "你知道吗,你让艾丽克丝心跳加速了?",
+  "msg.mate.sleepTogetherWake": "按潜行键起身",
+  "subtitles.alex.aftersessionmoan": "事后呻吟",
+  "subtitles.alex.ahh": "啊",
+  "subtitles.alex.bjmoan": "口中呻吟",
+  "subtitles.alex.cometomommy": "到妈妈这里来",
+  "subtitles.alex.giggle": "咯咯笑",
+  "subtitles.alex.goodboy": "好孩子",
+  "subtitles.alex.happyoh": "开心的哦",
+  "subtitles.alex.heavybreathing": "粗重呼吸",
+  "subtitles.alex.hmph": "哼",
+  "subtitles.alex.huh": "嗯？",
+  "subtitles.alex.lightbreathing": "轻微呼吸",
+  "subtitles.alex.lipsound": "唇音",
+  "subtitles.alex.mmm": "嗯嗯",
+  "subtitles.alex.moan": "呻吟",
+  "subtitles.alex.mommyhorny": "妈妈想要了",
+  "subtitles.alex.sadoh": "悲伤的哦",
+  "subtitles.alex.sigh": "叹息"
 }

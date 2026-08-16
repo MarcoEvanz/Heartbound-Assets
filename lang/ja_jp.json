@@ -1,25 +1,18 @@
 {
   "item.mate.jenny_spawn_egg": "ジェニーのスポーンエッグ",
-
   "item.mate.ellie_spawn_egg": "エリーのスポーンエッグ",
-
   "item.mate.bia_spawn_egg": "ビアのスポーンエッグ",
-
   "item.mate.slime_spawn_egg": "スライムのスポーンエッグ",
-
   "item.mate.kobold_spawn_egg": "コボルドのスポーンエッグ",
-
   "item.mate.coppie_spawn_egg": "コッピーのスポーンエッグ",
   "item.mate.aly_spawn_egg": "アリーのスポーンエッグ",
   "item.mate.zoey_spawn_egg": "ゾーイのスポーンエッグ",
   "item.mate.sarah_spawn_egg": "サラのスポーンエッグ",
-
   "item.mate.custom_girl_spawn_egg": "カスタムガールのスポーンエッグ",
   "item.mate.custom_girl_spawn_egg.named": "%sのスポーンエッグ",
   "item.mate.custom_girl_spawn_egg.unspecified": "未選択ガールのスポーンエッグ",
   "item.mate.custom_girl_spawn_egg.choose_first": "空中で右クリックして、どのガールにするか選択してください。",
   "gui.mate.choose_girl_profile.title": "ガールを選んでください",
-
   "item.mate.love_ball": "ラブボール",
   "item.mate.love_ball.filled": "ラブボール（捕獲済み）",
   "item.mate.love_ball.tooltip.girl": "ガール: %s",
@@ -35,7 +28,6 @@
   "item.mate.love_ball.released": "%sをラブボールから解放しました",
   "item.mate.love_ball.invalid_data": "解放に失敗しました - データが無効です！",
   "item.mate.love_ball.spawn_failed": "ガールのスポーンに失敗しました！",
-
   "item.mate.master_ring": "マスターリング",
   "item.mate.master_ring.filled": "マスターリング（捕獲済み）",
   "item.mate.master_ring.tooltip.girl": "ガール: %s",
@@ -53,7 +45,6 @@
   "item.mate.master_ring.invalid_data": "解放に失敗しました - データが無効です！",
   "item.mate.master_ring.spawn_failed": "ガールのスポーンに失敗しました！",
   "item.mate.master_ring.boss_active": "この指輪は堕ちた悪魔を縛れない――ガラスコインを試せ。",
-
   "item.mate.gallath_coin": "ガラスコイン",
   "item.mate.gallath_coin.filled": "ガラスコイン（封印済み）",
   "item.mate.gallath_coin.empty": "このガラスコインは空です！",
@@ -66,10 +57,8 @@
   "item.mate.gallath_coin.coin_only": "彼女を封じられるのはガラスコインだけ――指輪では魂を保てない。",
   "item.mate.gallath_coin.tooltip.girl": "封印中: %s",
   "item.mate.gallath_coin.tooltip.owner": "オーナー: %s",
-
   "item.mate.heart_guide": "ハートガイド",
   "item.mate.heart_guide.tooltip.edition": "初版",
-
   "item.mate.x_pill": "X-ピル",
   "item.mate.h_phone": "Hフォン",
   "item.mate.h_phone.tooltip": "場所を見つけるためのスマートデバイス",
@@ -97,55 +86,35 @@
   "screen.mate.phone.your_items": "あなたのアイテム",
   "screen.mate.phone.no_items": "アイテムなし",
   "gui.mate.girl_selection": "変身先...",
-
   "block.mate.fusion_table": "フュージョンテーブル",
-
   "block.mate.magical_pumpkin": "マジカルパンプキン",
   "block.mate.litted_magical_pumpkin": "光るマジカルパンプキン",
-
   "entity.mate.jenny": "ジェニー",
-
   "entity.mate.ellie": "エリー",
-
   "entity.mate.bia": "ビア",
-
   "entity.mate.slime": "スライム",
-
   "entity.mate.coppie": "コッピー",
-
   "entity.mate.kobold": "コボルド",
-
   "entity.mate.aly": "アリー",
-
   "entity.mate.zoey": "ゾーイ",
-
   "entity.mate.sarah": "サラ",
-
   "entity.mate.gallath": "ガラス",
-
   "entity.mate.tamed_gallath": "ガラス",
-
   "msg.mate.gallath.gift.like.1": "ふむ。許容範囲だ。",
   "msg.mate.gallath.gift.like.2": "小物で私の機嫌を取れると思っているのか？…まあ、続けるがよい。",
   "msg.mate.gallath.gift.like.3": "人間どもは普段もっと粗末な物を捧げる。これは認めてやろう。",
   "msg.mate.gallath.gift.love.1": "甘やかすな。…嫌いではない、と言っておこう。",
   "msg.mate.gallath.gift.love.2": "ちっ――堕ちた悪魔の心を解く術を、よく心得ているな。",
   "msg.mate.gallath.gift.love.3": "私がこんな笑みを見せるのを、当たり前と思うなよ。",
-
   "scene.mate.gallath_grab": "強制グラブ",
   "scene.mate.gallath_corrupt": "堕落",
-
   "entity.mate.custom_girl": "カスタムガール",
-
   "screen.mate.girl_inventory": "インベントリ",
   "screen.mate.girl_inventory.relationship_tooltip": "好感度",
   "screen.mate.fusion_table": "フュージョンテーブル",
-
   "gui.mate.fusion_table": "フュージョンテーブル",
-
   "gui.mate.sceneOptions": "シーンオプション",
   "gui.mate.tooltip.requiresLevel": "好感度レベル%sが必要",
-
   "gui.mate.button.breakUp": "別れる",
   "gui.mate.button.setBase": "拠点を設定",
   "gui.mate.button.goToBase": "拠点へ移動",
@@ -196,18 +165,14 @@
   "gui.mate.button.cancel": "キャンセル",
   "gui.mate.button.clear": "クリア",
   "gui.mate.button.randomize": "ランダム",
-
   "gui.mate.button.defaultGirl": "デフォルトガール",
   "gui.mate.button.customGirl": "カスタムガール",
   "gui.mate.button.back": "戻る",
-
   "gui.mate.search": "検索",
   "gui.mate.search.placeholder": "検索...",
-
   "gui.mate.customizeGirl": "ガールのカスタマイズ",
   "gui.mate.customizeKobold": "コボルドのカスタマイズ",
   "gui.mate.customizePlayer": "プレイヤーのカスタマイズ",
-
   "gui.mate.customize.breastSize": "胸のサイズ",
   "gui.mate.customize.breastOffset": "胸のオフセット",
   "gui.mate.customize.playerBreastSize": "胸のサイズ",
@@ -221,7 +186,6 @@
   "gui.mate.customize.bottomHorns": "下の角:",
   "gui.mate.customize.type": "タイプ %s",
   "gui.mate.customize.offset": "%s オフセット",
-
   "scene.mate.masturbation": "自慰",
   "scene.mate.paizuri": "パイズリ",
   "scene.mate.blowJob": "フェラ",
@@ -237,76 +201,61 @@
   "scene.mate.kneeling": "跪位",
   "scene.mate.cunnilingus": "クンニ",
   "scene.mate.nursing_handjob": "授乳手コキ",
-
   "jei.mate.fusion": "フュージョンレシピ",
-
   "itemgroup.mate.mate_items": "Mateアイテム",
-
   "itemgroup.mate.mate_blocks": "Mateブロック",
-
   "msg.mate.noBedFound": "近くに空いているベッドが必要です...",
   "msg.mate.needsToStrip": "これをするには脱ぐ必要があります。",
-
   "msg.mate.alreadyInRelationship": "彼女は既に他の人と付き合っています",
-
   "msg.mate.sheIgnoresYou": "彼女はあなたを無視しています。%sをあげてみましょう。",
   "msg.mate.askedOutYes": "%sに告白したら§aOKされました",
   "msg.mate.brokeUp": "%sと別れました",
   "msg.mate.diedRespawned": "%sが死亡し、拠点にリスポーンしました: %s, %s, %s",
   "msg.mate.baseSet": "拠点を設定しました（%s, %s, %s）",
   "msg.mate.mustFollowToMine": "採掘するにはガールが追従している必要があります",
-
   "msg.mate.sheLikedTheGift": "彼女はプレゼントを気に入りました",
-
   "msg.mate.gift.like.1": "いいね",
   "msg.mate.gift.like.2": "ありがとう",
   "msg.mate.gift.like.3": "嬉しい",
   "msg.mate.gift.love.1": "あら、ありがとう",
   "msg.mate.gift.love.2": "大好き～_^",
   "msg.mate.gift.love.3": "優しすぎるよ",
-
   "msg.mate.sarah.gift.like.1": "カカオ豆？どこで見つけたの？",
   "msg.mate.sarah.gift.like.2": "ああ、ありがとう――コレクションに加えようと思ってたんだ。",
   "msg.mate.sarah.gift.like.3": "可愛いね。ちゃんと覚えていてくれたんだ。",
   "msg.mate.sarah.gift.love.1": "本当によく見てくれてるね～",
   "msg.mate.sarah.gift.love.2": "ふふ、その調子なら何かもらえるかもよ。",
   "msg.mate.sarah.gift.love.3": "これを持って来る時の笑顔、ちゃんと見てたよ。",
-
   "msg.mate.zoey.gift.like.1": "わぁ、私に？嬉しい！",
   "msg.mate.zoey.gift.like.2": "気が利くね！",
   "msg.mate.zoey.gift.like.3": "ゾーイはプレゼント大好き！",
   "msg.mate.zoey.gift.love.1": "甘やかすの止めて…大好き！",
   "msg.mate.zoey.gift.love.2": "また？女の子の扱いをよく分かってるね～",
   "msg.mate.zoey.gift.love.3": "ゾーイ、心まで温かくなっちゃう…",
-
   "msg.mate.jenny.gift.like.1": "わぁ、私に？ありがとう！",
   "msg.mate.jenny.gift.like.2": "アリウム？嬉しい…！",
   "msg.mate.jenny.gift.like.3": "あはは、最高！",
   "msg.mate.jenny.gift.love.1": "また？あなたこそ最高のプレゼントよ～",
   "msg.mate.jenny.gift.love.2": "もう、優しすぎ。そしてカッコいい～",
   "msg.mate.jenny.gift.love.3": "プレゼントはいいから早くヤって～！",
-
   "msg.mate.ellie.gift.like.1": "え、これって…本物のウィザーローズ…！",
   "msg.mate.ellie.gift.like.2": "あんたダサいけどこれは…ありがと…！",
   "msg.mate.ellie.gift.like.3": "すごい…これがウィザーローズなんだ…！",
   "msg.mate.ellie.gift.love.1": "ん、あんた結構カッコいいじゃん…",
   "msg.mate.ellie.gift.love.2": "ママが欲しいの？",
   "msg.mate.ellie.gift.love.3": "も、もう…やりすぎ…",
-
   "msg.mate.bia.gift.like.1": "わーい！！ポピーだ！！やったー！！",
   "msg.mate.bia.gift.like.2": "わーわーわー！ビアにプレゼント！",
   "msg.mate.bia.gift.like.3": "ビアはプレゼント大好き！もっとちょうだい！",
   "msg.mate.bia.gift.love.1": "やったー！！またプレゼント！ご主人様になってよ！",
   "msg.mate.bia.gift.love.2": "やったやったやった！遊ぼう！",
   "msg.mate.bia.gift.love.3": "モ、ビア…あなたのせいで発情しちゃった…",
-
   "msg.mate.coppie.gift.like.1": "このゴーレムはこの…物を受け取ります。",
   "msg.mate.coppie.gift.like.2": "このゴーレムはプレゼントを適切に受け取ります。",
   "msg.mate.coppie.gift.like.3": "なぜこのゴーレムにプレゼントをくれるのですか、マスター？",
   "msg.mate.coppie.gift.love.1": "このゴーレムは…いえ…私はこれを嬉しく思います、マスター。",
   "msg.mate.coppie.gift.love.2": "これは本当に嬉しいです、マスター。",
   "msg.mate.coppie.gift.love.3": "私の性的機能を使いたくないのですか、マスター？",
-
   "msg.mate.scene.jenny.stripMSG1": "えへへ～",
   "msg.mate.scene.jenny.bjiMSG1": "何してるの...",
   "msg.mate.scene.jenny.bjiMSG2": "えぇ...男って...",
@@ -321,365 +270,188 @@
   "msg.mate.scene.jenny.doggyintroMSG4": "あぁ～！",
   "msg.mate.scene.jenny.doggyintroMSG5": "ああぁ～！",
   "msg.mate.scene.jenny.doggycumMSG1": "イクっ～！",
-
   "msg.mate.scene.player.bjiMSG8": "いぇい",
-
   "msg.mate.scene.ellie.carry_introMSG1": "お腹空いた..",
   "msg.mate.scene.ellie.carry_introMSG2": "ふふ～",
   "msg.mate.scene.ellie.sitdownMSG1": "ママのところにおいで～",
   "msg.mate.scene.ellie.missionary_cumMSG2": "いい子...えぇ...ふふ～",
   "msg.mate.scene.ellie.cowgirlStartMSG1": "見てるの好き？～",
   "msg.mate.scene.ellie.cowgirlcumMSG4": "いい子...えぇ...ふふ～",
-
   "msg.mate.scene.bia.sitdownMSG1": "こっちにおいで～",
-
   "msg.mate.scene.zoey.sitdownMSG1": "おいで～可愛い人～",
-
   "msg.mate.canGoInToFreeCam": "フリーカメラモードに入るにはF4を押してください",
-
   "key.Mate.thrust": "突き",
-
   "key.Mate.cum": "射精",
-
   "key.Mate.transformScene": "変身シーン",
-
   "key.categories.Mate": "Mate",
-
   "subtitles.bedrustle": "ベッドのきしみ",
-
   "subtitles.belljingle": "鈴が鳴る",
-
   "subtitles.clap": "パンパン",
-
   "subtitles.cuminflation": "中出し膨張",
-
   "subtitles.flap": "パタパタ",
-
   "subtitles.inserts": "挿入",
-
   "subtitles.pounding": "激しく突く",
-
   "subtitles.slap": "ぺちん",
-
   "subtitles.slide": "ズルッ",
-
   "subtitles.smallinserts": "浅い挿入",
-
   "subtitles.touch": "タッチ",
-
   "subtitles.plob": "ポロン",
-
   "subtitles.jenny.heavybreathing": "荒い息",
-
   "subtitles.jenny.hmph": "ふんっ",
-
   "subtitles.jenny.huh": "えっ",
-
   "subtitles.jenny.aftersessionmoan": "事後の喘ぎ",
-
   "subtitles.jenny.ahh": "あぁ",
-
   "subtitles.jenny.bjmoan": "フェラの喘ぎ",
-
   "subtitles.jenny.giggle": "くすくす",
-
   "subtitles.jenny.happyoh": "嬉しいあぁ",
-
   "subtitles.jenny.lightbreathing": "軽い息",
-
   "subtitles.jenny.lipsound": "リップ音",
-
   "subtitles.jenny.mmm": "んん",
-
   "subtitles.jenny.moan": "喘ぎ",
-
   "subtitles.jenny.sadoh": "悲しいあぁ",
-
   "subtitles.jenny.sigh": "ため息",
-
   "subtitles.bia.ahh": "あぁ",
-
   "subtitles.bia.bjmoan": "フェラの喘ぎ",
-
   "subtitles.bia.moan": "喘ぎ",
-
   "subtitles.bia.lightbreathing": "軽い息",
-
   "subtitles.bia.giggle": "くすくす",
-
   "subtitles.bia.hey": "ねぇ",
-
   "subtitles.bia.happyoh": "嬉しいあぁ",
-
   "subtitles.bia.sadoh": "悲しいあぁ",
-
   "subtitles.bia.sigh": "ため息",
-
   "subtitles.bia.huh": "えっ",
-
   "subtitles.bia.hmph": "ふんっ",
-
   "subtitles.bia.mmm": "んん",
-
   "subtitles.zoey.ahh": "あぁ",
-
   "subtitles.zoey.bjmoan": "フェラの喘ぎ",
-
   "subtitles.zoey.moan": "喘ぎ",
-
   "subtitles.zoey.lightbreathing": "軽い息",
-
   "subtitles.zoey.giggle": "くすくす",
-
   "subtitles.zoey.hey": "ねぇ",
-
   "subtitles.zoey.happyoh": "嬉しいあぁ",
-
   "subtitles.zoey.sadoh": "悲しいあぁ",
-
   "subtitles.zoey.sigh": "ため息",
-
   "subtitles.zoey.huh": "えっ",
-
   "subtitles.zoey.hmph": "ふんっ",
-
   "subtitles.zoey.mmm": "んん",
-
   "subtitles.ellie.aftersessionmoan": "事後の喘ぎ",
-
   "subtitles.ellie.ahh": "あぁ",
-
   "subtitles.ellie.bjmoan": "フェラの喘ぎ",
-
   "subtitles.ellie.cometomommy": "ママのところにおいで",
-
   "subtitles.ellie.giggle": "くすくす",
-
   "subtitles.ellie.goodboy": "いい子",
-
   "subtitles.ellie.happyoh": "嬉しいあぁ",
-
   "subtitles.ellie.heavybreathing": "荒い息",
-
   "subtitles.ellie.hmph": "ふんっ",
-
   "subtitles.ellie.huh": "えっ",
-
   "subtitles.ellie.lightbreathing": "軽い息",
-
   "subtitles.ellie.lipsound": "リップ音",
-
   "subtitles.ellie.mmm": "んん",
-
   "subtitles.ellie.moan": "喘ぎ",
-
   "subtitles.ellie.mommyhorny": "ママ発情中",
-
   "subtitles.ellie.sadoh": "悲しいあぁ",
-
   "subtitles.ellie.sigh": "ため息",
-
   "key.categories.freecam": "Mate - フリーカメラ",
-
   "key.freecam.toggle": "フリーカメラ切替",
-
   "key.freecam.playerControl": "プレイヤー操作",
-
   "key.freecam.tripodReset": "三脚リセット",
-
   "key.freecam.configGui": "設定画面",
-
   "mate.patchouli.heart_guide.name": "ハートガイド",
   "mate.patchouli.heart_guide.landing_text": "$(o)ハートガイドへようこそ！$()$(br2)あなたの世界にいる全てのガールを発見しましょう！性格やなつかせ方、好きなシーンについて学べます。$(br2)右のカテゴリーを選んで始めましょう！",
-
   "msg.freecam.enable": "フリーカメラが有効になりました。",
-
   "msg.freecam.disable": "フリーカメラが無効になりました。",
-
   "msg.freecam.openTripod": "カメラ%sを開いています",
-
   "msg.freecam.closeTripod": "カメラ%sを閉じています",
-
   "msg.freecam.tripodReset": "カメラ%sをリセット",
-
   "text.autoconfig.mate.category.default": "Mate",
-
   "text.autoconfig.mate.category.freecam": "フリーカメラ",
-
   "text.autoconfig.mate.title": "Mate設定",
-
   "text.autoconfig.mate.option.girls": "ガール",
-
   "text.autoconfig.mate.option.girls.boobWindow": "胸の窓",
-
   "text.autoconfig.mate.option.girls.disableShading": "シェーディング無効",
-
   "text.autoconfig.mate.option.girls.boobJiggle": "胸の揺れ",
-
   "text.autoconfig.mate.option.girls.buttJiggle": "お尻の揺れ",
-
   "text.autoconfig.mate.option.girls.boobWindow.@Tooltip": "ガールの防具に胸が見える窓を追加します",
-
   "text.autoconfig.mate.option.girls.disableShading.@Tooltip": "ガールのシェーディング/影を無効にしてフラットライティングにします",
-
   "text.autoconfig.mate.option.girls.boobJiggle.@Tooltip": "ガールの胸に揺れの物理演算を有効にします。",
-
   "text.autoconfig.mate.option.girls.buttJiggle.@Tooltip": "ガールのお尻に揺れの物理演算を有効にします。",
-
   "text.autoconfig.mate.option.player": "プレイヤー",
-
   "text.autoconfig.mate.option.player.renderFirstPersonBody": "一人称で体を表示",
-
   "text.autoconfig.mate.option.player.renderFirstPersonBody.@Tooltip": "一人称視点で変身したガールの体を表示します（頭は非表示のまま）",
-
   "text.autoconfig.mate.option.player.renderPenis": "ペニスを表示",
-
   "text.autoconfig.mate.option.player.renderPenis.@Tooltip": "シーン中にプレイヤーモデルにペニスを表示するかどうか切り替え",
-
   "text.autoconfig.mate.option.player.penisShaftColor": "ペニスの竿の色",
-
   "text.autoconfig.mate.option.player.penisShaftColor.@Tooltip": "プレイヤーモデルのペニスの竿の色を設定します",
-
   "text.autoconfig.mate.option.player.penisHeadColor": "ペニスの先端の色",
-
   "text.autoconfig.mate.option.player.penisHeadColor.@Tooltip": "プレイヤーモデルのペニスの先端の色を設定します",
-
   "text.autoconfig.mate.option.controls": "キー設定",
-
   "text.autoconfig.mate.option.controls.@Tooltip": "フリーカメラのキー設定。",
-
   "text.autoconfig.mate.option.movement": "移動オプション",
-
   "text.autoconfig.mate.option.movement.@Tooltip": "カメラの移動方法。",
-
   "text.autoconfig.mate.option.movement.flightMode": "飛行モード",
-
   "text.autoconfig.mate.option.movement.flightMode.@Tooltip": "フリーカメラで使用する飛行タイプ。",
-
   "text.autoconfig.mate.option.movement.flightMode.default": "デフォルト",
-
   "text.autoconfig.mate.option.movement.flightMode.creative": "クリエイティブ",
-
   "text.autoconfig.mate.option.movement.horizontalSpeed": "水平速度",
-
   "text.autoconfig.mate.option.movement.horizontalSpeed.@Tooltip": "フリーカメラの水平速度。",
-
   "text.autoconfig.mate.option.movement.verticalSpeed": "垂直速度",
-
   "text.autoconfig.mate.option.movement.verticalSpeed.@Tooltip": "フリーカメラの垂直速度。",
-
   "text.autoconfig.mate.option.collision": "衝突オプション",
-
   "text.autoconfig.mate.option.collision.@Tooltip": "フリーカメラで通過できるブロック。",
-
   "text.autoconfig.mate.option.collision.ignoreTransparent": "透明ブロックを無視",
-
   "text.autoconfig.mate.option.collision.ignoreTransparent.@Tooltip": "フリーカメラで透明ブロックを通過できます。",
-
   "text.autoconfig.mate.option.collision.ignoreOpenable": "開閉ブロックを無視",
-
   "text.autoconfig.mate.option.collision.ignoreOpenable.@Tooltip": "フリーカメラでドア/トラップドア/ゲートを通過できます。",
-
   "text.autoconfig.mate.option.collision.ignoreCustom": "カスタム無視リスト",
-
   "text.autoconfig.mate.option.collision.ignoreCustom.@Tooltip[0]": "フリーカメラで特定のブロックを通過できます。",
-
   "text.autoconfig.mate.option.collision.whitelist.ids": "無視するID",
-
   "text.autoconfig.mate.option.collision.whitelist.ids.@Tooltip[0]": "ブロックIDを使用してください。例: \"grass_block\"。",
-
   "text.autoconfig.mate.option.collision.whitelist.ids.@Tooltip[1]": "名前空間を省略すると\"minecraft:\"が使われます。",
-
   "text.autoconfig.mate.option.collision.whitelist.patterns": "無視する正規表現",
-
   "text.autoconfig.mate.option.collision.whitelist.patterns.@Tooltip[0]": "正規表現構文を使用してください。",
-
   "text.autoconfig.mate.option.collision.whitelist.patterns.@Tooltip[1]": "完全なブロックIDに対してマッチします。例: \"minecraft:grass_block\"。",
-
   "text.autoconfig.mate.option.collision.ignoreAll": "全ての衝突を無視",
-
   "text.autoconfig.mate.option.collision.ignoreAll.@Tooltip[0]": "フリーカメラで全てのブロックを通過できます。",
-
   "text.autoconfig.mate.option.collision.ignoreAll.@Tooltip[1]": "§e上記の設定を上書きします。",
-
   "text.autoconfig.mate.option.collision.ignoreAll.@ModrinthTooltip[2]": "§c注意: シングルプレイヤー、クリエイティブ、またはオペレーター権限でのみ使用できます。",
-
   "text.autoconfig.mate.option.collision.alwaysCheck": "常に初期衝突をチェック",
-
   "text.autoconfig.mate.option.collision.alwaysCheck.@Tooltip[0]": "§7初期パースペクティブ§rが衝突をチェックするかどうか",
-
   "text.autoconfig.mate.option.collision.alwaysCheck.@Tooltip[1]": "§7全ての衝突を無視§rを使用している場合でも。",
-
   "text.autoconfig.mate.option.visual": "ビジュアルオプション",
-
   "text.autoconfig.mate.option.visual.@Tooltip": "フリーカメラの見た目。",
-
   "text.autoconfig.mate.option.visual.perspective": "初期パースペクティブ",
-
   "text.autoconfig.mate.option.visual.perspective.@Tooltip": "カメラの初期パースペクティブ。",
-
   "text.autoconfig.mate.option.visual.perspective.firstPerson": "一人称",
-
   "text.autoconfig.mate.option.visual.perspective.thirdPerson": "三人称",
-
   "text.autoconfig.mate.option.visual.perspective.thirdPersonMirror": "ミラー",
-
   "text.autoconfig.mate.option.visual.perspective.inside": "内部",
-
   "text.autoconfig.mate.option.visual.hidePlayer": "プレイヤーを非表示",
-
   "text.autoconfig.mate.option.visual.hidePlayer.@Tooltip": "プレイヤーモデルを非表示にします。",
-
   "text.autoconfig.mate.option.visual.showHand": "手を表示",
-
   "text.autoconfig.mate.option.visual.showHand.@Tooltip": "フリーカメラで手を表示するかどうか。",
-
   "text.autoconfig.mate.option.visual.fullBright": "フル明るさ",
-
   "text.autoconfig.mate.option.visual.fullBright.@Tooltip": "フリーカメラ中の明るさを上げます。",
-
   "text.autoconfig.mate.option.visual.showSubmersion": "水没フォグを表示",
-
   "text.autoconfig.mate.option.visual.showSubmersion.@Tooltip": "水中、溶岩中、粉雪中にフォグオーバーレイを表示するかどうか。",
-
   "text.autoconfig.mate.option.utility": "ユーティリティオプション",
-
   "text.autoconfig.mate.option.utility.@Tooltip": "フリーカメラの拡張機能。",
-
   "text.autoconfig.mate.option.utility.disableOnDamage": "ダメージで無効",
-
   "text.autoconfig.mate.option.utility.disableOnDamage.@Tooltip": "ダメージを受けるとフリーカメラを無効にします。",
-
   "text.autoconfig.mate.option.utility.freezePlayer": "プレイヤーを固定",
-
   "text.autoconfig.mate.option.utility.freezePlayer.@Tooltip[0]": "フリーカメラ中のプレイヤーの移動を防ぎます。",
-
   "text.autoconfig.mate.option.utility.freezePlayer.@Tooltip[1]": "§c警告: マルチプレイヤーでの使用は非推奨。",
-
   "text.autoconfig.mate.option.utility.allowInteract": "インタラクションを許可",
-
   "text.autoconfig.mate.option.utility.allowInteract.@Tooltip[0]": "フリーカメラでブロック/エンティティとインタラクションできるかどうか。",
-
   "text.autoconfig.mate.option.utility.interactionMode": "インタラクションモード",
-
   "text.autoconfig.mate.option.utility.interactionMode.@Tooltip": "ブロック/エンティティインタラクションのソース。",
-
   "text.autoconfig.mate.option.utility.interactionMode.camera": "カメラ",
-
   "text.autoconfig.mate.option.utility.interactionMode.player": "プレイヤー",
-
   "text.autoconfig.mate.option.notification": "通知オプション",
-
   "text.autoconfig.mate.option.notification.@Tooltip": "通知の表示/非表示。",
-
   "text.autoconfig.mate.option.notification.notifyFreecam": "フリーカメラ通知",
-
   "text.autoconfig.mate.option.notification.notifyFreecam.@Tooltip": "フリーカメラの開始/終了を通知します。",
-
   "text.autoconfig.mate.option.notification.notifyTripod": "三脚通知",
-
   "text.autoconfig.mate.option.notification.notifyTripod.@Tooltip": "三脚カメラの開始/終了を通知します。",
-
   "advancements.mate.root.title": "おい、お前。やっと目を覚ましたか",
   "advancements.mate.root.description": "国境を越えようとしてたんだろ？",
   "advancements.mate.tame_girl.title": "ずっと一緒",
@@ -718,7 +490,6 @@
   "advancements.mate.capture_love_ball.description": "ラブボールでガールを捕獲する",
   "advancements.mate.capture_master_ring.title": "今度は逃がさないぞ",
   "advancements.mate.capture_master_ring.description": "マスターリングでガールを捕獲する",
-
   "subtitles.sarah.aftersessionmoan": "事後の喘ぎ",
   "subtitles.sarah.ahh": "あぁ",
   "subtitles.sarah.bjmoan": "フェラの喘ぎ",
@@ -736,7 +507,6 @@
   "subtitles.sarah.mommyhorny": "ママ発情中",
   "subtitles.sarah.sadoh": "悲しいあぁ",
   "subtitles.sarah.sigh": "ため息",
-
   "subtitles.gallath.aaa": "戦闘の叫び",
   "subtitles.gallath.ahh": "あぁ",
   "subtitles.gallath.breathing": "呼吸",
@@ -749,7 +519,6 @@
   "subtitles.gallath.orgasm": "オーガズム",
   "subtitles.gallath.strongcharge": "強いチャージ",
   "subtitles.gallath.uuh": "うぅ",
-
   "entity.mate.jenny.variant.jenna": "ジェナ",
   "gui.mate.button.variant": "バリアント",
   "gui.mate.variant_selection": "バリアントを選択",
@@ -761,5 +530,35 @@
   "scene.mate.jenna.straddling": "またがり",
   "scene.mate.jenna.stuck": "拘束",
   "subtitles.misc.bounceboobs": "ジェニー: *胸が揺れる*",
-  "subtitles.misc.clothes": "ジェニー: *衣ずれの音*"
+  "subtitles.misc.clothes": "ジェニー: *衣ずれの音*",
+  "item.mate.alex_spawn_egg": "アレックスのスポーンエッグ",
+  "entity.mate.alex": "アレックス",
+  "scene.mate.matingPress": "種付けプレス",
+  "scene.mate.reverseCowgirl": "背面騎乗位",
+  "scene.mate.thighSex": "素股",
+  "scene.mate.fence": "フェンス",
+  "msg.mate.alex.gift.like.1": "お、私に？ありがと!",
+  "msg.mate.alex.gift.like.2": "やった!覚えててくれたんだ!",
+  "msg.mate.alex.gift.like.3": "アレックス的に合格。いいチョイス!",
+  "msg.mate.alex.gift.love.1": "わぁ…ほんとに私のことわかってるね。",
+  "msg.mate.alex.gift.love.2": "こんなの続けられたら、もう離れられないかも~",
+  "msg.mate.alex.gift.love.3": "アレックスの心臓、ドキドキさせてるの分かってる?",
+  "msg.mate.sleepTogetherWake": "スニークキーで起き上がる",
+  "subtitles.alex.aftersessionmoan": "事後の喘ぎ",
+  "subtitles.alex.ahh": "あぁ",
+  "subtitles.alex.bjmoan": "フェラの喘ぎ",
+  "subtitles.alex.cometomommy": "ママのところにおいで",
+  "subtitles.alex.giggle": "くすくす",
+  "subtitles.alex.goodboy": "いい子",
+  "subtitles.alex.happyoh": "嬉しいあぁ",
+  "subtitles.alex.heavybreathing": "荒い息",
+  "subtitles.alex.hmph": "ふんっ",
+  "subtitles.alex.huh": "えっ",
+  "subtitles.alex.lightbreathing": "軽い息",
+  "subtitles.alex.lipsound": "リップ音",
+  "subtitles.alex.mmm": "んん",
+  "subtitles.alex.moan": "喘ぎ",
+  "subtitles.alex.mommyhorny": "ママ発情中",
+  "subtitles.alex.sadoh": "悲しいあぁ",
+  "subtitles.alex.sigh": "ため息"
 }

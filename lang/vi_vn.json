@@ -1,25 +1,18 @@
 {
   "item.mate.jenny_spawn_egg": "Trứng Triệu Hồi Jenny",
-
   "item.mate.ellie_spawn_egg": "Trứng Triệu Hồi Ellie",
-
   "item.mate.bia_spawn_egg": "Trứng Triệu Hồi Bia",
-
   "item.mate.slime_spawn_egg": "Trứng Triệu Hồi Slime",
-
   "item.mate.kobold_spawn_egg": "Trứng Triệu Hồi Kobold",
-
   "item.mate.coppie_spawn_egg": "Trứng Triệu Hồi Coppie",
   "item.mate.aly_spawn_egg": "Trứng Triệu Hồi Aly",
   "item.mate.zoey_spawn_egg": "Trứng Triệu Hồi Zoey",
   "item.mate.sarah_spawn_egg": "Trứng Triệu Hồi Sarah",
-
   "item.mate.custom_girl_spawn_egg": "Trứng Triệu Hồi Cô Gái Tùy Chỉnh",
   "item.mate.custom_girl_spawn_egg.named": "Trứng Triệu Hồi %s",
   "item.mate.custom_girl_spawn_egg.unspecified": "Trứng Triệu Hồi Cô Gái Chưa Chọn",
   "item.mate.custom_girl_spawn_egg.choose_first": "Chuột phải vào không trung để chọn cô gái mà trứng này sẽ trở thành.",
   "gui.mate.choose_girl_profile.title": "Chọn Một Cô Gái",
-
   "item.mate.love_ball": "Quả Cầu Tình Yêu",
   "item.mate.love_ball.filled": "Quả Cầu Tình Yêu (Đã Bắt)",
   "item.mate.love_ball.tooltip.girl": "Cô gái: %s",
@@ -35,7 +28,6 @@
   "item.mate.love_ball.released": "Đã thả %s ra khỏi Quả Cầu Tình Yêu",
   "item.mate.love_ball.invalid_data": "Thả thất bại - dữ liệu không hợp lệ!",
   "item.mate.love_ball.spawn_failed": "Triệu hồi cô gái thất bại!",
-
   "item.mate.master_ring": "Nhẫn Chủ Nhân",
   "item.mate.master_ring.filled": "Nhẫn Chủ Nhân (Đã Bắt)",
   "item.mate.master_ring.tooltip.girl": "Cô gái: %s",
@@ -53,7 +45,6 @@
   "item.mate.master_ring.invalid_data": "Thả thất bại - dữ liệu không hợp lệ!",
   "item.mate.master_ring.spawn_failed": "Triệu hồi cô gái thất bại!",
   "item.mate.master_ring.boss_active": "Nhẫn không thể trói buộc một ác quỷ sa ngã — hãy thử Đồng Tiền Gallath.",
-
   "item.mate.gallath_coin": "Đồng Tiền Gallath",
   "item.mate.gallath_coin.filled": "Đồng Tiền Gallath (Đã Phong Ấn)",
   "item.mate.gallath_coin.empty": "Đồng Tiền Gallath này trống!",
@@ -66,10 +57,8 @@
   "item.mate.gallath_coin.coin_only": "Chỉ Đồng Tiền Gallath mới có thể phong ấn cô ta — chiếc nhẫn không giữ nổi linh hồn cô.",
   "item.mate.gallath_coin.tooltip.girl": "Đã phong ấn: %s",
   "item.mate.gallath_coin.tooltip.owner": "Chủ nhân: %s",
-
   "item.mate.heart_guide": "Cẩm Nang Trái Tim",
   "item.mate.heart_guide.tooltip.edition": "Ấn Bản Thứ Nhất",
-
   "item.mate.x_pill": "Viên X",
   "item.mate.h_phone": "H-Phone",
   "item.mate.h_phone.tooltip": "Thiết bị thông minh dùng để tìm địa điểm",
@@ -97,55 +86,35 @@
   "screen.mate.phone.your_items": "Vật Phẩm Của Bạn",
   "screen.mate.phone.no_items": "Không có vật phẩm",
   "gui.mate.girl_selection": "Biến Hình Thành...",
-
-  "block.mate.fusion_table" : "Bàn Dung Hợp",
-
-  "block.mate.magical_pumpkin" : "Bí Ngô Ma Thuật",
-  "block.mate.litted_magical_pumpkin" : "Bí Ngô Ma Thuật Phát Sáng",
-
+  "block.mate.fusion_table": "Bàn Dung Hợp",
+  "block.mate.magical_pumpkin": "Bí Ngô Ma Thuật",
+  "block.mate.litted_magical_pumpkin": "Bí Ngô Ma Thuật Phát Sáng",
   "entity.mate.jenny": "Jenny",
-
   "entity.mate.ellie": "Ellie",
-
   "entity.mate.bia": "Bia",
-
   "entity.mate.slime": "Slime",
-
   "entity.mate.coppie": "Coppie",
-
   "entity.mate.kobold": "Kobold",
-
   "entity.mate.aly": "Aly",
-
   "entity.mate.zoey": "Zoey",
-
   "entity.mate.sarah": "Sarah",
-
   "entity.mate.gallath": "Gallath",
-
   "entity.mate.tamed_gallath": "Gallath",
-
   "msg.mate.gallath.gift.like.1": "Hừm. Chấp nhận được.",
   "msg.mate.gallath.gift.like.2": "Ngươi nghĩ một món đồ nhỏ có thể mua chuộc ta sao? …Thôi được, cứ tiếp tục đi.",
   "msg.mate.gallath.gift.like.3": "Phàm nhân thường dâng những thứ tệ hơn. Ta sẽ chấp nhận.",
   "msg.mate.gallath.gift.love.1": "Ngươi chiều ta quá. Ta không chắc là mình ghét điều đó.",
   "msg.mate.gallath.gift.love.2": "Tch — ngươi thật sự biết cách làm tan chảy một ác quỷ sa ngã.",
   "msg.mate.gallath.gift.love.3": "Đừng quen với việc thấy ta cười như thế này.",
-
   "scene.mate.gallath_grab": "Tóm Cưỡng Bức",
   "scene.mate.gallath_corrupt": "Tha Hóa",
-
   "entity.mate.custom_girl": "Cô Gái Tùy Chỉnh",
-
   "screen.mate.girl_inventory": "Kho Đồ",
   "screen.mate.girl_inventory.relationship_tooltip": "Mức Độ Quan Hệ",
   "screen.mate.fusion_table": "Bàn Dung Hợp",
-
   "gui.mate.fusion_table": "Bàn Dung Hợp",
-
   "gui.mate.sceneOptions": "Tùy Chọn Cảnh",
   "gui.mate.tooltip.requiresLevel": "Yêu cầu Mức Độ Quan Hệ %s",
-
   "gui.mate.button.breakUp": "Chia Tay",
   "gui.mate.button.setBase": "Đặt Căn Cứ Tại Đây",
   "gui.mate.button.goToBase": "Về Căn Cứ",
@@ -196,18 +165,14 @@
   "gui.mate.button.cancel": "Hủy",
   "gui.mate.button.clear": "Xóa",
   "gui.mate.button.randomize": "Ngẫu Nhiên",
-
   "gui.mate.button.defaultGirl": "Cô Gái Mặc Định",
   "gui.mate.button.customGirl": "Cô Gái Tùy Chỉnh",
   "gui.mate.button.back": "Quay Lại",
-
   "gui.mate.search": "Tìm Kiếm",
   "gui.mate.search.placeholder": "Tìm kiếm...",
-
   "gui.mate.customizeGirl": "Tùy Chỉnh Cô Gái",
   "gui.mate.customizeKobold": "Tùy Chỉnh Kobold",
   "gui.mate.customizePlayer": "Tùy Chỉnh Người Chơi",
-
   "gui.mate.customize.breastSize": "Kích Thước Ngực",
   "gui.mate.customize.breastOffset": "Vị Trí Ngực",
   "gui.mate.customize.playerBreastSize": "Kích Thước Ngực",
@@ -221,7 +186,6 @@
   "gui.mate.customize.bottomHorns": "Sừng Dưới:",
   "gui.mate.customize.type": "Loại %s",
   "gui.mate.customize.offset": "Dịch Chuyển %s",
-
   "scene.mate.masturbation": "Thủ Dâm",
   "scene.mate.paizuri": "Paizuri",
   "scene.mate.blowJob": "Bú Cu",
@@ -237,76 +201,61 @@
   "scene.mate.kneeling": "Quỳ Gối",
   "scene.mate.cunnilingus": "Liếm Lồn",
   "scene.mate.nursing_handjob": "Bú Sữa Kèm Móc",
-
   "jei.mate.fusion": "Công Thức Dung Hợp",
-
   "itemgroup.mate.mate_items": "Vật Phẩm Mate",
-
   "itemgroup.mate.mate_blocks": "Khối Mate",
-
-  "msg.mate.noBedFound" : "Chúng ta cần một chiếc giường trống gần đây cho việc này...",
-  "msg.mate.needsToStrip" : "Bạn cần cởi đồ trước khi làm điều này.",
-
-  "msg.mate.alreadyInRelationship" : "Cô ấy đã có quan hệ với người khác rồi",
-
+  "msg.mate.noBedFound": "Chúng ta cần một chiếc giường trống gần đây cho việc này...",
+  "msg.mate.needsToStrip": "Bạn cần cởi đồ trước khi làm điều này.",
+  "msg.mate.alreadyInRelationship": "Cô ấy đã có quan hệ với người khác rồi",
   "msg.mate.sheIgnoresYou": "Cô ấy phớt lờ bạn. Thử tặng cô ấy một %s xem.",
   "msg.mate.askedOutYes": "Bạn đã tỏ tình với %s và cô ấy nói §aCó",
   "msg.mate.brokeUp": "Bạn đã chia tay với %s",
   "msg.mate.diedRespawned": "%s đã chết và hồi sinh tại căn cứ: %s, %s, %s",
   "msg.mate.baseSet": "Đã đặt căn cứ tại (%s, %s, %s)",
   "msg.mate.mustFollowToMine": "Cô gái phải đang đi theo để đào quặng",
-
   "msg.mate.sheLikedTheGift": "Cô Ấy Thích Món Quà",
-
   "msg.mate.gift.like.1": "Hay đấy",
   "msg.mate.gift.like.2": "Cảm ơn bạn nhiều lắm",
   "msg.mate.gift.like.3": "Thật ngọt ngào",
   "msg.mate.gift.love.1": "Ồ, cảm ơn nhé",
   "msg.mate.gift.love.2": "Yêu bạn ~_^",
   "msg.mate.gift.love.3": "Bạn tốt với mình quá",
-
   "msg.mate.sarah.gift.like.1": "Hạt cacao? Bạn tìm thấy ở đâu vậy?",
   "msg.mate.sarah.gift.like.2": "Ồ, cảm ơn — mình đang định thêm cái này vào bộ sưu tập.",
   "msg.mate.sarah.gift.like.3": "Dễ thương ghê. Bạn vẫn nhớ đấy.",
   "msg.mate.sarah.gift.love.1": "Bạn thật sự để ý mọi thứ nhỉ~",
   "msg.mate.sarah.gift.love.2": "Hmm, cứ như vậy thì có thể bạn sẽ được thưởng đấy.",
   "msg.mate.sarah.gift.love.3": "Đừng tưởng mình không thấy bạn cười khi mang cái này tới đâu.",
-
   "msg.mate.zoey.gift.like.1": "Ooh, cho mình á? Dễ thương quá!",
   "msg.mate.zoey.gift.like.2": "Bạn chu đáo ghê!",
   "msg.mate.zoey.gift.like.3": "Zoey thích quà lắm!",
   "msg.mate.zoey.gift.love.1": "Bạn cứ chiều mình mãi… mình thích lắm!",
   "msg.mate.zoey.gift.love.2": "Lại nữa á? Bạn biết cách đối xử với con gái thật~",
   "msg.mate.zoey.gift.love.3": "Bạn làm Zoey ấm áp cả trong lòng…",
-
   "msg.mate.jenny.gift.like.1": "Wow, cho mình á? Cảm ơn!",
   "msg.mate.jenny.gift.like.2": "Hoa allium á? Dễ thương quá…!",
   "msg.mate.jenny.gift.like.3": "Ahaha, tuyệt vời!",
   "msg.mate.jenny.gift.love.1": "Ồ, thêm một cái nữa á? Thật ra bạn mới là món quà đẹp nhất~.",
   "msg.mate.jenny.gift.love.2": "Anh ơi, anh tốt quá. Và nóng bỏng nữa~.",
   "msg.mate.jenny.gift.love.3": "Thôi đừng tặng quà nữa mà làm luôn đi~!",
-
   "msg.mate.ellie.gift.like.1": "Khoan, đó là… Một bông Hoa Wither thật sao…!",
   "msg.mate.ellie.gift.like.2": "Cậu hơi nhạt nhẽo nhưng cái này thì… Cảm ơn…!",
   "msg.mate.ellie.gift.like.3": "Tuyệt vời… Vậy đây là hoa Wither thật à…!",
   "msg.mate.ellie.gift.love.1": "Mm, cậu thật ra cũng nóng bỏng phết đấy…",
   "msg.mate.ellie.gift.love.2": "Cậu đang cần một người mẹ hay sao?",
   "msg.mate.ellie.gift.love.3": "T-Thôi đi… Nhiều quá rồi…",
-
   "msg.mate.bia.gift.like.1": "Wow!!! Hoa poppy!! Yay!!",
   "msg.mate.bia.gift.like.2": "Wow, wow wow! Quà cho Bia!",
   "msg.mate.bia.gift.like.3": "Bia thích quà! Cho Bia thêm nữa đi!",
   "msg.mate.bia.gift.love.1": "Yay!! Thêm quà nữa! Bạn thật sự nên làm chủ nhân của Bia!",
   "msg.mate.bia.gift.love.2": "Yay, yay, yay! Mình chơi được chưa!",
   "msg.mate.bia.gift.love.3": "M-Bia đang động dục vì bạn…",
-
   "msg.mate.coppie.gift.like.1": "Golem này chấp nhận… thứ này.",
   "msg.mate.coppie.gift.like.2": "Golem này sẽ tiếp nhận món quà theo đúng quy trình.",
   "msg.mate.coppie.gift.like.3": "Tại sao ngài lại tặng quà cho golem này, chủ nhân?",
   "msg.mate.coppie.gift.love.1": "Golem này… không… Tôi rất trân trọng điều này, chủ nhân.",
   "msg.mate.coppie.gift.love.2": "Điều này thật sự có ý nghĩa lớn với tôi, chủ nhân.",
   "msg.mate.coppie.gift.love.3": "Ngài có chắc không muốn sử dụng chức năng tình dục của tôi không, chủ nhân?",
-
   "msg.mate.scene.jenny.stripMSG1": "Hihi~",
   "msg.mate.scene.jenny.bjiMSG1": "Anh đang làm gì...",
   "msg.mate.scene.jenny.bjiMSG2": "eh... đàn ông...",
@@ -321,365 +270,188 @@
   "msg.mate.scene.jenny.doggyintroMSG4": "Oh~!",
   "msg.mate.scene.jenny.doggyintroMSG5": "Ahhh~!",
   "msg.mate.scene.jenny.doggycumMSG1": "Em sắp ra~!",
-
   "msg.mate.scene.player.bjiMSG8": "Yee",
-
   "msg.mate.scene.ellie.carry_introMSG1": "Em đói..",
   "msg.mate.scene.ellie.carry_introMSG2": "heh~",
   "msg.mate.scene.ellie.sitdownMSG1": "Lại đây với mẹ~",
   "msg.mate.scene.ellie.missionary_cumMSG2": "giỏi lắm.. ehh.. con trai.. hehe~",
   "msg.mate.scene.ellie.cowgirlStartMSG1": "Anh thích những gì anh thấy không?~",
   "msg.mate.scene.ellie.cowgirlcumMSG4": "giỏi lắm.. ehh.. con trai.. hehe~",
-
   "msg.mate.scene.bia.sitdownMSG1": "lại đây anh trai~",
-
   "msg.mate.scene.zoey.sitdownMSG1": "lại đây nào cưng~",
-
-  "msg.mate.canGoInToFreeCam" : "Để vào chế độ camera tự do nhấn F4",
-
+  "msg.mate.canGoInToFreeCam": "Để vào chế độ camera tự do nhấn F4",
   "key.Mate.thrust": "Đẩy",
-
   "key.Mate.cum": "Xuất",
-
   "key.Mate.transformScene": "Chuyển Đổi Cảnh",
-
   "key.categories.Mate": "Mate",
-
-  "subtitles.bedrustle" : "Giường sột soạt",
-
-  "subtitles.belljingle" : "Chuông leng keng",
-
-  "subtitles.clap" : "Vỗ",
-
-  "subtitles.cuminflation" : "Phồng tinh",
-
-  "subtitles.flap" : "Đập",
-
-  "subtitles.inserts" : "Đút vào",
-
-  "subtitles.pounding" : "Đập mạnh",
-
-  "subtitles.slap" : "Tát",
-
-  "subtitles.slide" : "Trượt",
-
-  "subtitles.smallinserts" : "Đút nhẹ",
-
-  "subtitles.touch" : "Chạm",
-
-  "subtitles.plob" : "Plob",
-
+  "subtitles.bedrustle": "Giường sột soạt",
+  "subtitles.belljingle": "Chuông leng keng",
+  "subtitles.clap": "Vỗ",
+  "subtitles.cuminflation": "Phồng tinh",
+  "subtitles.flap": "Đập",
+  "subtitles.inserts": "Đút vào",
+  "subtitles.pounding": "Đập mạnh",
+  "subtitles.slap": "Tát",
+  "subtitles.slide": "Trượt",
+  "subtitles.smallinserts": "Đút nhẹ",
+  "subtitles.touch": "Chạm",
+  "subtitles.plob": "Plob",
   "subtitles.jenny.heavybreathing": "Thở nặng",
-
   "subtitles.jenny.hmph": "Hmph",
-
   "subtitles.jenny.huh": "Huh",
-
   "subtitles.jenny.aftersessionmoan": "Rên sau phiên",
-
   "subtitles.jenny.ahh": "Ahh",
-
   "subtitles.jenny.bjmoan": "Rên BJ",
-
   "subtitles.jenny.giggle": "Cười khúc khích",
-
   "subtitles.jenny.happyoh": "Oh vui",
-
   "subtitles.jenny.lightbreathing": "Thở nhẹ",
-
   "subtitles.jenny.lipsound": "Tiếng môi",
-
   "subtitles.jenny.mmm": "Mmm",
-
   "subtitles.jenny.moan": "Rên",
-
   "subtitles.jenny.sadoh": "Oh buồn",
-
   "subtitles.jenny.sigh": "Thở dài",
-
   "subtitles.bia.ahh": "Ahh",
-
   "subtitles.bia.bjmoan": "Rên BJ",
-
   "subtitles.bia.moan": "Rên",
-
   "subtitles.bia.lightbreathing": "Thở nhẹ",
-
   "subtitles.bia.giggle": "Cười khúc khích",
-
   "subtitles.bia.hey": "Hey",
-
   "subtitles.bia.happyoh": "Oh vui",
-
   "subtitles.bia.sadoh": "Oh buồn",
-
   "subtitles.bia.sigh": "Thở dài",
-
   "subtitles.bia.huh": "Huh",
-
   "subtitles.bia.hmph": "Hmph",
-
   "subtitles.bia.mmm": "Mmm",
-
   "subtitles.zoey.ahh": "Ahh",
-
   "subtitles.zoey.bjmoan": "Rên BJ",
-
   "subtitles.zoey.moan": "Rên",
-
   "subtitles.zoey.lightbreathing": "Thở nhẹ",
-
   "subtitles.zoey.giggle": "Cười khúc khích",
-
   "subtitles.zoey.hey": "Hey",
-
   "subtitles.zoey.happyoh": "Oh vui",
-
   "subtitles.zoey.sadoh": "Oh buồn",
-
   "subtitles.zoey.sigh": "Thở dài",
-
   "subtitles.zoey.huh": "Huh",
-
   "subtitles.zoey.hmph": "Hmph",
-
   "subtitles.zoey.mmm": "Mmm",
-
   "subtitles.ellie.aftersessionmoan": "Rên sau phiên",
-
   "subtitles.ellie.ahh": "Ahh",
-
   "subtitles.ellie.bjmoan": "Rên BJ",
-
   "subtitles.ellie.cometomommy": "Lại đây với mẹ",
-
   "subtitles.ellie.giggle": "Cười khúc khích",
-
   "subtitles.ellie.goodboy": "Con trai ngoan",
-
   "subtitles.ellie.happyoh": "Oh vui",
-
   "subtitles.ellie.heavybreathing": "Thở nặng",
-
   "subtitles.ellie.hmph": "Hmph",
-
   "subtitles.ellie.huh": "Huh",
-
   "subtitles.ellie.lightbreathing": "Thở nhẹ",
-
   "subtitles.ellie.lipsound": "Tiếng môi",
-
   "subtitles.ellie.mmm": "Mmm",
-
   "subtitles.ellie.moan": "Rên",
-
   "subtitles.ellie.mommyhorny": "Mẹ đang nứng",
-
   "subtitles.ellie.sadoh": "Oh buồn",
-
   "subtitles.ellie.sigh": "Thở dài",
-
   "key.categories.freecam": "mate - Camera Tự Do",
-
   "key.freecam.toggle": "Bật/Tắt Camera Tự Do",
-
   "key.freecam.playerControl": "Điều Khiển Người Chơi",
-
   "key.freecam.tripodReset": "Đặt Lại Tripod",
-
   "key.freecam.configGui": "Giao Diện Cài Đặt",
-
   "mate.patchouli.heart_guide.name": "Cẩm Nang Trái Tim",
   "mate.patchouli.heart_guide.landing_text": "$(o)Chào mừng đến với Cẩm Nang Trái Tim!$()$(br2)Khám phá tất cả các cô gái xinh đẹp trong thế giới của bạn! Tìm hiểu về tính cách, cách thuần hóa, và những cảnh mà họ thích.$(br2)Duyệt các danh mục bên phải để bắt đầu!",
-
   "msg.freecam.enable": "Camera tự do đã được bật.",
-
   "msg.freecam.disable": "Camera tự do đã được tắt.",
-
   "msg.freecam.openTripod": "Đang mở camera %s",
-
   "msg.freecam.closeTripod": "Đang đóng camera %s",
-
   "msg.freecam.tripodReset": "Đã đặt lại camera %s",
-
   "text.autoconfig.mate.category.default": "Mate",
-
   "text.autoconfig.mate.category.freecam": "Camera Tự Do",
-
   "text.autoconfig.mate.title": "Tùy Chọn Mate",
-
   "text.autoconfig.mate.option.girls": "Các Cô Gái",
-
   "text.autoconfig.mate.option.girls.boobWindow": "Cửa Sổ Ngực",
-
   "text.autoconfig.mate.option.girls.disableShading": "Tắt Đổ Bóng",
-
   "text.autoconfig.mate.option.girls.boobJiggle": "Rung Ngực",
-
   "text.autoconfig.mate.option.girls.buttJiggle": "Rung Mông",
-
   "text.autoconfig.mate.option.girls.boobWindow.@Tooltip": "Làm cho giáp trên cô gái có cửa sổ để thấy ngực",
-
   "text.autoconfig.mate.option.girls.disableShading.@Tooltip": "Tắt đổ bóng/bóng trên cô gái và làm cho chúng có ánh sáng phẳng",
-
   "text.autoconfig.mate.option.girls.boobJiggle.@Tooltip": "Bật vật lý rung lắc cho ngực của các cô gái.",
-
   "text.autoconfig.mate.option.girls.buttJiggle.@Tooltip": "Bật vật lý rung lắc cho mông của các cô gái.",
-
   "text.autoconfig.mate.option.player": "Người Chơi",
-
   "text.autoconfig.mate.option.player.renderFirstPersonBody": "Hiển Thị Cơ Thể Ở Góc Nhìn Thứ Nhất",
-
   "text.autoconfig.mate.option.player.renderFirstPersonBody.@Tooltip": "Hiển thị cơ thể cô gái đã biến hình ở góc nhìn thứ nhất (đầu vẫn ẩn)",
-
   "text.autoconfig.mate.option.player.renderPenis": "Hiển Thị Dương Vật",
-
   "text.autoconfig.mate.option.player.renderPenis.@Tooltip": "Bật/tắt hiển thị mô hình dương vật trên người chơi trong các cảnh",
-
   "text.autoconfig.mate.option.player.penisShaftColor": "Màu Thân Dương Vật",
-
   "text.autoconfig.mate.option.player.penisShaftColor.@Tooltip": "Đặt màu thân dương vật trên mô hình người chơi",
-
   "text.autoconfig.mate.option.player.penisHeadColor": "Màu Đầu Dương Vật",
-
   "text.autoconfig.mate.option.player.penisHeadColor.@Tooltip": "Đặt màu đầu dương vật trên mô hình người chơi",
-
   "text.autoconfig.mate.option.controls": "Gán Phím",
-
   "text.autoconfig.mate.option.controls.@Tooltip": "Gán phím camera tự do.",
-
   "text.autoconfig.mate.option.movement": "Tùy Chọn Di Chuyển",
-
   "text.autoconfig.mate.option.movement.@Tooltip": "Cách camera di chuyển.",
-
   "text.autoconfig.mate.option.movement.flightMode": "Chế Độ Bay",
-
   "text.autoconfig.mate.option.movement.flightMode.@Tooltip": "Loại bay được sử dụng bởi camera tự do.",
-
   "text.autoconfig.mate.option.movement.flightMode.default": "Mặc Định",
-
   "text.autoconfig.mate.option.movement.flightMode.creative": "Sáng Tạo",
-
   "text.autoconfig.mate.option.movement.horizontalSpeed": "Tốc Độ Ngang",
-
   "text.autoconfig.mate.option.movement.horizontalSpeed.@Tooltip": "Tốc độ ngang của camera tự do.",
-
   "text.autoconfig.mate.option.movement.verticalSpeed": "Tốc Độ Dọc",
-
   "text.autoconfig.mate.option.movement.verticalSpeed.@Tooltip": "Tốc độ dọc của camera tự do.",
-
   "text.autoconfig.mate.option.collision": "Tùy Chọn Va Chạm",
-
   "text.autoconfig.mate.option.collision.@Tooltip": "Những khối bạn có thể đi xuyên qua trong camera tự do.",
-
   "text.autoconfig.mate.option.collision.ignoreTransparent": "Bỏ Qua Khối Trong Suốt",
-
   "text.autoconfig.mate.option.collision.ignoreTransparent.@Tooltip": "Cho phép đi xuyên qua khối trong suốt trong camera tự do.",
-
   "text.autoconfig.mate.option.collision.ignoreOpenable": "Bỏ Qua Khối Mở Được",
-
   "text.autoconfig.mate.option.collision.ignoreOpenable.@Tooltip": "Cho phép đi xuyên qua cửa/cửa sập/cổng trong camera tự do.",
-
   "text.autoconfig.mate.option.collision.ignoreCustom": "Danh Sách Bỏ Qua Tùy Chỉnh",
-
   "text.autoconfig.mate.option.collision.ignoreCustom.@Tooltip[0]": "Cho phép đi xuyên qua các khối cụ thể trong camera tự do.",
-
   "text.autoconfig.mate.option.collision.whitelist.ids": "Bỏ Qua Theo ID",
-
   "text.autoconfig.mate.option.collision.whitelist.ids.@Tooltip[0]": "Sử dụng id khối, ví dụ \"grass_block\".",
-
   "text.autoconfig.mate.option.collision.whitelist.ids.@Tooltip[1]": "Nếu bỏ qua namespace, \"minecraft:\" sẽ được sử dụng mặc định.",
-
   "text.autoconfig.mate.option.collision.whitelist.patterns": "Bỏ Qua Theo Biểu Thức Chính Quy",
-
   "text.autoconfig.mate.option.collision.whitelist.patterns.@Tooltip[0]": "Sử dụng cú pháp Biểu Thức Chính Quy.",
-
   "text.autoconfig.mate.option.collision.whitelist.patterns.@Tooltip[1]": "So khớp với id khối đầy đủ, ví dụ \"minecraft:grass_block\".",
-
   "text.autoconfig.mate.option.collision.ignoreAll": "Bỏ Qua Tất Cả Va Chạm",
-
   "text.autoconfig.mate.option.collision.ignoreAll.@Tooltip[0]": "Cho phép đi xuyên qua tất cả khối trong camera tự do.",
-
   "text.autoconfig.mate.option.collision.ignoreAll.@Tooltip[1]": "§eGhi đè các cài đặt phía trên.",
-
   "text.autoconfig.mate.option.collision.ignoreAll.@ModrinthTooltip[2]": "§cLƯU Ý: Chỉ có thể sử dụng trong chơi đơn, sáng tạo, hoặc có quyền operator.",
-
   "text.autoconfig.mate.option.collision.alwaysCheck": "Luôn Kiểm Tra Va Chạm Ban Đầu",
-
   "text.autoconfig.mate.option.collision.alwaysCheck.@Tooltip[0]": "Liệu §7Góc Nhìn Ban Đầu§r có nên kiểm tra",
-
   "text.autoconfig.mate.option.collision.alwaysCheck.@Tooltip[1]": "va chạm, ngay cả khi sử dụng §7Bỏ Qua Tất Cả Va Chạm§r.",
-
   "text.autoconfig.mate.option.visual": "Tùy Chọn Hình Ảnh",
-
   "text.autoconfig.mate.option.visual.@Tooltip": "Giao diện của camera tự do.",
-
   "text.autoconfig.mate.option.visual.perspective": "Góc Nhìn Ban Đầu",
-
   "text.autoconfig.mate.option.visual.perspective.@Tooltip": "Góc nhìn ban đầu của camera.",
-
   "text.autoconfig.mate.option.visual.perspective.firstPerson": "Ngôi Thứ Nhất",
-
   "text.autoconfig.mate.option.visual.perspective.thirdPerson": "Ngôi Thứ Ba",
-
   "text.autoconfig.mate.option.visual.perspective.thirdPersonMirror": "Gương",
-
   "text.autoconfig.mate.option.visual.perspective.inside": "Bên Trong",
-
   "text.autoconfig.mate.option.visual.hidePlayer": "Ẩn Người Chơi",
-
   "text.autoconfig.mate.option.visual.hidePlayer.@Tooltip": "Ẩn mô hình người chơi của bạn.",
-
   "text.autoconfig.mate.option.visual.showHand": "Hiện Tay",
-
   "text.autoconfig.mate.option.visual.showHand.@Tooltip": "Liệu bạn có thể thấy tay trong camera tự do.",
-
   "text.autoconfig.mate.option.visual.fullBright": "Độ Sáng Tối Đa",
-
   "text.autoconfig.mate.option.visual.fullBright.@Tooltip": "Tăng độ sáng khi ở trong camera tự do.",
-
   "text.autoconfig.mate.option.visual.showSubmersion": "Hiện Sương Mù Ngập",
-
   "text.autoconfig.mate.option.visual.showSubmersion.@Tooltip": "Liệu bạn có thấy lớp sương mù khi ở dưới nước, trong dung nham, hoặc tuyết bột.",
-
   "text.autoconfig.mate.option.utility": "Tùy Chọn Tiện Ích",
-
   "text.autoconfig.mate.option.utility.@Tooltip": "Cải tiến camera tự do.",
-
   "text.autoconfig.mate.option.utility.disableOnDamage": "Tắt Khi Nhận Sát Thương",
-
   "text.autoconfig.mate.option.utility.disableOnDamage.@Tooltip": "Tắt camera tự do khi nhận sát thương.",
-
   "text.autoconfig.mate.option.utility.freezePlayer": "Đóng Băng Người Chơi",
-
   "text.autoconfig.mate.option.utility.freezePlayer.@Tooltip[0]": "Ngăn người chơi di chuyển khi camera tự do đang hoạt động.",
-
   "text.autoconfig.mate.option.utility.freezePlayer.@Tooltip[1]": "§cCẢNH BÁO: Không khuyến khích sử dụng trong chơi mạng.",
-
   "text.autoconfig.mate.option.utility.allowInteract": "Cho Phép Tương Tác",
-
   "text.autoconfig.mate.option.utility.allowInteract.@Tooltip[0]": "Liệu bạn có thể tương tác với khối/thực thể trong camera tự do.",
-
   "text.autoconfig.mate.option.utility.interactionMode": "Chế Độ Tương Tác",
-
   "text.autoconfig.mate.option.utility.interactionMode.@Tooltip": "Nguồn tương tác với khối/thực thể.",
-
   "text.autoconfig.mate.option.utility.interactionMode.camera": "Camera",
-
   "text.autoconfig.mate.option.utility.interactionMode.player": "Người Chơi",
-
   "text.autoconfig.mate.option.notification": "Tùy Chọn Thông Báo",
-
   "text.autoconfig.mate.option.notification.@Tooltip": "Hiện hoặc ẩn thông báo.",
-
   "text.autoconfig.mate.option.notification.notifyFreecam": "Thông Báo Camera Tự Do",
-
   "text.autoconfig.mate.option.notification.notifyFreecam.@Tooltip": "Thông báo khi bạn bật/tắt camera tự do.",
-
   "text.autoconfig.mate.option.notification.notifyTripod": "Thông Báo Tripod",
-
   "text.autoconfig.mate.option.notification.notifyTripod.@Tooltip": "Thông báo khi bạn bật/tắt camera tripod.",
-
   "advancements.mate.root.title": "Này, cậu. Cậu cuối cùng cũng tỉnh rồi",
   "advancements.mate.root.description": "Cậu đang cố vượt biên giới, đúng không?",
   "advancements.mate.tame_girl.title": "Mãi Mãi Bên Nhau",
@@ -718,7 +490,6 @@
   "advancements.mate.capture_love_ball.description": "Bắt một cô gái bằng Quả Cầu Tình Yêu",
   "advancements.mate.capture_master_ring.title": "Lần này không chạy được đâu",
   "advancements.mate.capture_master_ring.description": "Bắt một cô gái bằng Nhẫn Chủ Nhân",
-
   "subtitles.sarah.aftersessionmoan": "Rên sau phiên",
   "subtitles.sarah.ahh": "Ahh",
   "subtitles.sarah.bjmoan": "Rên BJ",
@@ -736,7 +507,6 @@
   "subtitles.sarah.mommyhorny": "Mẹ đang nứng",
   "subtitles.sarah.sadoh": "Oh buồn",
   "subtitles.sarah.sigh": "Thở dài",
-
   "subtitles.gallath.aaa": "Tiếng Hét Trận Chiến",
   "subtitles.gallath.ahh": "Ahh",
   "subtitles.gallath.breathing": "Thở",
@@ -749,7 +519,6 @@
   "subtitles.gallath.orgasm": "Cực Khoái",
   "subtitles.gallath.strongcharge": "Tích Tụ Mạnh",
   "subtitles.gallath.uuh": "Uuh",
-
   "entity.mate.jenny.variant.jenna": "Jenna",
   "gui.mate.button.variant": "Biến Thể",
   "gui.mate.variant_selection": "Chọn Biến Thể",
@@ -761,5 +530,35 @@
   "scene.mate.jenna.straddling": "Ngồi Lên",
   "scene.mate.jenna.stuck": "Mắc Kẹt",
   "subtitles.misc.bounceboobs": "Jenny: *ngực rung lắc*",
-  "subtitles.misc.clothes": "Jenny: *tiếng quần áo sột soạt*"
+  "subtitles.misc.clothes": "Jenny: *tiếng quần áo sột soạt*",
+  "item.mate.alex_spawn_egg": "Trứng Triệu Hồi Alex",
+  "entity.mate.alex": "Alex",
+  "scene.mate.matingPress": "Mating Press",
+  "scene.mate.reverseCowgirl": "Cowgirl Ngược",
+  "scene.mate.thighSex": "Kẹp Đùi",
+  "scene.mate.fence": "Hàng rào",
+  "msg.mate.alex.gift.like.1": "Ồ, cho tớ hả? Cảm ơn nha!",
+  "msg.mate.alex.gift.like.2": "Tuyệt! Cậu nhớ tớ thích gì này!",
+  "msg.mate.alex.gift.like.3": "Alex duyệt. Chọn khéo đấy!",
+  "msg.mate.alex.gift.love.1": "Oa… cậu hiểu tớ thật đấy.",
+  "msg.mate.alex.gift.love.2": "Cứ thế này chắc tớ chẳng rời cậu nửa bước mất~",
+  "msg.mate.alex.gift.love.3": "Cậu đang làm tim Alex đập loạn lên đấy, biết không?",
+  "msg.mate.sleepTogetherWake": "Nhấn lén (sneak) để dậy",
+  "subtitles.alex.aftersessionmoan": "Rên sau phiên",
+  "subtitles.alex.ahh": "Ahh",
+  "subtitles.alex.bjmoan": "Rên BJ",
+  "subtitles.alex.cometomommy": "Lại đây với mẹ",
+  "subtitles.alex.giggle": "Cười khúc khích",
+  "subtitles.alex.goodboy": "Con trai ngoan",
+  "subtitles.alex.happyoh": "Oh vui",
+  "subtitles.alex.heavybreathing": "Thở nặng",
+  "subtitles.alex.hmph": "Hmph",
+  "subtitles.alex.huh": "Huh",
+  "subtitles.alex.lightbreathing": "Thở nhẹ",
+  "subtitles.alex.lipsound": "Tiếng môi",
+  "subtitles.alex.mmm": "Mmm",
+  "subtitles.alex.moan": "Rên",
+  "subtitles.alex.mommyhorny": "Mẹ đang nứng",
+  "subtitles.alex.sadoh": "Oh buồn",
+  "subtitles.alex.sigh": "Thở dài"
 }

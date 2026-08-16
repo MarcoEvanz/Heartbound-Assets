@@ -1,0 +1,25 @@
+{
+  "name": "Alex",
+  "icon": "mate:alex_spawn_egg",
+  "category": "mate:normal_girls",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Alex is an adventurous tomboy who feels most at home outdoors. Quick with a grin and quicker on her feet, she'd rather climb a fence than open the gate.$(br2)She has a warm tan look and an easygoing attitude."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "mate:alex",
+      "scale": 0.8,
+      "offset": 0.3,
+      "rotate": false,
+      "default_rotation": 0,
+      "name": "Alex",
+      "text": "Alex, the easygoing adventurer!"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(o)Tame Item$()$(br)Alex loves $(#c94f4f)Sweet Berries$(). Fresh off the bush!$(br2)$(o)Scenes$()$(br)Missionary (bed) and Fence."
+    }
+  ]
+}

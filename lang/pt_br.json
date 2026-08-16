@@ -13,7 +13,6 @@
   "item.mate.custom_girl_spawn_egg.unspecified": "Ovo Gerador de Garota Não Escolhida",
   "item.mate.custom_girl_spawn_egg.choose_first": "Clique com o botão direito no ar para escolher qual garota será.",
   "gui.mate.choose_girl_profile.title": "Escolha uma Garota",
-
   "item.mate.love_ball": "Esfera do Prazer",
   "item.mate.love_ball.filled": "Esfera do Prazer (Capturada)",
   "item.mate.love_ball.tooltip.girl": "Garota: %s",
@@ -29,7 +28,6 @@
   "item.mate.love_ball.released": "%s foi liberada da Esfera do Prazer",
   "item.mate.love_ball.invalid_data": "Falha ao liberar - dados inválidos!",
   "item.mate.love_ball.spawn_failed": "Falha ao invocar a garota!",
-
   "item.mate.master_ring": "Anel do Mestre",
   "item.mate.master_ring.filled": "Anel do Mestre (Capturada)",
   "item.mate.master_ring.tooltip.girl": "Garota: %s",
@@ -47,7 +45,6 @@
   "item.mate.master_ring.invalid_data": "Falha ao liberar - dados inválidos!",
   "item.mate.master_ring.spawn_failed": "Falha ao invocar a garota!",
   "item.mate.master_ring.boss_active": "O anel não consegue prender uma demônia caída — tente uma Moeda de Gallath.",
-
   "item.mate.gallath_coin": "Moeda de Gallath",
   "item.mate.gallath_coin.filled": "Moeda de Gallath (Selada)",
   "item.mate.gallath_coin.empty": "Esta Moeda de Gallath está vazia!",
@@ -60,10 +57,8 @@
   "item.mate.gallath_coin.coin_only": "Apenas uma Moeda de Gallath pode selá-la — um anel não conterá sua essência.",
   "item.mate.gallath_coin.tooltip.girl": "Selada: %s",
   "item.mate.gallath_coin.tooltip.owner": "Dono: %s",
-
   "item.mate.heart_guide": "Wiki do Prazer",
   "item.mate.heart_guide.tooltip.edition": "1ª Edição",
-
   "item.mate.x_pill": "Pílula X",
   "item.mate.h_phone": "H-Phone",
   "item.mate.h_phone.tooltip": "Um dispositivo inteligente para encontrar locais",
@@ -91,11 +86,9 @@
   "screen.mate.phone.your_items": "Seus Itens",
   "screen.mate.phone.no_items": "Sem itens",
   "gui.mate.girl_selection": "Transformar Em...",
-
   "block.mate.fusion_table": "Mesa de Fusão",
   "block.mate.magical_pumpkin": "Abóbora Mágica",
   "block.mate.litted_magical_pumpkin": "Abóbora Mágica Iluminada",
-  
   "entity.mate.jenny": "Jenny",
   "entity.mate.ellie": "Ellie",
   "entity.mate.bia": "Bia",
@@ -116,15 +109,12 @@
   "scene.mate.gallath_grab": "Captura Forçada",
   "scene.mate.gallath_corrupt": "Corrupção",
   "entity.mate.custom_girl": "Garota Personalizada",
-
   "screen.mate.girl_inventory": "Inventário",
   "screen.mate.girl_inventory.relationship_tooltip": "Nível de Relacionamento",
   "screen.mate.fusion_table": "Mesa de Fusão",
-
   "gui.mate.fusion_table": "Mesa de Fusão",
   "gui.mate.sceneOptions": "Opções de Cena",
   "gui.mate.tooltip.requiresLevel": "Requer Nível de Relacionamento %s",
-
   "gui.mate.button.breakUp": "Terminar",
   "gui.mate.button.setBase": "Definir Base Aqui",
   "gui.mate.button.goToBase": "Ir Para Base",
@@ -178,14 +168,11 @@
   "gui.mate.button.defaultGirl": "Garota Padrão",
   "gui.mate.button.customGirl": "Garota Personalizada",
   "gui.mate.button.back": "Voltar",
-
   "gui.mate.search": "Buscar",
   "gui.mate.search.placeholder": "Buscar...",
-
   "gui.mate.customizeGirl": "Personalizar Garota",
   "gui.mate.customizeKobold": "Personalização Kobold",
   "gui.mate.customizePlayer": "Personalizar Jogador",
-
   "gui.mate.customize.breastSize": "Tamanho dos Seios",
   "gui.mate.customize.breastOffset": "Posição dos Seios",
   "gui.mate.customize.playerBreastSize": "Tamanho dos Seios",
@@ -199,7 +186,6 @@
   "gui.mate.customize.bottomHorns": "Chifres Inferiores:",
   "gui.mate.customize.type": "Tipo %s",
   "gui.mate.customize.offset": "Deslocamento %s",
-
   "scene.mate.masturbation": "Masturbação",
   "scene.mate.paizuri": "Paizuri",
   "scene.mate.blowJob": "Boquete",
@@ -215,75 +201,62 @@
   "scene.mate.kneeling": "Ajoelhada",
   "scene.mate.cunnilingus": "Cunilíngua",
   "scene.mate.nursing_handjob": "Punheta com Amamentação",
-
   "jei.mate.fusion": "Receita de Fusão",
-
   "itemgroup.mate.mate_items": "Itens Mate",
   "itemgroup.mate.mate_blocks": "Blocos Mate",
-  
   "msg.mate.noBedFound": "Precisamos de uma cama vazia por perto para isso...",
   "msg.mate.needsToStrip": "Você precisa estar sem roupa para fazer isso.",
   "msg.mate.alreadyInRelationship": "Ela já está em um relacionamento com outra pessoa",
-
   "msg.mate.sheIgnoresYou": "Ela te ignora. Talvez tente dar um(a) %s para ela.",
   "msg.mate.askedOutYes": "Você chamou %s para sair e ela disse §aSim",
   "msg.mate.brokeUp": "Você terminou com %s",
   "msg.mate.diedRespawned": "%s morreu e reapareceu na base: %s, %s, %s",
   "msg.mate.baseSet": "Base definida em (%s, %s, %s)",
   "msg.mate.mustFollowToMine": "A garota precisa estar te seguindo para minerar minérios",
-
   "msg.mate.sheLikedTheGift": "Ela gostou do presente",
-
   "msg.mate.gift.like.1": "Legal",
   "msg.mate.gift.like.2": "Muito obrigada",
   "msg.mate.gift.like.3": "Que doce",
   "msg.mate.gift.love.1": "Ah, obrigada",
   "msg.mate.gift.love.2": "Te amo ~_^",
   "msg.mate.gift.love.3": "Você é gentil demais",
-
   "msg.mate.sarah.gift.like.1": "Sementes de cacau? Onde você achou isso?",
   "msg.mate.sarah.gift.like.2": "Ah, obrigada — eu queria adicionar isso à coleção.",
   "msg.mate.sarah.gift.like.3": "Fofo. Você realmente lembrou.",
   "msg.mate.sarah.gift.love.1": "Você presta atenção mesmo, hein~",
   "msg.mate.sarah.gift.love.2": "Hmm, continue assim e talvez ganhe algo.",
   "msg.mate.sarah.gift.love.3": "Não pense que eu não vi você sorrindo ao trazer isso.",
-
   "msg.mate.zoey.gift.like.1": "Ooh, pra mim? Que fofo!",
   "msg.mate.zoey.gift.like.2": "Você é tão atencioso!",
   "msg.mate.zoey.gift.like.3": "Zoey ama presentes!",
   "msg.mate.zoey.gift.love.1": "Continua me mimando assim... eu adoro!",
   "msg.mate.zoey.gift.love.2": "Outro? Você sabe mesmo como tratar uma garota~",
   "msg.mate.zoey.gift.love.3": "Você está deixando a Zoey toda quentinha por dentro...",
-
   "msg.mate.canGoInToFreeCam": "Para entrar no modo freecam pressione F4",
-   "msg.mate.jenny.gift.like.1": "Uau, pra mim? Obrigada!",
+  "msg.mate.jenny.gift.like.1": "Uau, pra mim? Obrigada!",
   "msg.mate.jenny.gift.like.2": "Um allium? Que fofo da sua parte…!",
   "msg.mate.jenny.gift.like.3": "Haha, isso é ótimo!",
   "msg.mate.jenny.gift.love.1": "Ah, outro? Bom… o verdadeiro presente aqui é você~.",
   "msg.mate.jenny.gift.love.2": "Amor, você é tão gentil. E tão gostoso~.",
   "msg.mate.jenny.gift.love.3": "Para de me dar presentes e me pega logo~!",
-
   "msg.mate.ellie.gift.like.1": "Espera… isso é… uma Rosa do Wither de verdade…!",
   "msg.mate.ellie.gift.like.2": "Você é meio sem graça, mas isso foi… obrigada…!",
   "msg.mate.ellie.gift.like.3": "Incrível… então é assim que é uma Rosa do Wither…!",
   "msg.mate.ellie.gift.love.1": "Hmm… você até que é bem gostoso, sabia…",
   "msg.mate.ellie.gift.love.2": "Tá precisando de uma mamãe ou algo assim?",
   "msg.mate.ellie.gift.love.3": "C-Cala a boca… isso é demais…",
-
   "msg.mate.bia.gift.like.1": "Uau!!! Uma papoula!! Eba!!",
   "msg.mate.bia.gift.like.2": "Uau, uau! Um presente pra mim!",
   "msg.mate.bia.gift.like.3": "Bia ama presentes! Dá mais pra Bia!",
   "msg.mate.bia.gift.love.1": "Eba!! Outro presente! Você devia ser meu dono!",
   "msg.mate.bia.gift.love.2": "Eba, eba, eba! Vamos brincar agora!",
   "msg.mate.bia.gift.love.3": "A-A Bia ficou no cio por sua causa…",
-
   "msg.mate.coppie.gift.like.1": "Este golem aceita este… objeto.",
   "msg.mate.coppie.gift.like.2": "Este golem aceitará o presente adequadamente.",
   "msg.mate.coppie.gift.like.3": "Por que está dando presentes a este golem, mestre?",
   "msg.mate.coppie.gift.love.1": "Este golem… não… eu aprecio isso, mestre.",
   "msg.mate.coppie.gift.love.2": "Isso realmente significa muito para mim, mestre.",
   "msg.mate.coppie.gift.love.3": "Tem certeza que não quer usar minhas funções sexuais, mestre?",
-
   "msg.mate.scene.jenny.stripMSG1": "Hihi~",
   "msg.mate.scene.jenny.bjiMSG1": "O que você está...",
   "msg.mate.scene.jenny.bjiMSG2": "ah... homens...",
@@ -298,23 +271,19 @@
   "msg.mate.scene.jenny.doggyintroMSG4": "Oh~!",
   "msg.mate.scene.jenny.doggyintroMSG5": "Ahhh~!",
   "msg.mate.scene.jenny.doggycumMSG1": "Eu vou gozar~!",
-
   "msg.mate.scene.player.bjiMSG8": "Yee",
-
   "msg.mate.scene.ellie.carry_introMSG1": "Estou com fome..",
   "msg.mate.scene.ellie.carry_introMSG2": "heh~",
   "msg.mate.scene.ellie.sitdownMSG1": "Vem pra mamãe~",
   "msg.mate.scene.ellie.missionary_cumMSG2": "boooom.. garoto.. hehe~",
   "msg.mate.scene.ellie.cowgirlStartMSG1": "Gostou do que está vendo, amor?~",
   "msg.mate.scene.ellie.cowgirlcumMSG4": "boooom.. garoto.. hehe~",
-
   "msg.mate.scene.bia.sitdownMSG1": "vem aqui, grandão~",
   "msg.mate.scene.zoey.sitdownMSG1": "vem cá, fofo~",
   "key.Mate.thrust": "Estocar",
   "key.Mate.cum": "Gozar",
   "key.Mate.transformScene": "Transformar Cena",
   "key.categories.Mate": "Mate",
-
   "subtitles.bedrustle": "Barulho da Cama",
   "subtitles.belljingle": "Som de Sino",
   "subtitles.clap": "Tapinha",
@@ -327,7 +296,6 @@
   "subtitles.smallinserts": "Penetração Leve",
   "subtitles.touch": "Toque",
   "subtitles.plob": "Plob",
-
   "subtitles.jenny.heavybreathing": "Respiração Pesada",
   "subtitles.jenny.hmph": "Hm",
   "subtitles.jenny.huh": "Hã?",
@@ -342,7 +310,6 @@
   "subtitles.jenny.moan": "Gemido",
   "subtitles.jenny.sadoh": "Oh Triste",
   "subtitles.jenny.sigh": "Suspiro",
-
   "subtitles.bia.ahh": "Ahh",
   "subtitles.bia.bjmoan": "Gemido de Boquete",
   "subtitles.bia.moan": "Gemido",
@@ -355,7 +322,6 @@
   "subtitles.bia.huh": "Hã?",
   "subtitles.bia.hmph": "Hm",
   "subtitles.bia.mmm": "Mmm",
-
   "subtitles.zoey.ahh": "Ahh",
   "subtitles.zoey.bjmoan": "Gemido de Boquete",
   "subtitles.zoey.moan": "Gemido",
@@ -368,7 +334,6 @@
   "subtitles.zoey.huh": "Hã?",
   "subtitles.zoey.hmph": "Hm",
   "subtitles.zoey.mmm": "Mmm",
-
   "subtitles.ellie.aftersessionmoan": "Gemido Pós-Sessão",
   "subtitles.ellie.ahh": "Ahh",
   "subtitles.ellie.bjmoan": "Gemido de Boquete",
@@ -386,26 +351,21 @@
   "subtitles.ellie.mommyhorny": "Mamãe Excitada",
   "subtitles.ellie.sadoh": "Oh Triste",
   "subtitles.ellie.sigh": "Suspiro",
-
   "key.categories.freecam": "Mate - Freecam",
   "key.freecam.toggle": "Alternar Freecam",
   "key.freecam.playerControl": "Controlar Jogador",
   "key.freecam.tripodReset": "Resetar Tripé",
   "key.freecam.configGui": "Configurações",
-
   "mate.patchouli.heart_guide.name": "Wiki do Prazer",
   "mate.patchouli.heart_guide.landing_text": "$(o)Bem-vindo à Wiki do Prazer!$()$(br2)Descubra todas as garotas lindas no seu mundo! Aprenda sobre suas personalidades, como domesticá-las e quais cenas elas gostam.$(br2)Navegue pelas categorias à direita para começar!",
-
   "msg.freecam.enable": "Freecam ativado.",
   "msg.freecam.disable": "Freecam desativado.",
   "msg.freecam.openTripod": "Abrindo câmera %s",
   "msg.freecam.closeTripod": "Fechando câmera %s",
   "msg.freecam.tripodReset": "Câmera %s resetada",
-
   "text.autoconfig.mate.category.default": "Mate",
   "text.autoconfig.mate.category.freecam": "Freecam",
   "text.autoconfig.mate.title": "Opções do Mate",
-
   "text.autoconfig.mate.option.girls": "Garotas",
   "text.autoconfig.mate.option.girls.boobWindow": "Janela no Peitoral",
   "text.autoconfig.mate.option.girls.disableShading": "Desativar Sombreamento",
@@ -415,7 +375,6 @@
   "text.autoconfig.mate.option.girls.disableShading.@Tooltip": "Remove sombras e deixa iluminação plana",
   "text.autoconfig.mate.option.girls.boobJiggle.@Tooltip": "Ativa a física de balanço dos seios das garotas.",
   "text.autoconfig.mate.option.girls.buttJiggle.@Tooltip": "Ativa a física de balanço do bumbum das garotas.",
-
   "text.autoconfig.mate.option.player": "Jogador",
   "text.autoconfig.mate.option.player.renderFirstPersonBody": "Renderizar Corpo em Primeira Pessoa",
   "text.autoconfig.mate.option.player.renderFirstPersonBody.@Tooltip": "Mostra o corpo da garota transformada em primeira pessoa (cabeça permanece oculta)",
@@ -425,10 +384,8 @@
   "text.autoconfig.mate.option.player.penisShaftColor.@Tooltip": "Define a cor do corpo do pênis no modelo do jogador",
   "text.autoconfig.mate.option.player.penisHeadColor": "Cor da Cabeça do Pênis",
   "text.autoconfig.mate.option.player.penisHeadColor.@Tooltip": "Define a cor da glande no modelo do jogador",
-
   "text.autoconfig.mate.option.controls": "Atalhos de Tecla",
   "text.autoconfig.mate.option.controls.@Tooltip": "Atalhos de tecla do freecam.",
-
   "text.autoconfig.mate.option.movement": "Opções de Movimento",
   "text.autoconfig.mate.option.movement.@Tooltip": "Como a câmera se move.",
   "text.autoconfig.mate.option.movement.flightMode": "Modo de Voo",
@@ -439,7 +396,6 @@
   "text.autoconfig.mate.option.movement.horizontalSpeed.@Tooltip": "A velocidade horizontal do freecam.",
   "text.autoconfig.mate.option.movement.verticalSpeed": "Velocidade Vertical",
   "text.autoconfig.mate.option.movement.verticalSpeed.@Tooltip": "A velocidade vertical do freecam.",
-
   "text.autoconfig.mate.option.collision": "Opções de Colisão",
   "text.autoconfig.mate.option.collision.@Tooltip": "Quais blocos você pode atravessar no freecam.",
   "text.autoconfig.mate.option.collision.ignoreTransparent": "Ignorar Blocos Transparentes",
@@ -461,7 +417,6 @@
   "text.autoconfig.mate.option.collision.alwaysCheck": "Sempre Verificar Colisão Inicial",
   "text.autoconfig.mate.option.collision.alwaysCheck.@Tooltip[0]": "Se §7Perspectiva Inicial§r deve verificar",
   "text.autoconfig.mate.option.collision.alwaysCheck.@Tooltip[1]": "colisão, mesmo ao usar §7Ignorar Toda Colisão§r.",
-
   "text.autoconfig.mate.option.visual": "Opções Visuais",
   "text.autoconfig.mate.option.visual.@Tooltip": "A aparência do freecam.",
   "text.autoconfig.mate.option.visual.perspective": "Perspectiva Inicial",
@@ -478,7 +433,6 @@
   "text.autoconfig.mate.option.visual.fullBright.@Tooltip": "Aumenta o brilho enquanto no freecam.",
   "text.autoconfig.mate.option.visual.showSubmersion": "Mostrar Névoa de Submersão",
   "text.autoconfig.mate.option.visual.showSubmersion.@Tooltip": "Se você vê uma sobreposição de névoa debaixo d'água, na lava ou na neve em pó.",
-
   "text.autoconfig.mate.option.utility": "Opções de Utilidade",
   "text.autoconfig.mate.option.utility.@Tooltip": "Melhorias do freecam.",
   "text.autoconfig.mate.option.utility.disableOnDamage": "Desativar ao Receber Dano",
@@ -492,14 +446,12 @@
   "text.autoconfig.mate.option.utility.interactionMode.@Tooltip": "A origem das interações com blocos/entidades.",
   "text.autoconfig.mate.option.utility.interactionMode.camera": "Câmera",
   "text.autoconfig.mate.option.utility.interactionMode.player": "Jogador",
-
   "text.autoconfig.mate.option.notification": "Opções de Notificação",
   "text.autoconfig.mate.option.notification.@Tooltip": "Mostrar ou ocultar notificações.",
   "text.autoconfig.mate.option.notification.notifyFreecam": "Notificações do Freecam",
   "text.autoconfig.mate.option.notification.notifyFreecam.@Tooltip": "Notifica quando entrar/sair do freecam.",
   "text.autoconfig.mate.option.notification.notifyTripod": "Notificações do Tripé",
   "text.autoconfig.mate.option.notification.notifyTripod.@Tooltip": "Notifica quando entrar/sair das câmeras de tripé.",
-
   "advancements.mate.root.title": "Ei, você. Você finalmente acordou",
   "advancements.mate.root.description": "Você estava tentando cruzar a fronteira, certo?",
   "advancements.mate.tame_girl.title": "Juntos Para Sempre",
@@ -538,7 +490,6 @@
   "advancements.mate.capture_love_ball.description": "Capture uma garota usando uma Esfera do Prazer",
   "advancements.mate.capture_master_ring.title": "Dessa vez não pode fugir",
   "advancements.mate.capture_master_ring.description": "Capture uma garota usando um Anel do Mestre",
-
   "subtitles.sarah.aftersessionmoan": "Gemido Pós-Sessão",
   "subtitles.sarah.ahh": "Ahh",
   "subtitles.sarah.bjmoan": "Gemido de Boquete",
@@ -556,7 +507,6 @@
   "subtitles.sarah.mommyhorny": "Mamãe Excitada",
   "subtitles.sarah.sadoh": "Oh Triste",
   "subtitles.sarah.sigh": "Suspiro",
-
   "subtitles.gallath.aaa": "Grito de Batalha",
   "subtitles.gallath.ahh": "Ahh",
   "subtitles.gallath.breathing": "Respiração",
@@ -569,7 +519,6 @@
   "subtitles.gallath.orgasm": "Orgasmo",
   "subtitles.gallath.strongcharge": "Carga Forte",
   "subtitles.gallath.uuh": "Uuh",
-
   "entity.mate.jenny.variant.jenna": "Jenna",
   "gui.mate.button.variant": "Variante",
   "gui.mate.variant_selection": "Escolha uma Variante",
@@ -581,7 +530,35 @@
   "scene.mate.jenna.straddling": "Sentada Frontal",
   "scene.mate.jenna.stuck": "Presa",
   "subtitles.misc.bounceboobs": "Jenny: *seios balançando*",
-  "subtitles.misc.clothes": "Jenny: *roupas farfalhando*"
+  "subtitles.misc.clothes": "Jenny: *roupas farfalhando*",
+  "item.mate.alex_spawn_egg": "Ovo de Spawn da Alex",
+  "entity.mate.alex": "Alex",
+  "scene.mate.matingPress": "Mating Press",
+  "scene.mate.reverseCowgirl": "Cavalgada Invertida",
+  "scene.mate.thighSex": "Sexo Intercoxas",
+  "scene.mate.fence": "Cerca",
+  "msg.mate.alex.gift.like.1": "Ah, é pra mim? Valeu!",
+  "msg.mate.alex.gift.like.2": "Que legal! Você lembrou!",
+  "msg.mate.alex.gift.like.3": "Alex aprova. Boa escolha!",
+  "msg.mate.alex.gift.love.1": "Uau… você me entende mesmo.",
+  "msg.mate.alex.gift.love.2": "Continua assim e eu não saio mais do seu lado~",
+  "msg.mate.alex.gift.love.3": "Você tá fazendo o coração da Alex disparar, sabia?",
+  "msg.mate.sleepTogetherWake": "Pressione agachar para se levantar",
+  "subtitles.alex.aftersessionmoan": "Gemido Pós-Sessão",
+  "subtitles.alex.ahh": "Ahh",
+  "subtitles.alex.bjmoan": "Gemido de Boquete",
+  "subtitles.alex.cometomommy": "Vem pra Mamãe",
+  "subtitles.alex.giggle": "Risadinha",
+  "subtitles.alex.goodboy": "Bom Garoto",
+  "subtitles.alex.happyoh": "Oh Feliz",
+  "subtitles.alex.heavybreathing": "Respiração Pesada",
+  "subtitles.alex.hmph": "Hm",
+  "subtitles.alex.huh": "Hã?",
+  "subtitles.alex.lightbreathing": "Respiração Leve",
+  "subtitles.alex.lipsound": "Som de Lábios",
+  "subtitles.alex.mmm": "Mmm",
+  "subtitles.alex.moan": "Gemido",
+  "subtitles.alex.mommyhorny": "Mamãe Excitada",
+  "subtitles.alex.sadoh": "Oh Triste",
+  "subtitles.alex.sigh": "Suspiro"
 }
-
-
