@@ -10774,6 +10774,11 @@
 					]
 				},
 				{
+					"name": "boyCam",
+					"parent": "Head2",
+					"pivot": [0, 25.68175, -16.07143]
+				},
+				{
 					"name": "cock",
 					"parent": "Torso2",
 					"pivot": [-0.05, 11.85, -17.45],

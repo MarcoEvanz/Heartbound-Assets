@@ -12,6 +12,7 @@
   "item.heartbound.coppie_spawn_egg": "Trứng Triệu Hồi Coppie",
   "item.heartbound.aly_spawn_egg": "Trứng Triệu Hồi Aly",
   "item.heartbound.zoey_spawn_egg": "Trứng Triệu Hồi Zoey",
+  "item.heartbound.alex_spawn_egg": "Trứng Triệu Hồi Alex",
   "item.heartbound.sarah_spawn_egg": "Trứng Triệu Hồi Sarah",
 
   "item.heartbound.custom_girl_spawn_egg": "Trứng Triệu Hồi Cô Gái Tùy Chỉnh",
@@ -118,6 +119,7 @@
   "entity.heartbound.aly": "Aly",
 
   "entity.heartbound.zoey": "Zoey",
+  "entity.heartbound.alex": "Alex",
 
   "entity.heartbound.sarah": "Sarah",
 
@@ -226,6 +228,7 @@
   "scene.heartbound.paizuri": "Paizuri",
   "scene.heartbound.blowJob": "Bú Cu",
   "scene.heartbound.doggy": "Doggy",
+  "scene.heartbound.fence": "Hàng rào",
   "scene.heartbound.faceFuck": "Địt Mặt",
   "scene.heartbound.missionary": "Missionary",
   "scene.heartbound.cowgirl": "Cowgirl",
@@ -278,6 +281,12 @@
   "msg.heartbound.zoey.gift.love.1": "Bạn cứ chiều mình mãi… mình thích lắm!",
   "msg.heartbound.zoey.gift.love.2": "Lại nữa á? Bạn biết cách đối xử với con gái thật~",
   "msg.heartbound.zoey.gift.love.3": "Bạn làm Zoey ấm áp cả trong lòng…",
+  "msg.heartbound.alex.gift.like.1": "Ồ, cho tớ hả? Cảm ơn nha!",
+  "msg.heartbound.alex.gift.like.2": "Tuyệt! Cậu nhớ tớ thích gì này!",
+  "msg.heartbound.alex.gift.like.3": "Alex duyệt. Chọn khéo đấy!",
+  "msg.heartbound.alex.gift.love.1": "Oa… cậu hiểu tớ thật đấy.",
+  "msg.heartbound.alex.gift.love.2": "Cứ thế này chắc tớ chẳng rời cậu nửa bước mất~",
+  "msg.heartbound.alex.gift.love.3": "Cậu đang làm tim Alex đập loạn lên đấy, biết không?",
 
   "msg.heartbound.jenny.gift.like.1": "Wow, cho mình á? Cảm ơn!",
   "msg.heartbound.jenny.gift.like.2": "Hoa allium á? Dễ thương quá…!",
@@ -336,6 +345,7 @@
   "msg.heartbound.scene.zoey.sitdownMSG1": "lại đây nào cưng~",
 
   "msg.heartbound.canGoInToFreeCam" : "Để vào chế độ camera tự do nhấn F4",
+  "msg.heartbound.sleepTogetherWake" : "Nhấn lén (sneak) để dậy",
 
   "key.Heartbound.thrust": "Đẩy",
 
@@ -478,6 +488,23 @@
   "subtitles.ellie.sadoh": "Oh buồn",
 
   "subtitles.ellie.sigh": "Thở dài",
+  "subtitles.alex.aftersessionmoan": "Rên sau phiên",
+  "subtitles.alex.ahh": "Ahh",
+  "subtitles.alex.bjmoan": "Rên BJ",
+  "subtitles.alex.cometomommy": "Lại đây với mẹ",
+  "subtitles.alex.giggle": "Cười khúc khích",
+  "subtitles.alex.goodboy": "Con trai ngoan",
+  "subtitles.alex.happyoh": "Oh vui",
+  "subtitles.alex.heavybreathing": "Thở nặng",
+  "subtitles.alex.hmph": "Hmph",
+  "subtitles.alex.huh": "Huh",
+  "subtitles.alex.lightbreathing": "Thở nhẹ",
+  "subtitles.alex.lipsound": "Tiếng môi",
+  "subtitles.alex.mmm": "Mmm",
+  "subtitles.alex.moan": "Rên",
+  "subtitles.alex.mommyhorny": "Mẹ đang nứng",
+  "subtitles.alex.sadoh": "Oh buồn",
+  "subtitles.alex.sigh": "Thở dài",
 
   "key.categories.freecam": "heartbound - Camera Tự Do",
 

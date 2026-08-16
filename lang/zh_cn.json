@@ -12,6 +12,7 @@
   "item.heartbound.coppie_spawn_egg": "Coppie 刷怪蛋",
   "item.heartbound.aly_spawn_egg": "Aly 刷怪蛋",
   "item.heartbound.zoey_spawn_egg": "Zoey 刷怪蛋",
+  "item.heartbound.alex_spawn_egg": "艾丽克丝刷怪蛋",
   "item.heartbound.sarah_spawn_egg": "Sarah 刷怪蛋",
 
   "item.heartbound.custom_girl_spawn_egg": "自定义女孩 刷怪蛋",
@@ -118,6 +119,7 @@
   "entity.heartbound.aly": "Aly",
 
   "entity.heartbound.zoey": "Zoey",
+  "entity.heartbound.alex": "艾丽克丝",
 
   "entity.heartbound.sarah": "Sarah",
 
@@ -226,6 +228,7 @@
   "scene.heartbound.paizuri": "乳交",
   "scene.heartbound.blowJob": "口交",
   "scene.heartbound.doggy": "后入式",
+  "scene.heartbound.fence": "栅栏",
   "scene.heartbound.faceFuck": "口爆",
   "scene.heartbound.missionary": "传教士式",
   "scene.heartbound.cowgirl": "骑乘式",
@@ -278,6 +281,12 @@
   "msg.heartbound.zoey.gift.love.1": "你一直这样宠我……我超喜欢！",
   "msg.heartbound.zoey.gift.love.2": "又一个？你真懂得怎么对待女孩~",
   "msg.heartbound.zoey.gift.love.3": "你让 Zoey 心里暖洋洋的……",
+  "msg.heartbound.alex.gift.like.1": "哦,给我的?谢啦!",
+  "msg.heartbound.alex.gift.like.2": "太好了!你还记得!",
+  "msg.heartbound.alex.gift.like.3": "艾丽克丝表示认可。眼光不错!",
+  "msg.heartbound.alex.gift.love.1": "哇……你真的很懂我。",
+  "msg.heartbound.alex.gift.love.2": "再这样下去,我可能永远不想离开你了~",
+  "msg.heartbound.alex.gift.love.3": "你知道吗,你让艾丽克丝心跳加速了?",
 
   "msg.heartbound.jenny.gift.like.1": "哇，给我的？谢谢！",
   "msg.heartbound.jenny.gift.like.2": "绒球葱？你真好……！",
@@ -336,6 +345,7 @@
   "msg.heartbound.scene.zoey.sitdownMSG1": "过来吧可爱的~",
 
   "msg.heartbound.canGoInToFreeCam": "按 F4 进入自由镜头模式",
+  "msg.heartbound.sleepTogetherWake": "按潜行键起身",
 
   "key.Heartbound.thrust": "冲刺",
 
@@ -478,6 +488,23 @@
   "subtitles.ellie.sadoh": "悲伤的哦",
 
   "subtitles.ellie.sigh": "叹息",
+  "subtitles.alex.aftersessionmoan": "事后呻吟",
+  "subtitles.alex.ahh": "啊",
+  "subtitles.alex.bjmoan": "口中呻吟",
+  "subtitles.alex.cometomommy": "到妈妈这里来",
+  "subtitles.alex.giggle": "咯咯笑",
+  "subtitles.alex.goodboy": "好孩子",
+  "subtitles.alex.happyoh": "开心的哦",
+  "subtitles.alex.heavybreathing": "粗重呼吸",
+  "subtitles.alex.hmph": "哼",
+  "subtitles.alex.huh": "嗯？",
+  "subtitles.alex.lightbreathing": "轻微呼吸",
+  "subtitles.alex.lipsound": "唇音",
+  "subtitles.alex.mmm": "嗯嗯",
+  "subtitles.alex.moan": "呻吟",
+  "subtitles.alex.mommyhorny": "妈妈想要了",
+  "subtitles.alex.sadoh": "悲伤的哦",
+  "subtitles.alex.sigh": "叹息",
 
   "key.categories.freecam": "Heartbound - 自由镜头",
 
