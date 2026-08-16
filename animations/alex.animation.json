@@ -1532,6 +1532,9 @@
 				}
 			},
 			"sound_effects": {
+				"46.55": {
+					"effect": "sexUI"
+				},
 				"0.44": {
 					"effect": "bjcBlackScreen"
 				},
@@ -2109,6 +2112,9 @@
 				}
 			},
 			"sound_effects": {
+				"3.02": {
+					"effect": "thrust"
+				},
 				"0.16": {
 					"effect": "sexUiOn"
 				},
@@ -2594,6 +2600,9 @@
 				}
 			},
 			"sound_effects": {
+				"0.88": {
+					"effect": "thrust"
+				},
 				"0.44": {
 					"effect": "doggyfastMSG1"
 				},

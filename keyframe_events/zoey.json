@@ -99,6 +99,43 @@
       "sounds": [
         "heartbound:zoey.ahh"
       ]
+    },
+    {
+      "key": "pounding",
+      "sounds": [
+        "heartbound:misc.pounding"
+      ]
+    },
+    {
+      "key": "pounding1",
+      "sounds": [
+        "heartbound:misc.pounding"
+      ]
+    },
+    {
+      "key": "breath",
+      "sounds": [
+        "heartbound:zoey.lightbreathing"
+      ]
+    },
+    {
+      "key": "moan7",
+      "random_sounds": [
+        "heartbound:zoey.moan",
+        "heartbound:zoey.ahh"
+      ]
+    },
+    {
+      "key": "orgasm",
+      "sounds": [
+        "heartbound:zoey.moan"
+      ]
+    },
+    {
+      "key": "cumLoud",
+      "sounds": [
+        "heartbound:misc.cuminflation"
+      ]
     }
   ]
 }

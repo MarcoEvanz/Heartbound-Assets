@@ -9553,6 +9553,9 @@
 				}
 			},
 			"sound_effects": {
+				"1.9125": {
+					"effect": "sexUI"
+				},
 				"0.7083": {
 					"effect": "pound-doggyMoan"
 				}
