@@ -9540,7 +9540,7 @@
 					"rotation": [-12.5, 0, 0]
 				},
 				{
-					"name": "boobL",
+					"name": "boobprevL",
 					"parent": "boobs",
 					"pivot": [0.049, 18.07355, 1.46681],
 					"rotation": [2.5, -14.5, -10],
@@ -9614,7 +9614,7 @@
 				},
 				{
 					"name": "nipple3",
-					"parent": "boobL",
+					"parent": "boobprevL",
 					"pivot": [0.0572, 16.50934, -1.6083],
 					"rotation": [100, 0, 0],
 					"cubes": [
@@ -9858,7 +9858,7 @@
 				},
 				{
 					"name": "midSection9",
-					"parent": "boobL",
+					"parent": "boobprevL",
 					"pivot": [0.27451, 16.43918, -0.77428],
 					"rotation": [167.5, 0, 0],
 					"cubes": [
@@ -9929,7 +9929,7 @@
 				},
 				{
 					"name": "rside2",
-					"parent": "boobL",
+					"parent": "boobprevL",
 					"pivot": [-5.75621, 16.93621, -1.79399],
 					"rotation": [148.5, 0, 0],
 					"cubes": [
@@ -10526,7 +10526,7 @@
 				},
 				{
 					"name": "rside3",
-					"parent": "boobL",
+					"parent": "boobprevL",
 					"pivot": [5.27101, 16.93621, -1.79399],
 					"rotation": [148.5, 0, 0],
 					"cubes": [
@@ -11109,7 +11109,7 @@
 					]
 				},
 				{
-					"name": "boobR",
+					"name": "boobprevR",
 					"parent": "boobs",
 					"pivot": [-0.0592, 18.07355, 1.46681],
 					"rotation": [2.5, 14.5, 10],
@@ -11181,7 +11181,7 @@
 				},
 				{
 					"name": "nipple2",
-					"parent": "boobR",
+					"parent": "boobprevR",
 					"pivot": [-0.0674, 16.50934, -1.6083],
 					"rotation": [100, 0, 0],
 					"cubes": [
@@ -11425,7 +11425,7 @@
 				},
 				{
 					"name": "midSection2",
-					"parent": "boobR",
+					"parent": "boobprevR",
 					"pivot": [-0.28471, 16.43918, -0.77428],
 					"rotation": [167.5, 0, 0],
 					"cubes": [
@@ -11496,7 +11496,7 @@
 				},
 				{
 					"name": "rside4",
-					"parent": "boobR",
+					"parent": "boobprevR",
 					"pivot": [5.74601, 16.93621, -1.79399],
 					"rotation": [148.5, 0, 0],
 					"cubes": [
@@ -12093,7 +12093,7 @@
 				},
 				{
 					"name": "rside5",
-					"parent": "boobR",
+					"parent": "boobprevR",
 					"pivot": [-5.28121, 16.93621, -1.79399],
 					"rotation": [148.5, 0, 0],
 					"cubes": [
@@ -16384,7 +16384,7 @@
 				{
 					"name": "boyCam",
 					"parent": "Head2",
-					"pivot": [0, 25.58175, -16.07143]
+					"pivot": [0, 28.28175, -16.07143]
 				},
 				{
 					"name": "cock",
