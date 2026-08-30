@@ -1,0 +1,11 @@
+{
+  "name": "カスタムガール",
+  "icon": "minecraft:knowledge_book",
+  "category": "matex:custom_girls",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(o)スポーン方法：$()$(br)$(item)カスタムガールスポーンエッグ$()をクラフトし、$(item)フュージョンテーブル$()で同じなつかせアイテム2つと融合させて特殊なスポーンエッグを作成します。右クリックでガールをスポーンさせます。"
+    }
+  ]
+}

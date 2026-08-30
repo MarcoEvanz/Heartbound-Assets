@@ -1,0 +1,772 @@
+{
+  "item.matex.matex_logo": "珍妮重制版",
+  "item.matex.jenny_spawn_egg": "Jenny 刷怪蛋",
+
+  "item.matex.ellie_spawn_egg": "Ellie 刷怪蛋",
+
+  "item.matex.bia_spawn_egg": "Bia 刷怪蛋",
+
+  "item.matex.slime_spawn_egg": "史莱姆 刷怪蛋",
+
+  "item.matex.kobold_spawn_egg": "狗头人 刷怪蛋",
+
+  "item.matex.coppie_spawn_egg": "Coppie 刷怪蛋",
+  "item.matex.aly_spawn_egg": "Aly 刷怪蛋",
+  "item.matex.zoey_spawn_egg": "Zoey 刷怪蛋",
+  "item.matex.sarah_spawn_egg": "Sarah 刷怪蛋",
+
+  "item.matex.custom_girl_spawn_egg": "自定义女孩 刷怪蛋",
+  "item.matex.custom_girl_spawn_egg.named": "%s 刷怪蛋",
+  "item.matex.custom_girl_spawn_egg.unspecified": "未选择女孩 刷怪蛋",
+  "item.matex.custom_girl_spawn_egg.choose_first": "在空中右键点击以选择此蛋将变成哪个女孩。",
+  "item.matex.custom_girl_spawn_egg.incomplete": "游戏人物不完整，请检查一下游戏材质包",
+  "gui.matex.choose_girl_profile.title": "选择一个女孩",
+
+  "item.matex.love_ball": "乐趣球",
+  "item.matex.love_ball.filled": "乐趣球（已捕获）",
+  "item.matex.love_ball.tooltip.girl": "女孩：%s",
+  "item.matex.love_ball.tooltip.owner": "主人：%s",
+  "item.matex.love_ball.invalid_entity": "只能对女孩实体使用！",
+  "item.matex.love_ball.not_tamed": "这个女孩还未被驯服！",
+  "item.matex.love_ball.not_owner": "你不是这个女孩的主人！",
+  "item.matex.love_ball.not_owner_release": "只有主人才能释放这个女孩！",
+  "item.matex.love_ball.not_tameable": "这个女孩无法被捕获！",
+  "item.matex.love_ball.already_contains": "这个乐趣球里已经有一个女孩了！",
+  "item.matex.love_ball.stored": "已将 %s 存入乐趣球",
+  "item.matex.love_ball.empty": "这个乐趣球是空的！",
+  "item.matex.love_ball.released": "已从乐趣球中释放 %s",
+  "item.matex.love_ball.invalid_data": "释放失败 - 数据无效！",
+  "item.matex.love_ball.spawn_failed": "生成女孩失败！",
+
+  "item.matex.master_ring": "主人之戒",
+  "item.matex.master_ring.filled": "主人之戒（已捕获）",
+  "item.matex.master_ring.tooltip.girl": "女孩：%s",
+  "item.matex.master_ring.tooltip.owner": "主人：%s",
+  "item.matex.master_ring.invalid_entity": "只能对女孩实体使用！",
+  "item.matex.master_ring.not_tamed": "这个女孩还未被驯服！",
+  "item.matex.master_ring.not_owner": "你不是这个女孩的主人！",
+  "item.matex.master_ring.not_owner_release": "只有主人才能释放这个女孩！",
+  "item.matex.master_ring.not_tameable": "这个女孩无法被捕获！",
+  "item.matex.master_ring.already_contains": "这个主人之戒里已经有一个女孩了！",
+  "item.matex.master_ring.has_owner": "这个女孩已经有主人了！",
+  "item.matex.master_ring.stored": "已将 %s 存入主人之戒",
+  "item.matex.master_ring.empty": "这个主人之戒是空的！",
+  "item.matex.master_ring.released": "已从主人之戒中释放 %s",
+  "item.matex.master_ring.invalid_data": "释放失败 - 数据无效！",
+  "item.matex.master_ring.spawn_failed": "生成女孩失败！",
+  "item.matex.master_ring.boss_active": "戒指无法束缚堕落恶魔——试试 Gallath 之币吧。",
+
+  "item.matex.gallath_coin": "Gallath 之币",
+  "item.matex.gallath_coin.filled": "Gallath 之币（已封印）",
+  "item.matex.gallath_coin.empty": "这枚 Gallath 之币是空的！",
+  "item.matex.gallath_coin.released": "Gallath 已从硬币中释放",
+  "item.matex.gallath_coin.spawn_failed": "释放 Gallath 失败！",
+  "item.matex.gallath_coin.already_contains": "这枚硬币里已经封着 Gallath！",
+  "item.matex.gallath_coin.stored": "已将 Gallath 封印进硬币",
+  "item.matex.gallath_coin.boss_active": "她现在太危险了，无法封印！",
+  "item.matex.gallath_coin.invalid_data": "这枚硬币里装着不该有的东西。",
+  "item.matex.gallath_coin.coin_only": "只有 Gallath 之币能封印她——戒指无法承载她的本质。",
+  "item.matex.gallath_coin.tooltip.girl": "已封印：%s",
+  "item.matex.gallath_coin.tooltip.owner": "主人：%s",
+
+  "item.matex.heart_guide": "乐趣百科",
+  "item.matex.heart_guide.tooltip.edition": "第一版",
+
+  "item.matex.x_pill": "X药丸",
+  "item.matex.h_phone": "H手机",
+  "item.matex.h_phone.tooltip": "用于查找位置的智能设备",
+  "screen.matex.phone.home_finder": "家园寻找器",
+  "screen.matex.phone.searching": "搜索中...",
+  "screen.matex.phone.not_found": "附近未找到",
+  "screen.matex.phone.found": "找到位置：%d, %d",
+  "screen.matex.phone.jenny_house": "Jenny 的家",
+  "screen.matex.phone.ellie_house": "Ellie 的家",
+  "screen.matex.phone.bia_house": "Bia 的家",
+  "screen.matex.phone.sandguard": "沙之守卫",
+  "screen.matex.phone.stoneguard": "石之守卫",
+  "msg.matex.structure_found": "[H手机] 在 %d, %d 找到了 %s",
+  "msg.matex.structure_not_found": "[H手机] 附近未找到 %s",
+  "screen.matex.phone.directory": "通讯录",
+  "screen.matex.phone.call": "呼叫",
+  "screen.matex.phone.no_girls": "未找到女孩",
+  "msg.matex.girl_called": "[H手机] %s 正在赶来！",
+  "msg.matex.girl_not_found": "[H手机] 附近未找到女孩",
+  "screen.matex.phone.call_all": "呼叫全部",
+  "msg.matex.girls_called_all": "[H手机] 已呼叫 %d 个女孩！",
+  "screen.matex.phone.in_ball": "在球内",
+  "screen.matex.phone.heart_container": "心之容器",
+  "screen.matex.phone.store_all": "全部存入",
+  "screen.matex.phone.your_items": "你的物品",
+  "screen.matex.phone.no_items": "无物品",
+  "gui.matex.girl_selection": "变身为...",
+
+  "block.matex.fusion_table": "融合台",
+
+  "block.matex.magical_pumpkin": "魔法南瓜",
+  "block.matex.litted_magical_pumpkin": "发光魔法南瓜",
+
+  "entity.matex.jenny": "Jenny",
+
+  "entity.matex.ellie": "Ellie",
+
+  "entity.matex.bia": "Bia",
+
+  "entity.matex.slime": "史莱姆",
+
+  "entity.matex.coppie": "Coppie",
+
+  "entity.matex.kobold": "狗头人",
+
+  "entity.matex.aly": "Aly",
+
+  "entity.matex.zoey": "Zoey",
+
+  "entity.matex.sarah": "Sarah",
+
+  "entity.matex.gallath": "Gallath",
+
+  "entity.matex.tamed_gallath": "Gallath",
+
+  "msg.matex.gallath.gift.like.1": "嗯，还能接受。",
+  "msg.matex.gallath.gift.like.2": "你以为一个小玩意就能买通本宫？……罢了，继续送吧。",
+  "msg.matex.gallath.gift.like.3": "凡人通常献上的东西更糟糕。这个我准了。",
+  "msg.matex.gallath.gift.love.1": "你太宠我了。我不确定我讨厌这种感觉。",
+  "msg.matex.gallath.gift.love.2": "啧——你还真懂得怎么解除一个堕落恶魔的心防。",
+  "msg.matex.gallath.gift.love.3": "别习以为常我对你这样笑。",
+
+  "scene.matex.gallath_grab": "强制抓取",
+  "scene.matex.gallath_corrupt": "堕落",
+
+  "entity.matex.custom_girl": "自定义女孩",
+
+  "screen.matex.girl_inventory": "背包",
+  "screen.matex.girl_inventory.relationship_tooltip": "好感度",
+  "screen.matex.fusion_table": "融合台",
+
+  "gui.matex.fusion_table": "融合台",
+
+  "gui.matex.sceneOptions": "场景选项",
+  "gui.matex.tooltip.requiresLevel": "需要好感度等级 %s",
+
+  "gui.matex.button.breakUp": "分手",
+  "gui.matex.button.setBase": "设为据点",
+  "gui.matex.button.goToBase": "前往据点",
+  "gui.matex.button.roamAtBase": "在据点闲逛",
+  "gui.matex.button.stopRoaming": "停止闲逛",
+  "gui.matex.button.chopTrees": "砍树",
+  "gui.matex.button.stopChopping": "停止砍树",
+  "gui.matex.button.customize": "自定义",
+  "gui.matex.button.baseFeature": "据点功能",
+  "gui.matex.button.playerFeature": "玩家功能",
+  "gui.matex.featureGroup.baseFeatures": "据点功能",
+  "gui.matex.featureGroup.playerFeatures": "玩家功能",
+  "gui.matex.button.sit": "坐下",
+  "gui.matex.button.stand": "站起",
+  "gui.matex.button.followMe": "跟随我",
+  "gui.matex.button.stopFollowing": "停止跟随",
+  "gui.matex.button.mineOres": "挖矿",
+  "gui.matex.button.stopMining": "停止挖矿",
+  "gui.matex.button.strip": "扔掉衣服",
+  "gui.matex.button.dressUp": "穿衣",
+  "gui.matex.button.hideArmor": "隐藏盔甲",
+  "gui.matex.button.showArmor": "显示盔甲",
+  "msg.matex.gallath.ritual.begun": "火焰开始翻涌……",
+  "msg.matex.gallath.ritual.invalid": "祭坛图案不完整。",
+  "msg.matex.gallath.dialog.summoned.1": "谁敢把本宫从深渊中拉出来？",
+  "msg.matex.gallath.dialog.summoned.2": "凡人之躯……真是稀奇。",
+  "msg.matex.gallath.dialog.summoned.3": "你召唤本宫？那就来一战吧。",
+  "msg.matex.gallath.dialog.summon_minions.1": "起来吧，我的孩子们~",
+  "msg.matex.gallath.dialog.summon_minions.2": "把他们撕碎。",
+  "msg.matex.gallath.dialog.phase2.1": "你引起了本宫的注意，凡人。",
+  "msg.matex.gallath.dialog.phase2.2": "哼。原来你也会战斗。",
+  "msg.matex.gallath.dialog.phase3.1": "那就和本宫一起燃烧吧！",
+  "msg.matex.gallath.dialog.phase3.2": "不再玩游戏了……",
+  "msg.matex.gallath.dialog.fireball.1": "燃烧吧！",
+  "msg.matex.gallath.dialog.fireball.2": "接住这个~",
+  "msg.matex.gallath.dialog.knocked_out.1": "唔……还没……",
+  "msg.matex.gallath.dialog.knocked_out.2": "……这还……没结束……",
+  "msg.matex.gallath.dialog.stand_up.1": "你会后悔的。",
+  "msg.matex.gallath.dialog.stand_up.2": "本宫才刚刚热身~",
+  "msg.matex.gallath.dialog.coin_reward": "嘿嘿，你证明了自己的价值。本宫现在是你的了，拿着这个~",
+  "msg.matex.gallath.dialog.sacrifice.1": "原谅本宫，孩子~",
+  "msg.matex.gallath.dialog.sacrifice.2": "你的灵魂将滋养本宫。",
+  "advancements.matex.succubus_queen.title": "听命于我的魅魔女王",
+  "advancements.matex.succubus_queen.description": "通过堕落场景驯服堕落恶魔 Gallath。",
+  "gui.matex.button.sex": "爱你哦",
+  "gui.matex.button.select": "选择",
+  "gui.matex.button.confirm": "确认",
+  "gui.matex.button.cancel": "取消",
+  "gui.matex.button.clear": "清除",
+  "gui.matex.button.randomize": "随机",
+
+  "gui.matex.button.defaultGirl": "默认女孩",
+  "gui.matex.button.customGirl": "自定义女孩",
+  "gui.matex.button.back": "返回",
+  "gui.matex.preview.incomplete": "角色资源不完整",
+
+  "gui.matex.search": "搜索",
+  "gui.matex.search.placeholder": "搜索...",
+
+  "gui.matex.customizeGirl": "自定义女孩",
+  "gui.matex.customizeKobold": "狗头人自定义",
+  "gui.matex.customizePlayer": "自定义玩家",
+
+  "gui.matex.customize.breastSize": "西瓜大小",
+  "gui.matex.customize.boobPhysics": "胸部物理",
+  "gui.matex.customize.buttPhysics": "臀部物理",
+  "gui.matex.customize.breastOffset": "西瓜偏移",
+  "gui.matex.customize.playerBreastSize": "西瓜大小",
+  "gui.matex.customize.playerBreastOffset": "西瓜偏移",
+  "gui.matex.customize.bodySize": "体型大小",
+  "gui.matex.customize.bodySize.tooltip": "体型影响碰撞箱高度\n65 = 1格, 115 = 1.75格",
+  "gui.matex.customize.breastSize.tooltip": "调整西瓜大小 (60-160)",
+  "gui.matex.customize.colorPattern": "颜色方案:",
+  "gui.matex.customize.irisColor": "虹膜颜色:",
+  "gui.matex.customize.topHorns": "上方角:",
+  "gui.matex.customize.bottomHorns": "下方角:",
+  "gui.matex.customize.type": "类型 %s",
+  "gui.matex.customize.offset": "%s 偏移",
+
+  "scene.matex.masturbation": "自我操作",
+  "scene.matex.paizuri": "大西瓜",
+  "scene.matex.blowJob": "大嘴巴",
+  "scene.matex.doggy": "乌鸦坐飞机",
+  "scene.matex.faceFuck": "口吐金莲",
+  "scene.matex.missionary": "传教士式",
+  "scene.matex.cowgirl": "骑乘式",
+  "scene.matex.anal": "比比拉布",
+  "scene.matex.sex": "爱你哦",
+  "scene.matex.nelson": "尼尔森",
+  "scene.matex.sideFuck": "侧身",
+  "scene.matex.proneDown": "俯卧",
+  "scene.matex.kneeling": "跪姿",
+  "scene.matex.cunnilingus": "舌头",
+  "scene.matex.nursing_handjob": "西瓜暴鸟",
+
+  "jei.matex.fusion": "融合配方",
+
+  "itemgroup.matex.mate_items": "珍妮重制版 物品",
+
+  "itemgroup.matex.mate_blocks": "珍妮重制版 方块",
+
+  "msg.matex.noBedFound": "附近需要一张空床才能进行……",
+  "msg.matex.needsToStrip": "你需要先脱掉衣服才能进行此操作。",
+
+  "msg.matex.alreadyInRelationship": "她已经和别人在一起了",
+
+  "msg.matex.sheIgnoresYou": "她无视了你。也许试着给她一个%s。",
+  "msg.matex.askedOutYes": "你向%s告白了，她说§a好的",
+  "msg.matex.brokeUp": "你和%s分手了",
+  "msg.matex.diedRespawned": "%s死亡并在据点重生：%s, %s, %s",
+  "msg.matex.baseSet": "据点已设置在（%s, %s, %s）",
+  "msg.matex.mustFollowToMine": "女孩必须处于跟随状态才能挖矿",
+
+  "msg.matex.sheLikedTheGift": "她喜欢这个礼物",
+
+  "msg.matex.gift.like.1": "不错",
+  "msg.matex.gift.like.2": "非常感谢",
+  "msg.matex.gift.like.3": "真贴心",
+  "msg.matex.gift.love.1": "哦，谢谢你",
+  "msg.matex.gift.love.2": "爱你 ~_^",
+  "msg.matex.gift.love.3": "你对我太好了",
+
+  "msg.matex.sarah.gift.like.1": "可可豆？你在哪儿找到的？",
+  "msg.matex.sarah.gift.like.2": "哦，谢谢——我正想把这个加入收藏。",
+  "msg.matex.sarah.gift.like.3": "真可爱。你居然记得。",
+  "msg.matex.sarah.gift.love.1": "你真的会留意呢~",
+  "msg.matex.sarah.gift.love.2": "嗯，继续这样下去说不定你能得到点什么。",
+  "msg.matex.sarah.gift.love.3": "别以为我没看到你拿过来时脸上的笑容。",
+
+  "msg.matex.zoey.gift.like.1": "哦，给我的？真贴心！",
+  "msg.matex.zoey.gift.like.2": "你真细心！",
+  "msg.matex.zoey.gift.like.3": "Zoey 喜欢礼物！",
+  "msg.matex.zoey.gift.love.1": "你一直这样宠我……我超喜欢！",
+  "msg.matex.zoey.gift.love.2": "又一个？你真懂得怎么对待女孩~",
+  "msg.matex.zoey.gift.love.3": "你让 Zoey 心里暖洋洋的……",
+
+  "msg.matex.jenny.gift.like.1": "哇，给我的？谢谢！",
+  "msg.matex.jenny.gift.like.2": "绒球葱？你真好……！",
+  "msg.matex.jenny.gift.like.3": "啊哈，太棒了！",
+  "msg.matex.jenny.gift.love.1": "又一个？嗯，你才是真正的礼物呢~",
+  "msg.matex.jenny.gift.love.2": "宝贝，你太好了。还很帅~",
+  "msg.matex.jenny.gift.love.3": "别再送礼物了，直接来操我吧~！",
+
+  "msg.matex.ellie.gift.like.1": "等等，那是……真的凋灵玫瑰……！",
+  "msg.matex.ellie.gift.like.2": "你挺无聊的，但这个……谢了……！",
+  "msg.matex.ellie.gift.like.3": "太棒了……原来凋灵玫瑰长这样……！",
+  "msg.matex.ellie.gift.love.1": "嗯，你其实还挺帅的……",
+  "msg.matex.ellie.gift.love.2": "你是不是需要一个妈妈呀？",
+  "msg.matex.ellie.gift.love.3": "别……别这样……太过分了……",
+
+  "msg.matex.bia.gift.like.1": "哇！！！虞美人！！耶！！",
+  "msg.matex.bia.gift.like.2": "哇哇哇！给Bia的礼物！",
+  "msg.matex.bia.gift.like.3": "Bia喜欢礼物！再给Bia更多！",
+  "msg.matex.bia.gift.love.1": "耶！！又一个礼物！你真的应该当Bia的主人！",
+  "msg.matex.bia.gift.love.2": "耶耶耶！我们现在可以玩了吗！",
+  "msg.matex.bia.gift.love.3": "M-Bia因为你……发情了……",
+
+  "msg.matex.coppie.gift.like.1": "此傀儡接受这个……东西。",
+  "msg.matex.coppie.gift.like.2": "此傀儡将接受这份礼物。",
+  "msg.matex.coppie.gift.like.3": "主人为何要给此傀儡送礼物？",
+  "msg.matex.coppie.gift.love.1": "此傀儡……不……我很感激，主人。",
+  "msg.matex.coppie.gift.love.2": "这对我意义重大，主人。",
+  "msg.matex.coppie.gift.love.3": "主人确定不想使用我的性功能吗？",
+
+  "msg.matex.scene.jenny.stripMSG1": "嘻嘻~",
+  "msg.matex.scene.jenny.bjiMSG1": "你在干什么...",
+  "msg.matex.scene.jenny.bjiMSG2": "嗯...男孩子...",
+  "msg.matex.scene.jenny.bjiMSG3": "啊哦...！",
+  "msg.matex.scene.jenny.bjiMSG5": "这真的有必要吗？！",
+  "msg.matex.scene.jenny.bjiMSG6": "哦~",
+  "msg.matex.scene.jenny.bjiMSG7": "你喜欢吗？~",
+  "msg.matex.scene.jenny.bjiMSG9": "嘻嘻嘻~",
+  "msg.matex.scene.jenny.doggyLayOnBedMSG2": "你还在等什么？~",
+  "msg.matex.scene.jenny.doggyLayOnBedMSG3": "这屁股可不会自己动...",
+  "msg.matex.scene.jenny.doggyintroMSG1": "嗯~",
+  "msg.matex.scene.jenny.doggyintroMSG4": "哦~！",
+  "msg.matex.scene.jenny.doggyintroMSG5": "啊啊~！",
+  "msg.matex.scene.jenny.doggycumMSG1": "我要去了~！",
+
+  "msg.matex.scene.player.bjiMSG8": "耶",
+
+  "msg.matex.scene.ellie.carry_introMSG1": "我饿了..",
+  "msg.matex.scene.ellie.carry_introMSG2": "嘿~",
+  "msg.matex.scene.ellie.sitdownMSG1": "到妈妈这里来~",
+  "msg.matex.scene.ellie.missionary_cumMSG2": "好孩子...嗯...嘿嘿~",
+  "msg.matex.scene.ellie.cowgirlStartMSG1": "喜欢你看到的吗亲爱的？~",
+  "msg.matex.scene.ellie.cowgirlcumMSG4": "好孩子...嗯...嘿嘿~",
+
+  "msg.matex.scene.bia.sitdownMSG1": "过来吧大男孩~",
+
+  "msg.matex.scene.zoey.sitdownMSG1": "过来吧可爱的~",
+
+  "msg.matex.canGoInToFreeCam": "按 F4 进入自由镜头模式",
+
+  "key.Mate.thrust": "冲刺",
+
+  "key.Mate.cum": "发射子孙",
+
+  "key.Mate.transformScene": "变换场景",
+
+  "key.categories.Mate": "珍妮重制版",
+
+  "subtitles.bedrustle": "床铺摩擦",
+
+  "subtitles.belljingle": "铃铛叮当",
+
+  "subtitles.clap": "拍击",
+
+  "subtitles.cuminflation": "膨胀",
+
+  "subtitles.flap": "拍打",
+
+  "subtitles.inserts": "插入",
+
+  "subtitles.pounding": "撞击",
+
+  "subtitles.slap": "拍打",
+
+  "subtitles.slide": "滑动",
+
+  "subtitles.smallinserts": "轻微深入",
+
+  "subtitles.touch": "触摸",
+
+  "subtitles.plob": "扑通",
+
+  "subtitles.jenny.heavybreathing": "粗重呼吸",
+
+  "subtitles.jenny.hmph": "哼",
+
+  "subtitles.jenny.huh": "嗯？",
+
+  "subtitles.jenny.aftersessionmoan": "事后呻吟",
+
+  "subtitles.jenny.ahh": "啊",
+
+  "subtitles.jenny.bjmoan": "口中呻吟",
+
+  "subtitles.jenny.giggle": "咯咯笑",
+
+  "subtitles.jenny.happyoh": "开心的哦",
+
+  "subtitles.jenny.lightbreathing": "轻微呼吸",
+
+  "subtitles.jenny.lipsound": "唇音",
+
+  "subtitles.jenny.mmm": "嗯嗯",
+
+  "subtitles.jenny.moan": "呻吟",
+
+  "subtitles.jenny.sadoh": "悲伤的哦",
+
+  "subtitles.jenny.sigh": "叹息",
+
+  "subtitles.bia.ahh": "啊",
+
+  "subtitles.bia.bjmoan": "口中呻吟",
+
+  "subtitles.bia.moan": "呻吟",
+
+  "subtitles.bia.lightbreathing": "轻微呼吸",
+
+  "subtitles.bia.giggle": "咯咯笑",
+
+  "subtitles.bia.hey": "嘿",
+
+  "subtitles.bia.happyoh": "开心的哦",
+
+  "subtitles.bia.sadoh": "悲伤的哦",
+
+  "subtitles.bia.sigh": "叹息",
+
+  "subtitles.bia.huh": "嗯？",
+
+  "subtitles.bia.hmph": "哼",
+
+  "subtitles.bia.mmm": "嗯嗯",
+
+  "subtitles.zoey.ahh": "啊",
+
+  "subtitles.zoey.bjmoan": "口中呻吟",
+
+  "subtitles.zoey.moan": "呻吟",
+
+  "subtitles.zoey.lightbreathing": "轻微呼吸",
+
+  "subtitles.zoey.giggle": "咯咯笑",
+
+  "subtitles.zoey.hey": "嘿",
+
+  "subtitles.zoey.happyoh": "开心的哦",
+
+  "subtitles.zoey.sadoh": "悲伤的哦",
+
+  "subtitles.zoey.sigh": "叹息",
+
+  "subtitles.zoey.huh": "嗯？",
+
+  "subtitles.zoey.hmph": "哼",
+
+  "subtitles.zoey.mmm": "嗯嗯",
+
+  "subtitles.ellie.aftersessionmoan": "事后呻吟",
+
+  "subtitles.ellie.ahh": "啊",
+
+  "subtitles.ellie.bjmoan": "口中呻吟",
+
+  "subtitles.ellie.cometomommy": "到妈妈这里来",
+
+  "subtitles.ellie.giggle": "咯咯笑",
+
+  "subtitles.ellie.goodboy": "好孩子",
+
+  "subtitles.ellie.happyoh": "开心的哦",
+
+  "subtitles.ellie.heavybreathing": "粗重呼吸",
+
+  "subtitles.ellie.hmph": "哼",
+
+  "subtitles.ellie.huh": "嗯？",
+
+  "subtitles.ellie.lightbreathing": "轻微呼吸",
+
+  "subtitles.ellie.lipsound": "唇音",
+
+  "subtitles.ellie.mmm": "嗯嗯",
+
+  "subtitles.ellie.moan": "呻吟",
+
+  "subtitles.ellie.mommyhorny": "妈妈想要了",
+
+  "subtitles.ellie.sadoh": "悲伤的哦",
+
+  "subtitles.ellie.sigh": "叹息",
+
+  "key.categories.freecam": "珍妮重制版 - 自由镜头",
+
+  "key.freecam.toggle": "切换自由镜头",
+
+  "key.freecam.playerControl": "控制玩家",
+
+  "key.freecam.tripodReset": "重置三脚架",
+
+  "key.freecam.configGui": "配置界面",
+
+  "mate.patchouli.heart_guide.name": "乐趣百科",
+  "mate.patchouli.heart_guide.landing_text": "$(o)欢迎来到乐趣百科！$()$(br2)探索你世界中所有美丽的女孩！了解她们的性格、如何驯服她们，以及她们喜欢的场景。$(br2)浏览右侧的分类开始探索吧！",
+
+  "msg.freecam.enable": "自由镜头已启用。",
+
+  "msg.freecam.disable": "自由镜头已禁用。",
+
+  "msg.freecam.openTripod": "打开镜头 %s",
+
+  "msg.freecam.closeTripod": "关闭镜头 %s",
+
+  "msg.freecam.tripodReset": "重置镜头 %s",
+
+  "text.autoconfig.matex.category.default": "珍妮重制版",
+
+  "text.autoconfig.matex.category.freecam": "自由镜头",
+
+  "text.autoconfig.matex.title": "珍妮重制版选项",
+
+  "text.autoconfig.matex.option.girls": "女孩",
+
+  "text.autoconfig.matex.option.girls.boobWindow": "西瓜窗口",
+
+  "text.autoconfig.matex.option.girls.disableShading": "禁用着色",
+
+  "text.autoconfig.matex.option.girls.boobJiggle": "西瓜抖动",
+  "text.autoconfig.matex.option.girls.jigglePhysics": "抖动物理 (总开关)",
+  "text.autoconfig.matex.option.girls.jigglePhysics.@Tooltip": "开启：胸部/腹部/臀部完全由物理系统驱动并覆盖其动画。关闭：禁用物理，播放默认动画。",
+
+  "text.autoconfig.matex.option.girls.buttJiggle": "西瓜抖动",
+
+  "text.autoconfig.matex.option.girls.boobWindow.@Tooltip": "使女孩的盔甲带有窗口以展示西瓜",
+
+  "text.autoconfig.matex.option.girls.disableShading.@Tooltip": "禁用女孩身上的着色/阴影，使其使用平面光照",
+
+  "text.autoconfig.matex.option.girls.boobJiggle.@Tooltip": "为女孩的西瓜启用抖动物理效果。",
+
+  "text.autoconfig.matex.option.girls.buttJiggle.@Tooltip": "为女孩的臀部启用抖动物理效果。",
+
+  "text.autoconfig.matex.option.player": "玩家",
+
+  "text.autoconfig.matex.option.player.renderFirstPersonBody": "在第一人称中渲染身体",
+
+  "text.autoconfig.matex.option.player.renderFirstPersonBody.@Tooltip": "在第一人称视角下显示已变身女孩的身体（头部仍然隐藏）",
+
+  "text.autoconfig.matex.option.player.renderPenis": "渲染坤坤",
+
+  "text.autoconfig.matex.option.player.renderPenis.@Tooltip": "在场景中切换玩家模型上坤坤模型的渲染",
+
+  "text.autoconfig.matex.option.player.penisShaftColor": "坤坤柱体颜色",
+
+  "text.autoconfig.matex.option.player.penisShaftColor.@Tooltip": "设置玩家模型上阴茎柱体的颜色",
+
+  "text.autoconfig.matex.option.player.penisHeadColor": "坤坤颜色",
+
+  "text.autoconfig.matex.option.player.penisHeadColor.@Tooltip": "设置玩家模型上坤坤的颜色",
+
+  "text.autoconfig.matex.option.controls": "按键绑定",
+
+  "text.autoconfig.matex.option.controls.@Tooltip": "自由镜头按键绑定。",
+
+  "text.autoconfig.matex.option.movement": "移动选项",
+
+  "text.autoconfig.matex.option.movement.@Tooltip": "镜头的移动方式。",
+
+  "text.autoconfig.matex.option.movement.flightMode": "飞行模式",
+
+  "text.autoconfig.matex.option.movement.flightMode.@Tooltip": "自由镜头使用的飞行类型。",
+
+  "text.autoconfig.matex.option.movement.flightMode.default": "默认",
+
+  "text.autoconfig.matex.option.movement.flightMode.creative": "创造",
+
+  "text.autoconfig.matex.option.movement.horizontalSpeed": "水平速度",
+
+  "text.autoconfig.matex.option.movement.horizontalSpeed.@Tooltip": "自由镜头的水平速度。",
+
+  "text.autoconfig.matex.option.movement.verticalSpeed": "垂直速度",
+
+  "text.autoconfig.matex.option.movement.verticalSpeed.@Tooltip": "自由镜头的垂直速度。",
+
+  "text.autoconfig.matex.option.collision": "碰撞选项",
+
+  "text.autoconfig.matex.option.collision.@Tooltip": "自由镜头中可以穿过哪些方块。",
+
+  "text.autoconfig.matex.option.collision.ignoreTransparent": "忽略透明方块",
+
+  "text.autoconfig.matex.option.collision.ignoreTransparent.@Tooltip": "允许在自由镜头中穿过透明方块。",
+
+  "text.autoconfig.matex.option.collision.ignoreOpenable": "忽略可开启方块",
+
+  "text.autoconfig.matex.option.collision.ignoreOpenable.@Tooltip": "允许在自由镜头中穿过门/活板门/栅栏门。",
+
+  "text.autoconfig.matex.option.collision.ignoreCustom": "自定义忽略列表",
+
+  "text.autoconfig.matex.option.collision.ignoreCustom.@Tooltip[0]": "允许在自由镜头中穿过指定方块。",
+
+  "text.autoconfig.matex.option.collision.whitelist.ids": "忽略的方块ID",
+
+  "text.autoconfig.matex.option.collision.whitelist.ids.@Tooltip[0]": "使用方块ID，例如 \"grass_block\"。",
+
+  "text.autoconfig.matex.option.collision.whitelist.ids.@Tooltip[1]": "如果省略命名空间，默认使用 \"minecraft:\"。",
+
+  "text.autoconfig.matex.option.collision.whitelist.patterns": "忽略的正则表达式",
+
+  "text.autoconfig.matex.option.collision.whitelist.patterns.@Tooltip[0]": "使用正则表达式语法。",
+
+  "text.autoconfig.matex.option.collision.whitelist.patterns.@Tooltip[1]": "匹配完整方块ID，例如 \"minecraft:grass_block\"。",
+
+  "text.autoconfig.matex.option.collision.ignoreAll": "忽略所有碰撞",
+
+  "text.autoconfig.matex.option.collision.ignoreAll.@Tooltip[0]": "允许在自由镜头中穿过所有方块。",
+
+  "text.autoconfig.matex.option.collision.ignoreAll.@Tooltip[1]": "§e覆盖以上设置。",
+
+  "text.autoconfig.matex.option.collision.ignoreAll.@ModrinthTooltip[2]": "§c注意：仅在单人游戏、创造模式或拥有管理员权限时可用。",
+
+  "text.autoconfig.matex.option.collision.alwaysCheck": "始终检查初始碰撞",
+
+  "text.autoconfig.matex.option.collision.alwaysCheck.@Tooltip[0]": "§7初始视角§r 是否应该检查",
+
+  "text.autoconfig.matex.option.collision.alwaysCheck.@Tooltip[1]": "碰撞，即使在使用 §7忽略所有碰撞§r 时。",
+
+  "text.autoconfig.matex.option.visual": "视觉选项",
+
+  "text.autoconfig.matex.option.visual.@Tooltip": "自由镜头的外观。",
+
+  "text.autoconfig.matex.option.visual.perspective": "初始视角",
+
+  "text.autoconfig.matex.option.visual.perspective.@Tooltip": "镜头的初始视角。",
+
+  "text.autoconfig.matex.option.visual.perspective.firstPerson": "第一人称",
+
+  "text.autoconfig.matex.option.visual.perspective.thirdPerson": "第三人称",
+
+  "text.autoconfig.matex.option.visual.perspective.thirdPersonMirror": "镜像",
+
+  "text.autoconfig.matex.option.visual.perspective.inside": "内部",
+
+  "text.autoconfig.matex.option.visual.hidePlayer": "隐藏玩家",
+
+  "text.autoconfig.matex.option.visual.hidePlayer.@Tooltip": "隐藏你的玩家模型。",
+
+  "text.autoconfig.matex.option.visual.showHand": "显示手部",
+
+  "text.autoconfig.matex.option.visual.showHand.@Tooltip": "是否在自由镜头中显示手部。",
+
+  "text.autoconfig.matex.option.visual.fullBright": "全亮度",
+
+  "text.autoconfig.matex.option.visual.fullBright.@Tooltip": "在自由镜头中提高亮度。",
+
+  "text.autoconfig.matex.option.visual.showSubmersion": "显示浸没雾效",
+
+  "text.autoconfig.matex.option.visual.showSubmersion.@Tooltip": "在水下、岩浆中或细雪中是否显示雾效覆盖。",
+
+  "text.autoconfig.matex.option.utility": "实用选项",
+
+  "text.autoconfig.matex.option.utility.@Tooltip": "自由镜头增强功能。",
+
+  "text.autoconfig.matex.option.utility.disableOnDamage": "受伤时禁用",
+
+  "text.autoconfig.matex.option.utility.disableOnDamage.@Tooltip": "受到伤害时禁用自由镜头。",
+
+  "text.autoconfig.matex.option.utility.freezePlayer": "冻结玩家",
+
+  "text.autoconfig.matex.option.utility.freezePlayer.@Tooltip[0]": "在自由镜头激活时阻止玩家移动。",
+
+  "text.autoconfig.matex.option.utility.freezePlayer.@Tooltip[1]": "§c警告：不建议在多人游戏中使用。",
+
+  "text.autoconfig.matex.option.utility.allowInteract": "允许交互",
+
+  "text.autoconfig.matex.option.utility.allowInteract.@Tooltip[0]": "是否允许在自由镜头中与方块/实体交互。",
+
+  "text.autoconfig.matex.option.utility.interactionMode": "交互模式",
+
+  "text.autoconfig.matex.option.utility.interactionMode.@Tooltip": "方块/实体交互的来源。",
+
+  "text.autoconfig.matex.option.utility.interactionMode.camera": "镜头",
+
+  "text.autoconfig.matex.option.utility.interactionMode.player": "玩家",
+
+  "text.autoconfig.matex.option.notification": "通知选项",
+
+  "text.autoconfig.matex.option.notification.@Tooltip": "显示或隐藏通知。",
+
+  "text.autoconfig.matex.option.notification.notifyFreecam": "自由镜头通知",
+
+  "text.autoconfig.matex.option.notification.notifyFreecam.@Tooltip": "进入/退出自由镜头时通知你。",
+
+  "text.autoconfig.matex.option.notification.notifyTripod": "三脚架通知",
+
+  "text.autoconfig.matex.option.notification.notifyTripod.@Tooltip": "进入/退出三脚架镜头时通知你。",
+
+  "advancements.matex.root.title": "嘿，你，你终于醒了",
+  "advancements.matex.root.description": "你是想偷渡过境的，对吧？",
+  "advancements.matex.tame_girl.title": "永远在一起",
+  "advancements.matex.tame_girl.description": "赢得一个女孩的芳心",
+  "advancements.matex.max_relationship.title": "你愿意嫁给我吗？",
+  "advancements.matex.max_relationship.description": "与一个女孩的好感度达到最高",
+  "advancements.matex.break_up.title": "心碎",
+  "advancements.matex.break_up.description": "与一个女孩分手",
+  "advancements.matex.kill_girl.title": "对不起，小家伙",
+  "advancements.matex.kill_girl.description": "杀死一个女孩",
+  "advancements.matex.enter_jenny_house.title": "看起来比我记忆中的要好",
+  "advancements.matex.enter_jenny_house.description": "找到Jenny的房子",
+  "advancements.matex.enter_bia_house.title": "温馨的小地方",
+  "advancements.matex.enter_bia_house.description": "找到Bia的房子",
+  "advancements.matex.enter_ellie_house.title": "妈咪的城堡！！？",
+  "advancements.matex.enter_ellie_house.description": "找到Ellie的房子",
+  "advancements.matex.summon_coppie.title": "铜傀……Coppie？",
+  "advancements.matex.summon_coppie.description": "召唤一个Coppie",
+  "advancements.matex.craft_custom_girl_spawn_egg.title": "人造人！？",
+  "advancements.matex.craft_custom_girl_spawn_egg.description": "制作一个自定义女孩刷怪蛋",
+  "advancements.matex.craft_slime_spawn_egg.title": "黏糊糊的朋友",
+  "advancements.matex.craft_slime_spawn_egg.description": "制作一个史莱姆刷怪蛋",
+  "advancements.matex.craft_aly_spawn_egg.title": "你看起来不太一样了",
+  "advancements.matex.craft_aly_spawn_egg.description": "制作一个Aly刷怪蛋",
+  "advancements.matex.craft_love_ball.title": "口袋空间",
+  "advancements.matex.craft_love_ball.description": "制作一个乐趣球",
+  "advancements.matex.craft_fusion_table.title": "看来我们现在要造女孩了",
+  "advancements.matex.craft_fusion_table.description": "制作一个融合台",
+  "advancements.matex.craft_master_ring.title": "你将属于我",
+  "advancements.matex.craft_master_ring.description": "制作一个主人之戒",
+  "advancements.matex.craft_x_pill.title": "这药丸看起来怪怪的",
+  "advancements.matex.craft_x_pill.description": "制作一个X药丸",
+  "advancements.matex.transform.title": "我乃天上天下唯我独尊之人",
+  "advancements.matex.transform.description": "使用X药丸进行变身",
+  "advancements.matex.capture_love_ball.title": "跟我走吧",
+  "advancements.matex.capture_love_ball.description": "使用乐趣球捕获一个女孩",
+  "advancements.matex.capture_master_ring.title": "这次跑不掉了",
+  "advancements.matex.capture_master_ring.description": "使用主人之戒捕获一个女孩",
+
+  "subtitles.sarah.aftersessionmoan": "事后呻吟",
+  "subtitles.sarah.ahh": "啊",
+  "subtitles.sarah.bjmoan": "口中呻吟",
+  "subtitles.sarah.cometomommy": "到妈妈这里来",
+  "subtitles.sarah.giggle": "咯咯笑",
+  "subtitles.sarah.goodboy": "好孩子",
+  "subtitles.sarah.happyoh": "开心的哦",
+  "subtitles.sarah.heavybreathing": "粗重呼吸",
+  "subtitles.sarah.hmph": "哼",
+  "subtitles.sarah.huh": "嗯？",
+  "subtitles.sarah.lightbreathing": "轻微呼吸",
+  "subtitles.sarah.lipsound": "唇音",
+  "subtitles.sarah.mmm": "嗯嗯",
+  "subtitles.sarah.moan": "呻吟",
+  "subtitles.sarah.mommyhorny": "妈妈想要了",
+  "subtitles.sarah.sadoh": "悲伤的哦",
+  "subtitles.sarah.sigh": "叹息",
+
+  "subtitles.gallath.aaa": "战斗呐喊",
+  "subtitles.gallath.ahh": "啊",
+  "subtitles.gallath.breathing": "呼吸",
+  "subtitles.gallath.dialog": "对话",
+  "subtitles.gallath.giggle": "咯咯笑",
+  "subtitles.gallath.hmph": "哼",
+  "subtitles.gallath.huh": "嗯？",
+  "subtitles.gallath.lightcharge": "轻蓄力",
+  "subtitles.gallath.moan": "呻吟",
+  "subtitles.gallath.orgasm": "去了",
+  "subtitles.gallath.strongcharge": "强蓄力",
+  "subtitles.gallath.uuh": "唔",
+
+  "entity.matex.jenny.variant.jenna": "珍娜",
+  "gui.matex.button.variant": "变体",
+  "gui.matex.variant_selection": "选择变体",
+  "scene.matex.jenna.blowjob": "口交",
+  "scene.matex.jenna.cowgirl": "骑乘式",
+  "scene.matex.jenna.missionary": "传教士式",
+  "scene.matex.jenna.paizuri": "大西瓜摩擦",
+  "scene.matex.jenna.rape": "强迫",
+  "scene.matex.jenna.straddling": "跨坐",
+  "scene.matex.jenna.stuck": "卡住",
+  "subtitles.misc.bounceboobs": "珍妮: *西瓜晃动*",
+  "subtitles.misc.clothes": "珍妮: *衣服摩擦声*"
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "matex:item/loveball_empty"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "matex:captured": 1
+      },
+      "model": "matex:item/love_ball_captured"
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "item.matex.jenny_spawn_egg": "Trứng Triệu Hồi Jenny",
+
+  "item.matex.ellie_spawn_egg": "Trứng Triệu Hồi Ellie",
+
+  "item.matex.bia_spawn_egg": "Trứng Triệu Hồi Bia",
+
+  "item.matex.slime_spawn_egg": "Trứng Triệu Hồi Slime",
+
+  "item.matex.kobold_spawn_egg": "Trứng Triệu Hồi Kobold",
+
+  "item.matex.coppie_spawn_egg": "Trứng Triệu Hồi Coppie",
+  "item.matex.aly_spawn_egg": "Trứng Triệu Hồi Aly",
+  "item.matex.zoey_spawn_egg": "Trứng Triệu Hồi Zoey",
+  "item.matex.sarah_spawn_egg": "Trứng Triệu Hồi Sarah",
+
+  "item.matex.custom_girl_spawn_egg": "Trứng Triệu Hồi Cô Gái Tùy Chỉnh",
+  "item.matex.custom_girl_spawn_egg.named": "Trứng Triệu Hồi %s",
+  "item.matex.custom_girl_spawn_egg.unspecified": "Trứng Triệu Hồi Cô Gái Chưa Chọn",
+  "item.matex.custom_girl_spawn_egg.choose_first": "Chuột phải vào không trung để chọn cô gái mà trứng này sẽ trở thành.",
+  "gui.matex.choose_girl_profile.title": "Chọn Một Cô Gái",
+
+  "item.matex.love_ball": "Quả Cầu Tình Yêu",
+  "item.matex.love_ball.filled": "Quả Cầu Tình Yêu (Đã Bắt)",
+  "item.matex.love_ball.tooltip.girl": "Cô gái: %s",
+  "item.matex.love_ball.tooltip.owner": "Chủ nhân: %s",
+  "item.matex.love_ball.invalid_entity": "Chỉ có thể sử dụng trên thực thể cô gái!",
+  "item.matex.love_ball.not_tamed": "Cô gái này chưa được thuần hóa!",
+  "item.matex.love_ball.not_owner": "Bạn không sở hữu cô gái này!",
+  "item.matex.love_ball.not_owner_release": "Chỉ chủ nhân mới có thể thả cô gái này!",
+  "item.matex.love_ball.not_tameable": "Cô gái này không thể bị bắt!",
+  "item.matex.love_ball.already_contains": "Quả Cầu Tình Yêu này đã chứa một cô gái rồi!",
+  "item.matex.love_ball.stored": "Đã lưu %s vào Quả Cầu Tình Yêu",
+  "item.matex.love_ball.empty": "Quả Cầu Tình Yêu này trống!",
+  "item.matex.love_ball.released": "Đã thả %s ra khỏi Quả Cầu Tình Yêu",
+  "item.matex.love_ball.invalid_data": "Thả thất bại - dữ liệu không hợp lệ!",
+  "item.matex.love_ball.spawn_failed": "Triệu hồi cô gái thất bại!",
+
+  "item.matex.master_ring": "Nhẫn Chủ Nhân",
+  "item.matex.master_ring.filled": "Nhẫn Chủ Nhân (Đã Bắt)",
+  "item.matex.master_ring.tooltip.girl": "Cô gái: %s",
+  "item.matex.master_ring.tooltip.owner": "Chủ nhân: %s",
+  "item.matex.master_ring.invalid_entity": "Chỉ có thể sử dụng trên thực thể cô gái!",
+  "item.matex.master_ring.not_tamed": "Cô gái này chưa được thuần hóa!",
+  "item.matex.master_ring.not_owner": "Bạn không sở hữu cô gái này!",
+  "item.matex.master_ring.not_owner_release": "Chỉ chủ nhân mới có thể thả cô gái này!",
+  "item.matex.master_ring.not_tameable": "Cô gái này không thể bị bắt!",
+  "item.matex.master_ring.already_contains": "Nhẫn Chủ Nhân này đã chứa một cô gái rồi!",
+  "item.matex.master_ring.has_owner": "Cô gái này đã có chủ nhân rồi!",
+  "item.matex.master_ring.stored": "Đã lưu %s vào Nhẫn Chủ Nhân",
+  "item.matex.master_ring.empty": "Nhẫn Chủ Nhân này trống!",
+  "item.matex.master_ring.released": "Đã thả %s ra khỏi Nhẫn Chủ Nhân",
+  "item.matex.master_ring.invalid_data": "Thả thất bại - dữ liệu không hợp lệ!",
+  "item.matex.master_ring.spawn_failed": "Triệu hồi cô gái thất bại!",
+  "item.matex.master_ring.boss_active": "Nhẫn không thể trói buộc một ác quỷ sa ngã — hãy thử Đồng Tiền Gallath.",
+
+  "item.matex.gallath_coin": "Đồng Tiền Gallath",
+  "item.matex.gallath_coin.filled": "Đồng Tiền Gallath (Đã Phong Ấn)",
+  "item.matex.gallath_coin.empty": "Đồng Tiền Gallath này trống!",
+  "item.matex.gallath_coin.released": "Gallath đã được giải phóng khỏi đồng tiền",
+  "item.matex.gallath_coin.spawn_failed": "Giải phóng Gallath thất bại!",
+  "item.matex.gallath_coin.already_contains": "Đồng tiền này đã chứa Gallath rồi!",
+  "item.matex.gallath_coin.stored": "Đã phong ấn Gallath vào đồng tiền",
+  "item.matex.gallath_coin.boss_active": "Cô ta đang quá nguy hiểm để phong ấn lúc này!",
+  "item.matex.gallath_coin.invalid_data": "Đồng tiền này chứa thứ không nên có.",
+  "item.matex.gallath_coin.coin_only": "Chỉ Đồng Tiền Gallath mới có thể phong ấn cô ta — chiếc nhẫn không giữ nổi linh hồn cô.",
+  "item.matex.gallath_coin.tooltip.girl": "Đã phong ấn: %s",
+  "item.matex.gallath_coin.tooltip.owner": "Chủ nhân: %s",
+
+  "item.matex.heart_guide": "Cẩm Nang Trái Tim",
+  "item.matex.heart_guide.tooltip.edition": "Ấn Bản Thứ Nhất",
+
+  "item.matex.x_pill": "Viên X",
+  "item.matex.h_phone": "H-Phone",
+  "item.matex.h_phone.tooltip": "Thiết bị thông minh dùng để tìm địa điểm",
+  "screen.matex.phone.home_finder": "Tìm Nhà",
+  "screen.matex.phone.searching": "Đang tìm...",
+  "screen.matex.phone.not_found": "Không tìm thấy gần đây",
+  "screen.matex.phone.found": "Tìm thấy tại: %d, %d",
+  "screen.matex.phone.jenny_house": "Nhà Của Jenny",
+  "screen.matex.phone.ellie_house": "Nhà Của Ellie",
+  "screen.matex.phone.bia_house": "Nhà Của Bia",
+  "screen.matex.phone.sandguard": "Lính Canh Cát",
+  "screen.matex.phone.stoneguard": "Lính Canh Đá",
+  "msg.matex.structure_found": "[H-Phone] Tìm thấy %s tại: %d, %d",
+  "msg.matex.structure_not_found": "[H-Phone] Không tìm thấy %s gần đây",
+  "screen.matex.phone.directory": "Danh Bạ",
+  "screen.matex.phone.call": "Gọi",
+  "screen.matex.phone.no_girls": "Không tìm thấy cô gái nào",
+  "msg.matex.girl_called": "[H-Phone] %s đang trên đường tới!",
+  "msg.matex.girl_not_found": "[H-Phone] Không tìm thấy cô gái gần đây",
+  "screen.matex.phone.call_all": "Gọi Tất Cả",
+  "msg.matex.girls_called_all": "[H-Phone] Đã gọi %d cô gái!",
+  "screen.matex.phone.in_ball": "Trong Cầu",
+  "screen.matex.phone.heart_container": "Hộp Trái Tim",
+  "screen.matex.phone.store_all": "Cất Tất Cả",
+  "screen.matex.phone.your_items": "Vật Phẩm Của Bạn",
+  "screen.matex.phone.no_items": "Không có vật phẩm",
+  "gui.matex.girl_selection": "Biến Hình Thành...",
+
+  "block.matex.fusion_table" : "Bàn Dung Hợp",
+
+  "block.matex.magical_pumpkin" : "Bí Ngô Ma Thuật",
+  "block.matex.litted_magical_pumpkin" : "Bí Ngô Ma Thuật Phát Sáng",
+
+  "entity.matex.jenny": "Jenny",
+
+  "entity.matex.ellie": "Ellie",
+
+  "entity.matex.bia": "Bia",
+
+  "entity.matex.slime": "Slime",
+
+  "entity.matex.coppie": "Coppie",
+
+  "entity.matex.kobold": "Kobold",
+
+  "entity.matex.aly": "Aly",
+
+  "entity.matex.zoey": "Zoey",
+
+  "entity.matex.sarah": "Sarah",
+
+  "entity.matex.gallath": "Gallath",
+
+  "entity.matex.tamed_gallath": "Gallath",
+
+  "msg.matex.gallath.gift.like.1": "Hừm. Chấp nhận được.",
+  "msg.matex.gallath.gift.like.2": "Ngươi nghĩ một món đồ nhỏ có thể mua chuộc ta sao? …Thôi được, cứ tiếp tục đi.",
+  "msg.matex.gallath.gift.like.3": "Phàm nhân thường dâng những thứ tệ hơn. Ta sẽ chấp nhận.",
+  "msg.matex.gallath.gift.love.1": "Ngươi chiều ta quá. Ta không chắc là mình ghét điều đó.",
+  "msg.matex.gallath.gift.love.2": "Tch — ngươi thật sự biết cách làm tan chảy một ác quỷ sa ngã.",
+  "msg.matex.gallath.gift.love.3": "Đừng quen với việc thấy ta cười như thế này.",
+
+  "scene.matex.gallath_grab": "Tóm Cưỡng Bức",
+  "scene.matex.gallath_corrupt": "Tha Hóa",
+
+  "entity.matex.custom_girl": "Cô Gái Tùy Chỉnh",
+
+  "screen.matex.girl_inventory": "Kho Đồ",
+  "screen.matex.girl_inventory.relationship_tooltip": "Mức Độ Quan Hệ",
+  "screen.matex.fusion_table": "Bàn Dung Hợp",
+
+  "gui.matex.fusion_table": "Bàn Dung Hợp",
+
+  "gui.matex.sceneOptions": "Tùy Chọn Cảnh",
+  "gui.matex.tooltip.requiresLevel": "Yêu cầu Mức Độ Quan Hệ %s",
+
+  "gui.matex.button.breakUp": "Chia Tay",
+  "gui.matex.button.setBase": "Đặt Căn Cứ Tại Đây",
+  "gui.matex.button.goToBase": "Về Căn Cứ",
+  "gui.matex.button.roamAtBase": "Đi Loanh Quanh Căn Cứ",
+  "gui.matex.button.stopRoaming": "Ngừng Đi Loanh Quanh",
+  "gui.matex.button.chopTrees": "Chặt Cây",
+  "gui.matex.button.stopChopping": "Ngừng Chặt",
+  "gui.matex.button.customize": "Tùy Chỉnh",
+  "gui.matex.button.baseFeature": "Tính Năng Căn Cứ",
+  "gui.matex.button.playerFeature": "Tính Năng Người Chơi",
+  "gui.matex.featureGroup.baseFeatures": "Tính Năng Căn Cứ",
+  "gui.matex.featureGroup.playerFeatures": "Tính Năng Người Chơi",
+  "gui.matex.button.sit": "Ngồi",
+  "gui.matex.button.stand": "Đứng",
+  "gui.matex.button.followMe": "Đi Theo Tôi",
+  "gui.matex.button.stopFollowing": "Ngừng Đi Theo",
+  "gui.matex.button.mineOres": "Đào Quặng",
+  "gui.matex.button.stopMining": "Ngừng Đào",
+  "gui.matex.button.strip": "Cởi Đồ",
+  "gui.matex.button.dressUp": "Mặc Đồ",
+  "gui.matex.button.hideArmor": "Ẩn Giáp",
+  "gui.matex.button.showArmor": "Hiện Giáp",
+  "msg.matex.gallath.ritual.begun": "Ngọn lửa lay động...",
+  "msg.matex.gallath.ritual.invalid": "Hoa văn bàn thờ chưa hoàn chỉnh.",
+  "msg.matex.gallath.dialog.summoned.1": "Kẻ nào dám kéo ta khỏi vực thẳm?",
+  "msg.matex.gallath.dialog.summoned.2": "Xác thịt phàm nhân... thật quái lạ.",
+  "msg.matex.gallath.dialog.summoned.3": "Ngươi gọi ta? Vậy thì hãy đối mặt với ta.",
+  "msg.matex.gallath.dialog.summon_minions.1": "Trỗi dậy đi, các con của ta~",
+  "msg.matex.gallath.dialog.summon_minions.2": "Xé xác chúng ra.",
+  "msg.matex.gallath.dialog.phase2.1": "Ngươi đã có được sự chú ý của ta, phàm nhân.",
+  "msg.matex.gallath.dialog.phase2.2": "Hừ. Vậy ngươi cũng biết đánh nhau.",
+  "msg.matex.gallath.dialog.phase3.1": "Vậy thì CHÁY cùng ta!",
+  "msg.matex.gallath.dialog.phase3.2": "Hết trò chơi rồi...",
+  "msg.matex.gallath.dialog.fireball.1": "Cháy đi!",
+  "msg.matex.gallath.dialog.fireball.2": "Bắt lấy này~",
+  "msg.matex.gallath.dialog.knocked_out.1": "Ngh... chưa đâu...",
+  "msg.matex.gallath.dialog.knocked_out.2": "...chuyện này... chưa kết thúc...",
+  "msg.matex.gallath.dialog.stand_up.1": "Ngươi sẽ phải hối hận.",
+  "msg.matex.gallath.dialog.stand_up.2": "Ta mới đang khởi động thôi~",
+  "msg.matex.gallath.dialog.coin_reward": "Hehe, ngươi đã chứng tỏ được mình. Ta là của ngươi rồi, hãy nhận lấy này~",
+  "msg.matex.gallath.dialog.sacrifice.1": "Hãy tha thứ cho ta, con yêu~",
+  "msg.matex.gallath.dialog.sacrifice.2": "Linh hồn ngươi sẽ nuôi dưỡng ta.",
+  "advancements.matex.succubus_queen.title": "Nữ hoàng succubus dưới quyền ta",
+  "advancements.matex.succubus_queen.description": "Thuần hóa ác quỷ sa ngã Gallath qua cảnh tha hóa.",
+  "gui.matex.button.sex": "Quan Hệ",
+  "gui.matex.button.select": "Chọn",
+  "gui.matex.button.confirm": "Xác Nhận",
+  "gui.matex.button.cancel": "Hủy",
+  "gui.matex.button.clear": "Xóa",
+  "gui.matex.button.randomize": "Ngẫu Nhiên",
+
+  "gui.matex.button.defaultGirl": "Cô Gái Mặc Định",
+  "gui.matex.button.customGirl": "Cô Gái Tùy Chỉnh",
+  "gui.matex.button.back": "Quay Lại",
+
+  "gui.matex.search": "Tìm Kiếm",
+  "gui.matex.search.placeholder": "Tìm kiếm...",
+
+  "gui.matex.customizeGirl": "Tùy Chỉnh Cô Gái",
+  "gui.matex.customizeKobold": "Tùy Chỉnh Kobold",
+  "gui.matex.customizePlayer": "Tùy Chỉnh Người Chơi",
+
+  "gui.matex.customize.breastSize": "Kích Thước Ngực",
+  "gui.matex.customize.boobPhysics": "Vật lý ngực",
+  "gui.matex.customize.buttPhysics": "Vật lý mông",
+  "gui.matex.customize.breastOffset": "Vị Trí Ngực",
+  "gui.matex.customize.playerBreastSize": "Kích Thước Ngực",
+  "gui.matex.customize.playerBreastOffset": "Vị Trí Ngực",
+  "gui.matex.customize.bodySize": "Kích Thước Cơ Thể",
+  "gui.matex.customize.bodySize.tooltip": "Kích thước ảnh hưởng chiều cao hitbox\n65 = 1 khối, 115 = 1.75 khối",
+  "gui.matex.customize.breastSize.tooltip": "Điều chỉnh kích thước ngực (60-160)",
+  "gui.matex.customize.colorPattern": "Mẫu Màu:",
+  "gui.matex.customize.irisColor": "Màu Mống Mắt:",
+  "gui.matex.customize.topHorns": "Sừng Trên:",
+  "gui.matex.customize.bottomHorns": "Sừng Dưới:",
+  "gui.matex.customize.type": "Loại %s",
+  "gui.matex.customize.offset": "Dịch Chuyển %s",
+
+  "scene.matex.masturbation": "Thủ Dâm",
+  "scene.matex.paizuri": "Paizuri",
+  "scene.matex.blowJob": "Bú Cu",
+  "scene.matex.doggy": "Doggy",
+  "scene.matex.faceFuck": "Địt Mặt",
+  "scene.matex.missionary": "Missionary",
+  "scene.matex.cowgirl": "Cowgirl",
+  "scene.matex.anal": "Hậu Môn",
+  "scene.matex.sex": "Quan Hệ",
+  "scene.matex.nelson": "Nelson",
+  "scene.matex.sideFuck": "Nằm Nghiêng",
+  "scene.matex.proneDown": "Nằm Sấp",
+  "scene.matex.kneeling": "Quỳ Gối",
+  "scene.matex.cunnilingus": "Liếm Lồn",
+  "scene.matex.nursing_handjob": "Bú Sữa Kèm Móc",
+
+  "jei.matex.fusion": "Công Thức Dung Hợp",
+
+  "itemgroup.matex.mate_items": "Vật Phẩm Mate",
+
+  "itemgroup.matex.mate_blocks": "Khối Mate",
+
+  "msg.matex.noBedFound" : "Chúng ta cần một chiếc giường trống gần đây cho việc này...",
+  "msg.matex.needsToStrip" : "Bạn cần cởi đồ trước khi làm điều này.",
+
+  "msg.matex.alreadyInRelationship" : "Cô ấy đã có quan hệ với người khác rồi",
+
+  "msg.matex.sheIgnoresYou": "Cô ấy phớt lờ bạn. Thử tặng cô ấy một %s xem.",
+  "msg.matex.askedOutYes": "Bạn đã tỏ tình với %s và cô ấy nói §aCó",
+  "msg.matex.brokeUp": "Bạn đã chia tay với %s",
+  "msg.matex.diedRespawned": "%s đã chết và hồi sinh tại căn cứ: %s, %s, %s",
+  "msg.matex.baseSet": "Đã đặt căn cứ tại (%s, %s, %s)",
+  "msg.matex.mustFollowToMine": "Cô gái phải đang đi theo để đào quặng",
+
+  "msg.matex.sheLikedTheGift": "Cô Ấy Thích Món Quà",
+
+  "msg.matex.gift.like.1": "Hay đấy",
+  "msg.matex.gift.like.2": "Cảm ơn bạn nhiều lắm",
+  "msg.matex.gift.like.3": "Thật ngọt ngào",
+  "msg.matex.gift.love.1": "Ồ, cảm ơn nhé",
+  "msg.matex.gift.love.2": "Yêu bạn ~_^",
+  "msg.matex.gift.love.3": "Bạn tốt với mình quá",
+
+  "msg.matex.sarah.gift.like.1": "Hạt cacao? Bạn tìm thấy ở đâu vậy?",
+  "msg.matex.sarah.gift.like.2": "Ồ, cảm ơn — mình đang định thêm cái này vào bộ sưu tập.",
+  "msg.matex.sarah.gift.like.3": "Dễ thương ghê. Bạn vẫn nhớ đấy.",
+  "msg.matex.sarah.gift.love.1": "Bạn thật sự để ý mọi thứ nhỉ~",
+  "msg.matex.sarah.gift.love.2": "Hmm, cứ như vậy thì có thể bạn sẽ được thưởng đấy.",
+  "msg.matex.sarah.gift.love.3": "Đừng tưởng mình không thấy bạn cười khi mang cái này tới đâu.",
+
+  "msg.matex.zoey.gift.like.1": "Ooh, cho mình á? Dễ thương quá!",
+  "msg.matex.zoey.gift.like.2": "Bạn chu đáo ghê!",
+  "msg.matex.zoey.gift.like.3": "Zoey thích quà lắm!",
+  "msg.matex.zoey.gift.love.1": "Bạn cứ chiều mình mãi… mình thích lắm!",
+  "msg.matex.zoey.gift.love.2": "Lại nữa á? Bạn biết cách đối xử với con gái thật~",
+  "msg.matex.zoey.gift.love.3": "Bạn làm Zoey ấm áp cả trong lòng…",
+
+  "msg.matex.jenny.gift.like.1": "Wow, cho mình á? Cảm ơn!",
+  "msg.matex.jenny.gift.like.2": "Hoa allium á? Dễ thương quá…!",
+  "msg.matex.jenny.gift.like.3": "Ahaha, tuyệt vời!",
+  "msg.matex.jenny.gift.love.1": "Ồ, thêm một cái nữa á? Thật ra bạn mới là món quà đẹp nhất~.",
+  "msg.matex.jenny.gift.love.2": "Anh ơi, anh tốt quá. Và nóng bỏng nữa~.",
+  "msg.matex.jenny.gift.love.3": "Thôi đừng tặng quà nữa mà làm luôn đi~!",
+
+  "msg.matex.ellie.gift.like.1": "Khoan, đó là… Một bông Hoa Wither thật sao…!",
+  "msg.matex.ellie.gift.like.2": "Cậu hơi nhạt nhẽo nhưng cái này thì… Cảm ơn…!",
+  "msg.matex.ellie.gift.like.3": "Tuyệt vời… Vậy đây là hoa Wither thật à…!",
+  "msg.matex.ellie.gift.love.1": "Mm, cậu thật ra cũng nóng bỏng phết đấy…",
+  "msg.matex.ellie.gift.love.2": "Cậu đang cần một người mẹ hay sao?",
+  "msg.matex.ellie.gift.love.3": "T-Thôi đi… Nhiều quá rồi…",
+
+  "msg.matex.bia.gift.like.1": "Wow!!! Hoa poppy!! Yay!!",
+  "msg.matex.bia.gift.like.2": "Wow, wow wow! Quà cho Bia!",
+  "msg.matex.bia.gift.like.3": "Bia thích quà! Cho Bia thêm nữa đi!",
+  "msg.matex.bia.gift.love.1": "Yay!! Thêm quà nữa! Bạn thật sự nên làm chủ nhân của Bia!",
+  "msg.matex.bia.gift.love.2": "Yay, yay, yay! Mình chơi được chưa!",
+  "msg.matex.bia.gift.love.3": "M-Bia đang động dục vì bạn…",
+
+  "msg.matex.coppie.gift.like.1": "Golem này chấp nhận… thứ này.",
+  "msg.matex.coppie.gift.like.2": "Golem này sẽ tiếp nhận món quà theo đúng quy trình.",
+  "msg.matex.coppie.gift.like.3": "Tại sao ngài lại tặng quà cho golem này, chủ nhân?",
+  "msg.matex.coppie.gift.love.1": "Golem này… không… Tôi rất trân trọng điều này, chủ nhân.",
+  "msg.matex.coppie.gift.love.2": "Điều này thật sự có ý nghĩa lớn với tôi, chủ nhân.",
+  "msg.matex.coppie.gift.love.3": "Ngài có chắc không muốn sử dụng chức năng tình dục của tôi không, chủ nhân?",
+
+  "msg.matex.scene.jenny.stripMSG1": "Hihi~",
+  "msg.matex.scene.jenny.bjiMSG1": "Anh đang làm gì...",
+  "msg.matex.scene.jenny.bjiMSG2": "eh... đàn ông...",
+  "msg.matex.scene.jenny.bjiMSG3": "OHOhh...!",
+  "msg.matex.scene.jenny.bjiMSG5": "Cái này thật sự cần thiết sao?!",
+  "msg.matex.scene.jenny.bjiMSG6": "Oh~",
+  "msg.matex.scene.jenny.bjiMSG7": "Anh thích không?~",
+  "msg.matex.scene.jenny.bjiMSG9": "Hihihi~",
+  "msg.matex.scene.jenny.doggyLayOnBedMSG2": "anh còn đợi gì nữa?~",
+  "msg.matex.scene.jenny.doggyLayOnBedMSG3": "cái mông này không tự làm được đâu...",
+  "msg.matex.scene.jenny.doggyintroMSG1": "Mm~",
+  "msg.matex.scene.jenny.doggyintroMSG4": "Oh~!",
+  "msg.matex.scene.jenny.doggyintroMSG5": "Ahhh~!",
+  "msg.matex.scene.jenny.doggycumMSG1": "Em sắp ra~!",
+
+  "msg.matex.scene.player.bjiMSG8": "Yee",
+
+  "msg.matex.scene.ellie.carry_introMSG1": "Em đói..",
+  "msg.matex.scene.ellie.carry_introMSG2": "heh~",
+  "msg.matex.scene.ellie.sitdownMSG1": "Lại đây với mẹ~",
+  "msg.matex.scene.ellie.missionary_cumMSG2": "giỏi lắm.. ehh.. con trai.. hehe~",
+  "msg.matex.scene.ellie.cowgirlStartMSG1": "Anh thích những gì anh thấy không?~",
+  "msg.matex.scene.ellie.cowgirlcumMSG4": "giỏi lắm.. ehh.. con trai.. hehe~",
+
+  "msg.matex.scene.bia.sitdownMSG1": "lại đây anh trai~",
+
+  "msg.matex.scene.zoey.sitdownMSG1": "lại đây nào cưng~",
+
+  "msg.matex.canGoInToFreeCam" : "Để vào chế độ camera tự do nhấn F4",
+
+  "key.Mate.thrust": "Đẩy",
+
+  "key.Mate.cum": "Xuất",
+
+  "key.Mate.transformScene": "Chuyển Đổi Cảnh",
+
+  "key.categories.Mate": "Mate",
+
+  "subtitles.bedrustle" : "Giường sột soạt",
+
+  "subtitles.belljingle" : "Chuông leng keng",
+
+  "subtitles.clap" : "Vỗ",
+
+  "subtitles.cuminflation" : "Phồng tinh",
+
+  "subtitles.flap" : "Đập",
+
+  "subtitles.inserts" : "Đút vào",
+
+  "subtitles.pounding" : "Đập mạnh",
+
+  "subtitles.slap" : "Tát",
+
+  "subtitles.slide" : "Trượt",
+
+  "subtitles.smallinserts" : "Đút nhẹ",
+
+  "subtitles.touch" : "Chạm",
+
+  "subtitles.plob" : "Plob",
+
+  "subtitles.jenny.heavybreathing": "Thở nặng",
+
+  "subtitles.jenny.hmph": "Hmph",
+
+  "subtitles.jenny.huh": "Huh",
+
+  "subtitles.jenny.aftersessionmoan": "Rên sau phiên",
+
+  "subtitles.jenny.ahh": "Ahh",
+
+  "subtitles.jenny.bjmoan": "Rên BJ",
+
+  "subtitles.jenny.giggle": "Cười khúc khích",
+
+  "subtitles.jenny.happyoh": "Oh vui",
+
+  "subtitles.jenny.lightbreathing": "Thở nhẹ",
+
+  "subtitles.jenny.lipsound": "Tiếng môi",
+
+  "subtitles.jenny.mmm": "Mmm",
+
+  "subtitles.jenny.moan": "Rên",
+
+  "subtitles.jenny.sadoh": "Oh buồn",
+
+  "subtitles.jenny.sigh": "Thở dài",
+
+  "subtitles.bia.ahh": "Ahh",
+
+  "subtitles.bia.bjmoan": "Rên BJ",
+
+  "subtitles.bia.moan": "Rên",
+
+  "subtitles.bia.lightbreathing": "Thở nhẹ",
+
+  "subtitles.bia.giggle": "Cười khúc khích",
+
+  "subtitles.bia.hey": "Hey",
+
+  "subtitles.bia.happyoh": "Oh vui",
+
+  "subtitles.bia.sadoh": "Oh buồn",
+
+  "subtitles.bia.sigh": "Thở dài",
+
+  "subtitles.bia.huh": "Huh",
+
+  "subtitles.bia.hmph": "Hmph",
+
+  "subtitles.bia.mmm": "Mmm",
+
+  "subtitles.zoey.ahh": "Ahh",
+
+  "subtitles.zoey.bjmoan": "Rên BJ",
+
+  "subtitles.zoey.moan": "Rên",
+
+  "subtitles.zoey.lightbreathing": "Thở nhẹ",
+
+  "subtitles.zoey.giggle": "Cười khúc khích",
+
+  "subtitles.zoey.hey": "Hey",
+
+  "subtitles.zoey.happyoh": "Oh vui",
+
+  "subtitles.zoey.sadoh": "Oh buồn",
+
+  "subtitles.zoey.sigh": "Thở dài",
+
+  "subtitles.zoey.huh": "Huh",
+
+  "subtitles.zoey.hmph": "Hmph",
+
+  "subtitles.zoey.mmm": "Mmm",
+
+  "subtitles.ellie.aftersessionmoan": "Rên sau phiên",
+
+  "subtitles.ellie.ahh": "Ahh",
+
+  "subtitles.ellie.bjmoan": "Rên BJ",
+
+  "subtitles.ellie.cometomommy": "Lại đây với mẹ",
+
+  "subtitles.ellie.giggle": "Cười khúc khích",
+
+  "subtitles.ellie.goodboy": "Con trai ngoan",
+
+  "subtitles.ellie.happyoh": "Oh vui",
+
+  "subtitles.ellie.heavybreathing": "Thở nặng",
+
+  "subtitles.ellie.hmph": "Hmph",
+
+  "subtitles.ellie.huh": "Huh",
+
+  "subtitles.ellie.lightbreathing": "Thở nhẹ",
+
+  "subtitles.ellie.lipsound": "Tiếng môi",
+
+  "subtitles.ellie.mmm": "Mmm",
+
+  "subtitles.ellie.moan": "Rên",
+
+  "subtitles.ellie.mommyhorny": "Mẹ đang nứng",
+
+  "subtitles.ellie.sadoh": "Oh buồn",
+
+  "subtitles.ellie.sigh": "Thở dài",
+
+  "key.categories.freecam": "mate - Camera Tự Do",
+
+  "key.freecam.toggle": "Bật/Tắt Camera Tự Do",
+
+  "key.freecam.playerControl": "Điều Khiển Người Chơi",
+
+  "key.freecam.tripodReset": "Đặt Lại Tripod",
+
+  "key.freecam.configGui": "Giao Diện Cài Đặt",
+
+  "mate.patchouli.heart_guide.name": "Cẩm Nang Trái Tim",
+  "mate.patchouli.heart_guide.landing_text": "$(o)Chào mừng đến với Cẩm Nang Trái Tim!$()$(br2)Khám phá tất cả các cô gái xinh đẹp trong thế giới của bạn! Tìm hiểu về tính cách, cách thuần hóa, và những cảnh mà họ thích.$(br2)Duyệt các danh mục bên phải để bắt đầu!",
+
+  "msg.freecam.enable": "Camera tự do đã được bật.",
+
+  "msg.freecam.disable": "Camera tự do đã được tắt.",
+
+  "msg.freecam.openTripod": "Đang mở camera %s",
+
+  "msg.freecam.closeTripod": "Đang đóng camera %s",
+
+  "msg.freecam.tripodReset": "Đã đặt lại camera %s",
+
+  "text.autoconfig.matex.category.default": "Mate",
+
+  "text.autoconfig.matex.category.freecam": "Camera Tự Do",
+
+  "text.autoconfig.matex.title": "Tùy Chọn Mate",
+
+  "text.autoconfig.matex.option.girls": "Các Cô Gái",
+
+  "text.autoconfig.matex.option.girls.boobWindow": "Cửa Sổ Ngực",
+
+  "text.autoconfig.matex.option.girls.disableShading": "Tắt Đổ Bóng",
+
+  "text.autoconfig.matex.option.girls.boobJiggle": "Rung Ngực",
+  "text.autoconfig.matex.option.girls.jigglePhysics": "Vật lý rung (Tổng)",
+  "text.autoconfig.matex.option.girls.jigglePhysics.@Tooltip": "BẬT: ngực/bụng/mông do hệ vật lý điều khiển hoàn toàn, ghi đè animation. TẮT: tắt vật lý, chạy animation mặc định.",
+
+  "text.autoconfig.matex.option.girls.buttJiggle": "Rung Mông",
+
+  "text.autoconfig.matex.option.girls.boobWindow.@Tooltip": "Làm cho giáp trên cô gái có cửa sổ để thấy ngực",
+
+  "text.autoconfig.matex.option.girls.disableShading.@Tooltip": "Tắt đổ bóng/bóng trên cô gái và làm cho chúng có ánh sáng phẳng",
+
+  "text.autoconfig.matex.option.girls.boobJiggle.@Tooltip": "Bật vật lý rung lắc cho ngực của các cô gái.",
+
+  "text.autoconfig.matex.option.girls.buttJiggle.@Tooltip": "Bật vật lý rung lắc cho mông của các cô gái.",
+
+  "text.autoconfig.matex.option.player": "Người Chơi",
+
+  "text.autoconfig.matex.option.player.renderFirstPersonBody": "Hiển Thị Cơ Thể Ở Góc Nhìn Thứ Nhất",
+
+  "text.autoconfig.matex.option.player.renderFirstPersonBody.@Tooltip": "Hiển thị cơ thể cô gái đã biến hình ở góc nhìn thứ nhất (đầu vẫn ẩn)",
+
+  "text.autoconfig.matex.option.player.renderPenis": "Hiển Thị Dương Vật",
+
+  "text.autoconfig.matex.option.player.renderPenis.@Tooltip": "Bật/tắt hiển thị mô hình dương vật trên người chơi trong các cảnh",
+
+  "text.autoconfig.matex.option.player.penisShaftColor": "Màu Thân Dương Vật",
+
+  "text.autoconfig.matex.option.player.penisShaftColor.@Tooltip": "Đặt màu thân dương vật trên mô hình người chơi",
+
+  "text.autoconfig.matex.option.player.penisHeadColor": "Màu Đầu Dương Vật",
+
+  "text.autoconfig.matex.option.player.penisHeadColor.@Tooltip": "Đặt màu đầu dương vật trên mô hình người chơi",
+
+  "text.autoconfig.matex.option.controls": "Gán Phím",
+
+  "text.autoconfig.matex.option.controls.@Tooltip": "Gán phím camera tự do.",
+
+  "text.autoconfig.matex.option.movement": "Tùy Chọn Di Chuyển",
+
+  "text.autoconfig.matex.option.movement.@Tooltip": "Cách camera di chuyển.",
+
+  "text.autoconfig.matex.option.movement.flightMode": "Chế Độ Bay",
+
+  "text.autoconfig.matex.option.movement.flightMode.@Tooltip": "Loại bay được sử dụng bởi camera tự do.",
+
+  "text.autoconfig.matex.option.movement.flightMode.default": "Mặc Định",
+
+  "text.autoconfig.matex.option.movement.flightMode.creative": "Sáng Tạo",
+
+  "text.autoconfig.matex.option.movement.horizontalSpeed": "Tốc Độ Ngang",
+
+  "text.autoconfig.matex.option.movement.horizontalSpeed.@Tooltip": "Tốc độ ngang của camera tự do.",
+
+  "text.autoconfig.matex.option.movement.verticalSpeed": "Tốc Độ Dọc",
+
+  "text.autoconfig.matex.option.movement.verticalSpeed.@Tooltip": "Tốc độ dọc của camera tự do.",
+
+  "text.autoconfig.matex.option.collision": "Tùy Chọn Va Chạm",
+
+  "text.autoconfig.matex.option.collision.@Tooltip": "Những khối bạn có thể đi xuyên qua trong camera tự do.",
+
+  "text.autoconfig.matex.option.collision.ignoreTransparent": "Bỏ Qua Khối Trong Suốt",
+
+  "text.autoconfig.matex.option.collision.ignoreTransparent.@Tooltip": "Cho phép đi xuyên qua khối trong suốt trong camera tự do.",
+
+  "text.autoconfig.matex.option.collision.ignoreOpenable": "Bỏ Qua Khối Mở Được",
+
+  "text.autoconfig.matex.option.collision.ignoreOpenable.@Tooltip": "Cho phép đi xuyên qua cửa/cửa sập/cổng trong camera tự do.",
+
+  "text.autoconfig.matex.option.collision.ignoreCustom": "Danh Sách Bỏ Qua Tùy Chỉnh",
+
+  "text.autoconfig.matex.option.collision.ignoreCustom.@Tooltip[0]": "Cho phép đi xuyên qua các khối cụ thể trong camera tự do.",
+
+  "text.autoconfig.matex.option.collision.whitelist.ids": "Bỏ Qua Theo ID",
+
+  "text.autoconfig.matex.option.collision.whitelist.ids.@Tooltip[0]": "Sử dụng id khối, ví dụ \"grass_block\".",
+
+  "text.autoconfig.matex.option.collision.whitelist.ids.@Tooltip[1]": "Nếu bỏ qua namespace, \"minecraft:\" sẽ được sử dụng mặc định.",
+
+  "text.autoconfig.matex.option.collision.whitelist.patterns": "Bỏ Qua Theo Biểu Thức Chính Quy",
+
+  "text.autoconfig.matex.option.collision.whitelist.patterns.@Tooltip[0]": "Sử dụng cú pháp Biểu Thức Chính Quy.",
+
+  "text.autoconfig.matex.option.collision.whitelist.patterns.@Tooltip[1]": "So khớp với id khối đầy đủ, ví dụ \"minecraft:grass_block\".",
+
+  "text.autoconfig.matex.option.collision.ignoreAll": "Bỏ Qua Tất Cả Va Chạm",
+
+  "text.autoconfig.matex.option.collision.ignoreAll.@Tooltip[0]": "Cho phép đi xuyên qua tất cả khối trong camera tự do.",
+
+  "text.autoconfig.matex.option.collision.ignoreAll.@Tooltip[1]": "§eGhi đè các cài đặt phía trên.",
+
+  "text.autoconfig.matex.option.collision.ignoreAll.@ModrinthTooltip[2]": "§cLƯU Ý: Chỉ có thể sử dụng trong chơi đơn, sáng tạo, hoặc có quyền operator.",
+
+  "text.autoconfig.matex.option.collision.alwaysCheck": "Luôn Kiểm Tra Va Chạm Ban Đầu",
+
+  "text.autoconfig.matex.option.collision.alwaysCheck.@Tooltip[0]": "Liệu §7Góc Nhìn Ban Đầu§r có nên kiểm tra",
+
+  "text.autoconfig.matex.option.collision.alwaysCheck.@Tooltip[1]": "va chạm, ngay cả khi sử dụng §7Bỏ Qua Tất Cả Va Chạm§r.",
+
+  "text.autoconfig.matex.option.visual": "Tùy Chọn Hình Ảnh",
+
+  "text.autoconfig.matex.option.visual.@Tooltip": "Giao diện của camera tự do.",
+
+  "text.autoconfig.matex.option.visual.perspective": "Góc Nhìn Ban Đầu",
+
+  "text.autoconfig.matex.option.visual.perspective.@Tooltip": "Góc nhìn ban đầu của camera.",
+
+  "text.autoconfig.matex.option.visual.perspective.firstPerson": "Ngôi Thứ Nhất",
+
+  "text.autoconfig.matex.option.visual.perspective.thirdPerson": "Ngôi Thứ Ba",
+
+  "text.autoconfig.matex.option.visual.perspective.thirdPersonMirror": "Gương",
+
+  "text.autoconfig.matex.option.visual.perspective.inside": "Bên Trong",
+
+  "text.autoconfig.matex.option.visual.hidePlayer": "Ẩn Người Chơi",
+
+  "text.autoconfig.matex.option.visual.hidePlayer.@Tooltip": "Ẩn mô hình người chơi của bạn.",
+
+  "text.autoconfig.matex.option.visual.showHand": "Hiện Tay",
+
+  "text.autoconfig.matex.option.visual.showHand.@Tooltip": "Liệu bạn có thể thấy tay trong camera tự do.",
+
+  "text.autoconfig.matex.option.visual.fullBright": "Độ Sáng Tối Đa",
+
+  "text.autoconfig.matex.option.visual.fullBright.@Tooltip": "Tăng độ sáng khi ở trong camera tự do.",
+
+  "text.autoconfig.matex.option.visual.showSubmersion": "Hiện Sương Mù Ngập",
+
+  "text.autoconfig.matex.option.visual.showSubmersion.@Tooltip": "Liệu bạn có thấy lớp sương mù khi ở dưới nước, trong dung nham, hoặc tuyết bột.",
+
+  "text.autoconfig.matex.option.utility": "Tùy Chọn Tiện Ích",
+
+  "text.autoconfig.matex.option.utility.@Tooltip": "Cải tiến camera tự do.",
+
+  "text.autoconfig.matex.option.utility.disableOnDamage": "Tắt Khi Nhận Sát Thương",
+
+  "text.autoconfig.matex.option.utility.disableOnDamage.@Tooltip": "Tắt camera tự do khi nhận sát thương.",
+
+  "text.autoconfig.matex.option.utility.freezePlayer": "Đóng Băng Người Chơi",
+
+  "text.autoconfig.matex.option.utility.freezePlayer.@Tooltip[0]": "Ngăn người chơi di chuyển khi camera tự do đang hoạt động.",
+
+  "text.autoconfig.matex.option.utility.freezePlayer.@Tooltip[1]": "§cCẢNH BÁO: Không khuyến khích sử dụng trong chơi mạng.",
+
+  "text.autoconfig.matex.option.utility.allowInteract": "Cho Phép Tương Tác",
+
+  "text.autoconfig.matex.option.utility.allowInteract.@Tooltip[0]": "Liệu bạn có thể tương tác với khối/thực thể trong camera tự do.",
+
+  "text.autoconfig.matex.option.utility.interactionMode": "Chế Độ Tương Tác",
+
+  "text.autoconfig.matex.option.utility.interactionMode.@Tooltip": "Nguồn tương tác với khối/thực thể.",
+
+  "text.autoconfig.matex.option.utility.interactionMode.camera": "Camera",
+
+  "text.autoconfig.matex.option.utility.interactionMode.player": "Người Chơi",
+
+  "text.autoconfig.matex.option.notification": "Tùy Chọn Thông Báo",
+
+  "text.autoconfig.matex.option.notification.@Tooltip": "Hiện hoặc ẩn thông báo.",
+
+  "text.autoconfig.matex.option.notification.notifyFreecam": "Thông Báo Camera Tự Do",
+
+  "text.autoconfig.matex.option.notification.notifyFreecam.@Tooltip": "Thông báo khi bạn bật/tắt camera tự do.",
+
+  "text.autoconfig.matex.option.notification.notifyTripod": "Thông Báo Tripod",
+
+  "text.autoconfig.matex.option.notification.notifyTripod.@Tooltip": "Thông báo khi bạn bật/tắt camera tripod.",
+
+  "advancements.matex.root.title": "Này, cậu. Cậu cuối cùng cũng tỉnh rồi",
+  "advancements.matex.root.description": "Cậu đang cố vượt biên giới, đúng không?",
+  "advancements.matex.tame_girl.title": "Mãi Mãi Bên Nhau",
+  "advancements.matex.tame_girl.description": "Chinh phục trái tim một cô gái",
+  "advancements.matex.max_relationship.title": "Em có muốn lấy anh không?",
+  "advancements.matex.max_relationship.description": "Đạt mức quan hệ tối đa với một cô gái",
+  "advancements.matex.break_up.title": "Tan vỡ con tim",
+  "advancements.matex.break_up.description": "Chia tay với một cô gái",
+  "advancements.matex.kill_girl.title": "Ta xin lỗi, bé yêu",
+  "advancements.matex.kill_girl.description": "Giết một cô gái",
+  "advancements.matex.enter_jenny_house.title": "Nơi này đẹp hơn tôi nhớ",
+  "advancements.matex.enter_jenny_house.description": "Tìm thấy nhà của Jenny",
+  "advancements.matex.enter_bia_house.title": "Góc nhỏ ấm cúng",
+  "advancements.matex.enter_bia_house.description": "Tìm thấy nhà của Bia",
+  "advancements.matex.enter_ellie_house.title": "Lâu đài tình ái!!?",
+  "advancements.matex.enter_ellie_house.description": "Tìm thấy nhà của Ellie",
+  "advancements.matex.summon_coppie.title": "Golem đồng.. Coppie?",
+  "advancements.matex.summon_coppie.description": "Triệu hồi một Coppie",
+  "advancements.matex.craft_custom_girl_spawn_egg.title": "Homunculus!?",
+  "advancements.matex.craft_custom_girl_spawn_egg.description": "Chế tạo trứng triệu hồi cô gái tùy chỉnh",
+  "advancements.matex.craft_slime_spawn_egg.title": "Một người bạn nhớt nhợt",
+  "advancements.matex.craft_slime_spawn_egg.description": "Chế tạo trứng triệu hồi slime",
+  "advancements.matex.craft_aly_spawn_egg.title": "Trông cậu khác quá",
+  "advancements.matex.craft_aly_spawn_egg.description": "Chế tạo trứng triệu hồi Aly",
+  "advancements.matex.craft_love_ball.title": "Không Gian Bỏ Túi",
+  "advancements.matex.craft_love_ball.description": "Chế tạo Quả Cầu Tình Yêu",
+  "advancements.matex.craft_fusion_table.title": "Giờ mình chuyển qua chế tạo à…",
+  "advancements.matex.craft_fusion_table.description": "Chế tạo Bàn Dung Hợp",
+  "advancements.matex.craft_master_ring.title": "Em sẽ thuộc về anh",
+  "advancements.matex.craft_master_ring.description": "Chế tạo Nhẫn Chủ Nhân",
+  "advancements.matex.craft_x_pill.title": "Viên thuốc này trông buồn cười nhỉ",
+  "advancements.matex.craft_x_pill.description": "Chế tạo Viên X",
+  "advancements.matex.transform.title": "Thiên thượng thiên hạ, duy ngã độc tôn",
+  "advancements.matex.transform.description": "Biến hình bằng Viên X",
+  "advancements.matex.capture_love_ball.title": "Cùng nhau đi đến tận chân trời",
+  "advancements.matex.capture_love_ball.description": "Bắt một cô gái bằng Quả Cầu Tình Yêu",
+  "advancements.matex.capture_master_ring.title": "Lần này không chạy được đâu",
+  "advancements.matex.capture_master_ring.description": "Bắt một cô gái bằng Nhẫn Chủ Nhân",
+
+  "subtitles.sarah.aftersessionmoan": "Rên sau phiên",
+  "subtitles.sarah.ahh": "Ahh",
+  "subtitles.sarah.bjmoan": "Rên BJ",
+  "subtitles.sarah.cometomommy": "Lại đây với mẹ",
+  "subtitles.sarah.giggle": "Cười khúc khích",
+  "subtitles.sarah.goodboy": "Con trai ngoan",
+  "subtitles.sarah.happyoh": "Oh vui",
+  "subtitles.sarah.heavybreathing": "Thở nặng",
+  "subtitles.sarah.hmph": "Hmph",
+  "subtitles.sarah.huh": "Huh",
+  "subtitles.sarah.lightbreathing": "Thở nhẹ",
+  "subtitles.sarah.lipsound": "Tiếng môi",
+  "subtitles.sarah.mmm": "Mmm",
+  "subtitles.sarah.moan": "Rên",
+  "subtitles.sarah.mommyhorny": "Mẹ đang nứng",
+  "subtitles.sarah.sadoh": "Oh buồn",
+  "subtitles.sarah.sigh": "Thở dài",
+
+  "subtitles.gallath.aaa": "Tiếng Hét Trận Chiến",
+  "subtitles.gallath.ahh": "Ahh",
+  "subtitles.gallath.breathing": "Thở",
+  "subtitles.gallath.dialog": "Lời Thoại",
+  "subtitles.gallath.giggle": "Cười khúc khích",
+  "subtitles.gallath.hmph": "Hmph",
+  "subtitles.gallath.huh": "Huh",
+  "subtitles.gallath.lightcharge": "Tích Tụ Nhẹ",
+  "subtitles.gallath.moan": "Rên",
+  "subtitles.gallath.orgasm": "Cực Khoái",
+  "subtitles.gallath.strongcharge": "Tích Tụ Mạnh",
+  "subtitles.gallath.uuh": "Uuh",
+
+  "entity.matex.jenny.variant.jenna": "Jenna",
+  "gui.matex.button.variant": "Biến Thể",
+  "gui.matex.variant_selection": "Chọn Biến Thể",
+  "scene.matex.jenna.blowjob": "Bú Cu",
+  "scene.matex.jenna.cowgirl": "Cưỡi Ngựa",
+  "scene.matex.jenna.missionary": "Truyền Giáo",
+  "scene.matex.jenna.paizuri": "Paizuri",
+  "scene.matex.jenna.rape": "Cưỡng Hiếp",
+  "scene.matex.jenna.straddling": "Ngồi Lên",
+  "scene.matex.jenna.stuck": "Mắc Kẹt",
+  "subtitles.misc.bounceboobs": "Jenny: *ngực rung lắc*",
+  "subtitles.misc.clothes": "Jenny: *tiếng quần áo sột soạt*"
+}

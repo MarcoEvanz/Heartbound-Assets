@@ -1,0 +1,42 @@
+{
+  "girl_id": "aly",
+  "events": [
+    {
+      "key": "girl_attack",
+      "sounds": [
+        "matex:misc.slap"
+      ]
+    },
+    {
+      "key": "throw_pearl",
+      "sounds": [
+        "matex:misc.plob"
+      ]
+    },
+    {
+      "key": "sex_start",
+      "sounds": [
+        "matex:misc.touch"
+      ]
+    },
+    {
+      "key": "sex_slow",
+      "sounds": [
+        "matex:misc.pounding"
+      ]
+    },
+    {
+      "key": "sex_fast",
+      "sounds": [
+        "matex:misc.pounding"
+      ]
+    },
+    {
+      "key": "sex_cum",
+      "sounds": [
+        "matex:misc.cuminflation",
+        "matex:misc.pounding"
+      ]
+    }
+  ]
+}

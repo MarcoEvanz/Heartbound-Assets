@@ -1,0 +1,104 @@
+{
+  "girl_id": "zoey",
+  "events": [
+    {
+      "key": "stripMSG1",
+      "random_sounds": [
+        "matex:zoey.giggle"
+      ]
+    },
+    {
+      "key": "sitdownMSG1",
+      "sounds": [
+        "matex:zoey.breath"
+      ],
+      "messages": [
+        "msg.matex.scene.zoey.sitdownMSG1"
+      ]
+    },
+    {
+      "key": "slide",
+      "sounds": [
+        "matex:misc.slide"
+      ]
+    },
+    {
+      "key": "pound",
+      "sounds": [
+        "matex:misc.pounding"
+      ]
+    },
+    {
+      "key": "doggyMoan",
+      "random_sounds": [
+        "matex:zoey.ahh",
+        "matex:zoey.mmm"
+      ]
+    },
+    {
+      "key": "cum",
+      "sounds": [
+        "matex:misc.inserts"
+      ]
+    },
+    {
+      "key": "orgasm1",
+      "sounds": [
+        "matex:zoey.mmm"
+      ]
+    },
+    {
+      "key": "orgasm2",
+      "sounds": [
+        "matex:zoey.mmm"
+      ]
+    },
+    {
+      "key": "anal_prepareMSG1",
+      "sounds": [
+        "matex:misc.plob"
+      ]
+    },
+    {
+      "key": "anal_prepareMSG2",
+      "sounds": [
+        "matex:misc.bedrustle"
+      ]
+    },
+    {
+      "key": "anal_startMSG1",
+      "sounds": [
+        "matex:zoey.ahh"
+      ]
+    },
+    {
+      "key": "anal_startMSG2",
+      "sounds": [
+        "matex:misc.pounding"
+      ],
+      "random_sounds": [
+        "matex:zoey.mmm"
+      ]
+    },
+    {
+      "key": "anal_slowMSG1",
+      "sounds": [
+        "matex:zoey.ahh",
+        "matex:misc.pounding"
+      ]
+    },
+    {
+      "key": "anal_fastMSG1",
+      "sounds": [
+        "matex:zoey.ahh",
+        "matex:misc.pounding"
+      ]
+    },
+    {
+      "key": "anal_cumMSG2",
+      "sounds": [
+        "matex:zoey.ahh"
+      ]
+    }
+  ]
+}

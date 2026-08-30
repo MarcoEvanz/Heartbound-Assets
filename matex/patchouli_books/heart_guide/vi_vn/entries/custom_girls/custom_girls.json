@@ -1,0 +1,11 @@
+{
+  "name": "Cô Gái Tùy Chỉnh",
+  "icon": "minecraft:knowledge_book",
+  "category": "matex:custom_girls",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(o)Triệu Hồi:$()$(br)Chế tạo $(item)Trứng Hồi Sinh Cô Gái Tùy Chỉnh$() rồi hợp nhất tại $(item)Bàn Hợp Nhất$() với hai vật phẩm thuần hóa giống nhau để tạo trứng hồi sinh chuyên biệt. Click phải để triệu hồi cô gái."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Garotas Personalizadas",
+  "icon": "minecraft:knowledge_book",
+  "category": "matex:custom_girls",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(o)Invocação:$()$(br)Fabrique um $(item)Ovo Gerador de Garota Personalizada$() e depois funda-o na $(item)Mesa de Fusão$() com dois itens de domesticação idênticos para criar um ovo gerador especializado. Clique com o botão direito para invocar a garota."
+    }
+  ]
+}

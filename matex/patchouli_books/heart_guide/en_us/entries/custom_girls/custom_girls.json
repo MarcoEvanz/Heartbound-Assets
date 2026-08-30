@@ -1,0 +1,11 @@
+{
+  "name": "Custom Girls",
+  "icon": "minecraft:knowledge_book",
+  "category": "matex:custom_girls",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(o)Spawning:$()$(br)Craft a $(item)Custom Girl Spawn Egg$() then fuse it at the $(item)Fusion Table$() with two identical tame items to create a specialized spawn egg. Right-click to spawn the girl."
+    }
+  ]
+}

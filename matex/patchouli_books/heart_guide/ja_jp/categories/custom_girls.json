@@ -1,0 +1,6 @@
+{
+  "name": "カスタムガール",
+  "description": "ゲーム内でカスタムガールをスポーンする方法を確認できます。",
+  "icon": "minecraft:knowledge_book",
+  "parent": "matex:girls"
+}

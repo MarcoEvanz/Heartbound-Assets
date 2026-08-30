@@ -1,0 +1,11 @@
+{
+  "name": "自定义女孩",
+  "icon": "minecraft:knowledge_book",
+  "category": "matex:custom_girls",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(o)生成方式：$()$(br)合成$(item)自定义女孩刷怪蛋$()，然后在$(item)融合台$()中使用两个相同的驯服物品进行融合，制作专属刷怪蛋。右键使用即可生成女孩。"
+    }
+  ]
+}

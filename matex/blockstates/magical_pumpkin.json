@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "matex:block/magical_pumpkin",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "matex:block/magical_pumpkin"
+    },
+    "facing=south": {
+      "model": "matex:block/magical_pumpkin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "matex:block/magical_pumpkin",
+      "y": 270
+    }
+  }
+}

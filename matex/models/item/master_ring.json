@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "matex:item/masterring_empty"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "matex:captured": 1
+      },
+      "model": "matex:item/master_ring_captured"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Cô Gái Tùy Chỉnh",
+  "description": "Tìm hiểu cách triệu hồi cô gái tùy chỉnh trong trò chơi.",
+  "icon": "minecraft:knowledge_book",
+  "parent": "matex:girls"
+}

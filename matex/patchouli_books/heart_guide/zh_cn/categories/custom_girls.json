@@ -1,0 +1,6 @@
+{
+  "name": "自定义女孩",
+  "description": "了解如何在游戏内生成自定义女孩。",
+  "icon": "minecraft:knowledge_book",
+  "parent": "matex:girls"
+}

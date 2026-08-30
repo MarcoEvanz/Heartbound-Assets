@@ -1,0 +1,105 @@
+{
+  "girl_id": "gallath",
+  "events": [
+    {
+      "key": "pound_thrust",
+      "sounds": [
+        "matex:misc.pounding"
+      ]
+    },
+    {
+      "key": "poundRape_thrust",
+      "sounds": [
+        "matex:misc.pounding"
+      ]
+    },
+    {
+      "key": "switchmoan",
+      "random_sounds": [
+        "matex:gallath.moan",
+        "matex:gallath.ahh",
+        "matex:gallath.uuh"
+      ]
+    },
+    {
+      "key": "cum",
+      "sounds": [
+        "matex:misc.inserts",
+        "matex:gallath.orgasm"
+      ]
+    },
+    {
+      "key": "giggle",
+      "sounds": [
+        "matex:gallath.giggle"
+      ]
+    },
+    {
+      "key": "flap",
+      "sounds": [
+        "matex:misc.flap"
+      ]
+    },
+    {
+      "key": "dialog1",
+      "sounds": [
+        "matex:gallath.dialog"
+      ]
+    },
+    {
+      "key": "rapeHurt",
+      "sounds": [
+        "matex:gallath.hmph"
+      ]
+    },
+    {
+      "key": "summontaunt",
+      "random_messages": [
+        "msg.matex.gallath.dialog.summoned.1",
+        "msg.matex.gallath.dialog.summoned.2",
+        "msg.matex.gallath.dialog.summoned.3"
+      ]
+    },
+    {
+      "key": "fireballtaunt",
+      "random_messages": [
+        "msg.matex.gallath.dialog.fireball.1",
+        "msg.matex.gallath.dialog.fireball.2"
+      ]
+    },
+    {
+      "key": "miniontaunt",
+      "random_messages": [
+        "msg.matex.gallath.dialog.summon_minions.1",
+        "msg.matex.gallath.dialog.summon_minions.2"
+      ]
+    },
+    {
+      "key": "knockouttaunt",
+      "random_messages": [
+        "msg.matex.gallath.dialog.knocked_out.1",
+        "msg.matex.gallath.dialog.knocked_out.2"
+      ]
+    },
+    {
+      "key": "standuptaunt",
+      "random_messages": [
+        "msg.matex.gallath.dialog.stand_up.1",
+        "msg.matex.gallath.dialog.stand_up.2"
+      ]
+    },
+    {
+      "key": "cointaunt",
+      "messages": [
+        "msg.matex.gallath.dialog.coin_reward"
+      ]
+    },
+    {
+      "key": "sacrificetaunt",
+      "random_messages": [
+        "msg.matex.gallath.dialog.sacrifice.1",
+        "msg.matex.gallath.dialog.sacrifice.2"
+      ]
+    }
+  ]
+}

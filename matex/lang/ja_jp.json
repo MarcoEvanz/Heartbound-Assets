@@ -1,0 +1,769 @@
+{
+  "item.matex.jenny_spawn_egg": "ジェニーのスポーンエッグ",
+
+  "item.matex.ellie_spawn_egg": "エリーのスポーンエッグ",
+
+  "item.matex.bia_spawn_egg": "ビアのスポーンエッグ",
+
+  "item.matex.slime_spawn_egg": "スライムのスポーンエッグ",
+
+  "item.matex.kobold_spawn_egg": "コボルドのスポーンエッグ",
+
+  "item.matex.coppie_spawn_egg": "コッピーのスポーンエッグ",
+  "item.matex.aly_spawn_egg": "アリーのスポーンエッグ",
+  "item.matex.zoey_spawn_egg": "ゾーイのスポーンエッグ",
+  "item.matex.sarah_spawn_egg": "サラのスポーンエッグ",
+
+  "item.matex.custom_girl_spawn_egg": "カスタムガールのスポーンエッグ",
+  "item.matex.custom_girl_spawn_egg.named": "%sのスポーンエッグ",
+  "item.matex.custom_girl_spawn_egg.unspecified": "未選択ガールのスポーンエッグ",
+  "item.matex.custom_girl_spawn_egg.choose_first": "空中で右クリックして、どのガールにするか選択してください。",
+  "gui.matex.choose_girl_profile.title": "ガールを選んでください",
+
+  "item.matex.love_ball": "ラブボール",
+  "item.matex.love_ball.filled": "ラブボール（捕獲済み）",
+  "item.matex.love_ball.tooltip.girl": "ガール: %s",
+  "item.matex.love_ball.tooltip.owner": "オーナー: %s",
+  "item.matex.love_ball.invalid_entity": "ガールエンティティにのみ使用できます！",
+  "item.matex.love_ball.not_tamed": "このガールは懐いていません！",
+  "item.matex.love_ball.not_owner": "あなたはこのガールのオーナーではありません！",
+  "item.matex.love_ball.not_owner_release": "オーナーだけがこのガールを解放できます！",
+  "item.matex.love_ball.not_tameable": "このガールは捕獲できません！",
+  "item.matex.love_ball.already_contains": "このラブボールには既にガールが入っています！",
+  "item.matex.love_ball.stored": "%sをラブボールに保存しました",
+  "item.matex.love_ball.empty": "このラブボールは空です！",
+  "item.matex.love_ball.released": "%sをラブボールから解放しました",
+  "item.matex.love_ball.invalid_data": "解放に失敗しました - データが無効です！",
+  "item.matex.love_ball.spawn_failed": "ガールのスポーンに失敗しました！",
+
+  "item.matex.master_ring": "マスターリング",
+  "item.matex.master_ring.filled": "マスターリング（捕獲済み）",
+  "item.matex.master_ring.tooltip.girl": "ガール: %s",
+  "item.matex.master_ring.tooltip.owner": "オーナー: %s",
+  "item.matex.master_ring.invalid_entity": "ガールエンティティにのみ使用できます！",
+  "item.matex.master_ring.not_tamed": "このガールは懐いていません！",
+  "item.matex.master_ring.not_owner": "あなたはこのガールのオーナーではありません！",
+  "item.matex.master_ring.not_owner_release": "オーナーだけがこのガールを解放できます！",
+  "item.matex.master_ring.not_tameable": "このガールは捕獲できません！",
+  "item.matex.master_ring.already_contains": "このマスターリングには既にガールが入っています！",
+  "item.matex.master_ring.has_owner": "このガールには既にオーナーがいます！",
+  "item.matex.master_ring.stored": "%sをマスターリングに保存しました",
+  "item.matex.master_ring.empty": "このマスターリングは空です！",
+  "item.matex.master_ring.released": "%sをマスターリングから解放しました",
+  "item.matex.master_ring.invalid_data": "解放に失敗しました - データが無効です！",
+  "item.matex.master_ring.spawn_failed": "ガールのスポーンに失敗しました！",
+  "item.matex.master_ring.boss_active": "この指輪は堕ちた悪魔を縛れない――ガラスコインを試せ。",
+
+  "item.matex.gallath_coin": "ガラスコイン",
+  "item.matex.gallath_coin.filled": "ガラスコイン（封印済み）",
+  "item.matex.gallath_coin.empty": "このガラスコインは空です！",
+  "item.matex.gallath_coin.released": "ガラスをコインから解放しました",
+  "item.matex.gallath_coin.spawn_failed": "ガラスの解放に失敗しました！",
+  "item.matex.gallath_coin.already_contains": "このコインには既にガラスが封じられています！",
+  "item.matex.gallath_coin.stored": "ガラスをコインに封印しました",
+  "item.matex.gallath_coin.boss_active": "今は危険すぎて封印できない！",
+  "item.matex.gallath_coin.invalid_data": "このコインには本来ないものが入っている。",
+  "item.matex.gallath_coin.coin_only": "彼女を封じられるのはガラスコインだけ――指輪では魂を保てない。",
+  "item.matex.gallath_coin.tooltip.girl": "封印中: %s",
+  "item.matex.gallath_coin.tooltip.owner": "オーナー: %s",
+
+  "item.matex.heart_guide": "ハートガイド",
+  "item.matex.heart_guide.tooltip.edition": "初版",
+
+  "item.matex.x_pill": "X-ピル",
+  "item.matex.h_phone": "Hフォン",
+  "item.matex.h_phone.tooltip": "場所を見つけるためのスマートデバイス",
+  "screen.matex.phone.home_finder": "ホームファインダー",
+  "screen.matex.phone.searching": "検索中...",
+  "screen.matex.phone.not_found": "近くに見つかりません",
+  "screen.matex.phone.found": "発見: %d, %d",
+  "screen.matex.phone.jenny_house": "ジェニーの家",
+  "screen.matex.phone.ellie_house": "エリーの家",
+  "screen.matex.phone.bia_house": "ビアの家",
+  "screen.matex.phone.sandguard": "砂のガード",
+  "screen.matex.phone.stoneguard": "石のガード",
+  "msg.matex.structure_found": "[Hフォン] %sを発見: %d, %d",
+  "msg.matex.structure_not_found": "[Hフォン] %sは近くに見つかりません",
+  "screen.matex.phone.directory": "ディレクトリ",
+  "screen.matex.phone.call": "呼ぶ",
+  "screen.matex.phone.no_girls": "ガールが見つかりません",
+  "msg.matex.girl_called": "[Hフォン] %sが向かっています！",
+  "msg.matex.girl_not_found": "[Hフォン] 近くにガールが見つかりません",
+  "screen.matex.phone.call_all": "全員呼ぶ",
+  "msg.matex.girls_called_all": "[Hフォン] %d人のガールを呼びました！",
+  "screen.matex.phone.in_ball": "ボール内",
+  "screen.matex.phone.heart_container": "ハートコンテナ",
+  "screen.matex.phone.store_all": "全て収納",
+  "screen.matex.phone.your_items": "あなたのアイテム",
+  "screen.matex.phone.no_items": "アイテムなし",
+  "gui.matex.girl_selection": "変身先...",
+
+  "block.matex.fusion_table": "フュージョンテーブル",
+
+  "block.matex.magical_pumpkin": "マジカルパンプキン",
+  "block.matex.litted_magical_pumpkin": "光るマジカルパンプキン",
+
+  "entity.matex.jenny": "ジェニー",
+
+  "entity.matex.ellie": "エリー",
+
+  "entity.matex.bia": "ビア",
+
+  "entity.matex.slime": "スライム",
+
+  "entity.matex.coppie": "コッピー",
+
+  "entity.matex.kobold": "コボルド",
+
+  "entity.matex.aly": "アリー",
+
+  "entity.matex.zoey": "ゾーイ",
+
+  "entity.matex.sarah": "サラ",
+
+  "entity.matex.gallath": "ガラス",
+
+  "entity.matex.tamed_gallath": "ガラス",
+
+  "msg.matex.gallath.gift.like.1": "ふむ。許容範囲だ。",
+  "msg.matex.gallath.gift.like.2": "小物で私の機嫌を取れると思っているのか？…まあ、続けるがよい。",
+  "msg.matex.gallath.gift.like.3": "人間どもは普段もっと粗末な物を捧げる。これは認めてやろう。",
+  "msg.matex.gallath.gift.love.1": "甘やかすな。…嫌いではない、と言っておこう。",
+  "msg.matex.gallath.gift.love.2": "ちっ――堕ちた悪魔の心を解く術を、よく心得ているな。",
+  "msg.matex.gallath.gift.love.3": "私がこんな笑みを見せるのを、当たり前と思うなよ。",
+
+  "scene.matex.gallath_grab": "強制グラブ",
+  "scene.matex.gallath_corrupt": "堕落",
+
+  "entity.matex.custom_girl": "カスタムガール",
+
+  "screen.matex.girl_inventory": "インベントリ",
+  "screen.matex.girl_inventory.relationship_tooltip": "好感度",
+  "screen.matex.fusion_table": "フュージョンテーブル",
+
+  "gui.matex.fusion_table": "フュージョンテーブル",
+
+  "gui.matex.sceneOptions": "シーンオプション",
+  "gui.matex.tooltip.requiresLevel": "好感度レベル%sが必要",
+
+  "gui.matex.button.breakUp": "別れる",
+  "gui.matex.button.setBase": "拠点を設定",
+  "gui.matex.button.goToBase": "拠点へ移動",
+  "gui.matex.button.roamAtBase": "拠点で散歩",
+  "gui.matex.button.stopRoaming": "散歩を止める",
+  "gui.matex.button.chopTrees": "木を伐る",
+  "gui.matex.button.stopChopping": "伐採を止める",
+  "gui.matex.button.customize": "カスタマイズ",
+  "gui.matex.button.baseFeature": "拠点機能",
+  "gui.matex.button.playerFeature": "プレイヤー機能",
+  "gui.matex.featureGroup.baseFeatures": "拠点機能",
+  "gui.matex.featureGroup.playerFeatures": "プレイヤー機能",
+  "gui.matex.button.sit": "座る",
+  "gui.matex.button.stand": "立つ",
+  "gui.matex.button.followMe": "ついて来て",
+  "gui.matex.button.stopFollowing": "追従を止める",
+  "gui.matex.button.mineOres": "鉱石を採掘",
+  "gui.matex.button.stopMining": "採掘を止める",
+  "gui.matex.button.strip": "脱がす",
+  "gui.matex.button.dressUp": "着せる",
+  "gui.matex.button.hideArmor": "防具を隠す",
+  "gui.matex.button.showArmor": "防具を表示",
+  "msg.matex.gallath.ritual.begun": "炎が揺らめく…",
+  "msg.matex.gallath.ritual.invalid": "祭壇の紋様が不完全だ。",
+  "msg.matex.gallath.dialog.summoned.1": "誰だ、私を奈落から引き出したのは？",
+  "msg.matex.gallath.dialog.summoned.2": "人間の肉体か…珍妙だな。",
+  "msg.matex.gallath.dialog.summoned.3": "私を呼んだか？ならば挑むがよい。",
+  "msg.matex.gallath.dialog.summon_minions.1": "起き上がれ、私の子らよ～",
+  "msg.matex.gallath.dialog.summon_minions.2": "引き裂け。",
+  "msg.matex.gallath.dialog.phase2.1": "私の注意を引いたな、人間。",
+  "msg.matex.gallath.dialog.phase2.2": "ふん。戦えるじゃないか。",
+  "msg.matex.gallath.dialog.phase3.1": "ならば共に焼かれよ！",
+  "msg.matex.gallath.dialog.phase3.2": "もう遊びは終わりだ…",
+  "msg.matex.gallath.dialog.fireball.1": "燃えろ！",
+  "msg.matex.gallath.dialog.fireball.2": "受け取れ～",
+  "msg.matex.gallath.dialog.knocked_out.1": "ぐっ…まだ…",
+  "msg.matex.gallath.dialog.knocked_out.2": "…これは…終わりじゃ…ない…",
+  "msg.matex.gallath.dialog.stand_up.1": "後悔させてやろう。",
+  "msg.matex.gallath.dialog.stand_up.2": "まだ準備運動だぞ～",
+  "msg.matex.gallath.dialog.coin_reward": "ふふ、お前は資格を示した。私はもうお前のものだ、これを受け取れ～",
+  "msg.matex.gallath.dialog.sacrifice.1": "許せ、わが子よ～",
+  "msg.matex.gallath.dialog.sacrifice.2": "お前の魂が私を満たすだろう。",
+  "advancements.matex.succubus_queen.title": "我が支配下のサキュバスの女王",
+  "advancements.matex.succubus_queen.description": "堕落シーンで堕ちた悪魔ガラスを手なずける。",
+  "gui.matex.button.sex": "エッチ",
+  "gui.matex.button.select": "選択",
+  "gui.matex.button.confirm": "確認",
+  "gui.matex.button.cancel": "キャンセル",
+  "gui.matex.button.clear": "クリア",
+  "gui.matex.button.randomize": "ランダム",
+
+  "gui.matex.button.defaultGirl": "デフォルトガール",
+  "gui.matex.button.customGirl": "カスタムガール",
+  "gui.matex.button.back": "戻る",
+
+  "gui.matex.search": "検索",
+  "gui.matex.search.placeholder": "検索...",
+
+  "gui.matex.customizeGirl": "ガールのカスタマイズ",
+  "gui.matex.customizeKobold": "コボルドのカスタマイズ",
+  "gui.matex.customizePlayer": "プレイヤーのカスタマイズ",
+
+  "gui.matex.customize.breastSize": "胸のサイズ",
+  "gui.matex.customize.boobPhysics": "胸の物理",
+  "gui.matex.customize.buttPhysics": "お尻の物理",
+  "gui.matex.customize.breastOffset": "胸のオフセット",
+  "gui.matex.customize.playerBreastSize": "胸のサイズ",
+  "gui.matex.customize.playerBreastOffset": "胸のオフセット",
+  "gui.matex.customize.bodySize": "体のサイズ",
+  "gui.matex.customize.bodySize.tooltip": "サイズは当たり判定の高さに影響します\n65 = 1ブロック、115 = 1.75ブロック",
+  "gui.matex.customize.breastSize.tooltip": "胸のサイズを調整（60-160）",
+  "gui.matex.customize.colorPattern": "カラーパターン:",
+  "gui.matex.customize.irisColor": "瞳の色:",
+  "gui.matex.customize.topHorns": "上の角:",
+  "gui.matex.customize.bottomHorns": "下の角:",
+  "gui.matex.customize.type": "タイプ %s",
+  "gui.matex.customize.offset": "%s オフセット",
+
+  "scene.matex.masturbation": "自慰",
+  "scene.matex.paizuri": "パイズリ",
+  "scene.matex.blowJob": "フェラ",
+  "scene.matex.doggy": "バック",
+  "scene.matex.faceFuck": "イラマチオ",
+  "scene.matex.missionary": "正常位",
+  "scene.matex.cowgirl": "騎乗位",
+  "scene.matex.anal": "アナル",
+  "scene.matex.sex": "セックス",
+  "scene.matex.nelson": "ネルソン",
+  "scene.matex.sideFuck": "側位",
+  "scene.matex.proneDown": "寝バック",
+  "scene.matex.kneeling": "跪位",
+  "scene.matex.cunnilingus": "クンニ",
+  "scene.matex.nursing_handjob": "授乳手コキ",
+
+  "jei.matex.fusion": "フュージョンレシピ",
+
+  "itemgroup.matex.mate_items": "Mateアイテム",
+
+  "itemgroup.matex.mate_blocks": "Mateブロック",
+
+  "msg.matex.noBedFound": "近くに空いているベッドが必要です...",
+  "msg.matex.needsToStrip": "これをするには脱ぐ必要があります。",
+
+  "msg.matex.alreadyInRelationship": "彼女は既に他の人と付き合っています",
+
+  "msg.matex.sheIgnoresYou": "彼女はあなたを無視しています。%sをあげてみましょう。",
+  "msg.matex.askedOutYes": "%sに告白したら§aOKされました",
+  "msg.matex.brokeUp": "%sと別れました",
+  "msg.matex.diedRespawned": "%sが死亡し、拠点にリスポーンしました: %s, %s, %s",
+  "msg.matex.baseSet": "拠点を設定しました（%s, %s, %s）",
+  "msg.matex.mustFollowToMine": "採掘するにはガールが追従している必要があります",
+
+  "msg.matex.sheLikedTheGift": "彼女はプレゼントを気に入りました",
+
+  "msg.matex.gift.like.1": "いいね",
+  "msg.matex.gift.like.2": "ありがとう",
+  "msg.matex.gift.like.3": "嬉しい",
+  "msg.matex.gift.love.1": "あら、ありがとう",
+  "msg.matex.gift.love.2": "大好き～_^",
+  "msg.matex.gift.love.3": "優しすぎるよ",
+
+  "msg.matex.sarah.gift.like.1": "カカオ豆？どこで見つけたの？",
+  "msg.matex.sarah.gift.like.2": "ああ、ありがとう――コレクションに加えようと思ってたんだ。",
+  "msg.matex.sarah.gift.like.3": "可愛いね。ちゃんと覚えていてくれたんだ。",
+  "msg.matex.sarah.gift.love.1": "本当によく見てくれてるね～",
+  "msg.matex.sarah.gift.love.2": "ふふ、その調子なら何かもらえるかもよ。",
+  "msg.matex.sarah.gift.love.3": "これを持って来る時の笑顔、ちゃんと見てたよ。",
+
+  "msg.matex.zoey.gift.like.1": "わぁ、私に？嬉しい！",
+  "msg.matex.zoey.gift.like.2": "気が利くね！",
+  "msg.matex.zoey.gift.like.3": "ゾーイはプレゼント大好き！",
+  "msg.matex.zoey.gift.love.1": "甘やかすの止めて…大好き！",
+  "msg.matex.zoey.gift.love.2": "また？女の子の扱いをよく分かってるね～",
+  "msg.matex.zoey.gift.love.3": "ゾーイ、心まで温かくなっちゃう…",
+
+  "msg.matex.jenny.gift.like.1": "わぁ、私に？ありがとう！",
+  "msg.matex.jenny.gift.like.2": "アリウム？嬉しい…！",
+  "msg.matex.jenny.gift.like.3": "あはは、最高！",
+  "msg.matex.jenny.gift.love.1": "また？あなたこそ最高のプレゼントよ～",
+  "msg.matex.jenny.gift.love.2": "もう、優しすぎ。そしてカッコいい～",
+  "msg.matex.jenny.gift.love.3": "プレゼントはいいから早くヤって～！",
+
+  "msg.matex.ellie.gift.like.1": "え、これって…本物のウィザーローズ…！",
+  "msg.matex.ellie.gift.like.2": "あんたダサいけどこれは…ありがと…！",
+  "msg.matex.ellie.gift.like.3": "すごい…これがウィザーローズなんだ…！",
+  "msg.matex.ellie.gift.love.1": "ん、あんた結構カッコいいじゃん…",
+  "msg.matex.ellie.gift.love.2": "ママが欲しいの？",
+  "msg.matex.ellie.gift.love.3": "も、もう…やりすぎ…",
+
+  "msg.matex.bia.gift.like.1": "わーい！！ポピーだ！！やったー！！",
+  "msg.matex.bia.gift.like.2": "わーわーわー！ビアにプレゼント！",
+  "msg.matex.bia.gift.like.3": "ビアはプレゼント大好き！もっとちょうだい！",
+  "msg.matex.bia.gift.love.1": "やったー！！またプレゼント！ご主人様になってよ！",
+  "msg.matex.bia.gift.love.2": "やったやったやった！遊ぼう！",
+  "msg.matex.bia.gift.love.3": "モ、ビア…あなたのせいで発情しちゃった…",
+
+  "msg.matex.coppie.gift.like.1": "このゴーレムはこの…物を受け取ります。",
+  "msg.matex.coppie.gift.like.2": "このゴーレムはプレゼントを適切に受け取ります。",
+  "msg.matex.coppie.gift.like.3": "なぜこのゴーレムにプレゼントをくれるのですか、マスター？",
+  "msg.matex.coppie.gift.love.1": "このゴーレムは…いえ…私はこれを嬉しく思います、マスター。",
+  "msg.matex.coppie.gift.love.2": "これは本当に嬉しいです、マスター。",
+  "msg.matex.coppie.gift.love.3": "私の性的機能を使いたくないのですか、マスター？",
+
+  "msg.matex.scene.jenny.stripMSG1": "えへへ～",
+  "msg.matex.scene.jenny.bjiMSG1": "何してるの...",
+  "msg.matex.scene.jenny.bjiMSG2": "えぇ...男って...",
+  "msg.matex.scene.jenny.bjiMSG3": "おほぉ...！",
+  "msg.matex.scene.jenny.bjiMSG5": "これ本当に必要だったの？！",
+  "msg.matex.scene.jenny.bjiMSG6": "あぁ～",
+  "msg.matex.scene.jenny.bjiMSG7": "気持ちいい？～",
+  "msg.matex.scene.jenny.bjiMSG9": "えへへへ～",
+  "msg.matex.scene.jenny.doggyLayOnBedMSG2": "何を待ってるの？～",
+  "msg.matex.scene.jenny.doggyLayOnBedMSG3": "このお尻は勝手にヤれないよ...",
+  "msg.matex.scene.jenny.doggyintroMSG1": "んん～",
+  "msg.matex.scene.jenny.doggyintroMSG4": "あぁ～！",
+  "msg.matex.scene.jenny.doggyintroMSG5": "ああぁ～！",
+  "msg.matex.scene.jenny.doggycumMSG1": "イクっ～！",
+
+  "msg.matex.scene.player.bjiMSG8": "いぇい",
+
+  "msg.matex.scene.ellie.carry_introMSG1": "お腹空いた..",
+  "msg.matex.scene.ellie.carry_introMSG2": "ふふ～",
+  "msg.matex.scene.ellie.sitdownMSG1": "ママのところにおいで～",
+  "msg.matex.scene.ellie.missionary_cumMSG2": "いい子...えぇ...ふふ～",
+  "msg.matex.scene.ellie.cowgirlStartMSG1": "見てるの好き？～",
+  "msg.matex.scene.ellie.cowgirlcumMSG4": "いい子...えぇ...ふふ～",
+
+  "msg.matex.scene.bia.sitdownMSG1": "こっちにおいで～",
+
+  "msg.matex.scene.zoey.sitdownMSG1": "おいで～可愛い人～",
+
+  "msg.matex.canGoInToFreeCam": "フリーカメラモードに入るにはF4を押してください",
+
+  "key.Mate.thrust": "突き",
+
+  "key.Mate.cum": "射精",
+
+  "key.Mate.transformScene": "変身シーン",
+
+  "key.categories.Mate": "Mate",
+
+  "subtitles.bedrustle": "ベッドのきしみ",
+
+  "subtitles.belljingle": "鈴が鳴る",
+
+  "subtitles.clap": "パンパン",
+
+  "subtitles.cuminflation": "中出し膨張",
+
+  "subtitles.flap": "パタパタ",
+
+  "subtitles.inserts": "挿入",
+
+  "subtitles.pounding": "激しく突く",
+
+  "subtitles.slap": "ぺちん",
+
+  "subtitles.slide": "ズルッ",
+
+  "subtitles.smallinserts": "浅い挿入",
+
+  "subtitles.touch": "タッチ",
+
+  "subtitles.plob": "ポロン",
+
+  "subtitles.jenny.heavybreathing": "荒い息",
+
+  "subtitles.jenny.hmph": "ふんっ",
+
+  "subtitles.jenny.huh": "えっ",
+
+  "subtitles.jenny.aftersessionmoan": "事後の喘ぎ",
+
+  "subtitles.jenny.ahh": "あぁ",
+
+  "subtitles.jenny.bjmoan": "フェラの喘ぎ",
+
+  "subtitles.jenny.giggle": "くすくす",
+
+  "subtitles.jenny.happyoh": "嬉しいあぁ",
+
+  "subtitles.jenny.lightbreathing": "軽い息",
+
+  "subtitles.jenny.lipsound": "リップ音",
+
+  "subtitles.jenny.mmm": "んん",
+
+  "subtitles.jenny.moan": "喘ぎ",
+
+  "subtitles.jenny.sadoh": "悲しいあぁ",
+
+  "subtitles.jenny.sigh": "ため息",
+
+  "subtitles.bia.ahh": "あぁ",
+
+  "subtitles.bia.bjmoan": "フェラの喘ぎ",
+
+  "subtitles.bia.moan": "喘ぎ",
+
+  "subtitles.bia.lightbreathing": "軽い息",
+
+  "subtitles.bia.giggle": "くすくす",
+
+  "subtitles.bia.hey": "ねぇ",
+
+  "subtitles.bia.happyoh": "嬉しいあぁ",
+
+  "subtitles.bia.sadoh": "悲しいあぁ",
+
+  "subtitles.bia.sigh": "ため息",
+
+  "subtitles.bia.huh": "えっ",
+
+  "subtitles.bia.hmph": "ふんっ",
+
+  "subtitles.bia.mmm": "んん",
+
+  "subtitles.zoey.ahh": "あぁ",
+
+  "subtitles.zoey.bjmoan": "フェラの喘ぎ",
+
+  "subtitles.zoey.moan": "喘ぎ",
+
+  "subtitles.zoey.lightbreathing": "軽い息",
+
+  "subtitles.zoey.giggle": "くすくす",
+
+  "subtitles.zoey.hey": "ねぇ",
+
+  "subtitles.zoey.happyoh": "嬉しいあぁ",
+
+  "subtitles.zoey.sadoh": "悲しいあぁ",
+
+  "subtitles.zoey.sigh": "ため息",
+
+  "subtitles.zoey.huh": "えっ",
+
+  "subtitles.zoey.hmph": "ふんっ",
+
+  "subtitles.zoey.mmm": "んん",
+
+  "subtitles.ellie.aftersessionmoan": "事後の喘ぎ",
+
+  "subtitles.ellie.ahh": "あぁ",
+
+  "subtitles.ellie.bjmoan": "フェラの喘ぎ",
+
+  "subtitles.ellie.cometomommy": "ママのところにおいで",
+
+  "subtitles.ellie.giggle": "くすくす",
+
+  "subtitles.ellie.goodboy": "いい子",
+
+  "subtitles.ellie.happyoh": "嬉しいあぁ",
+
+  "subtitles.ellie.heavybreathing": "荒い息",
+
+  "subtitles.ellie.hmph": "ふんっ",
+
+  "subtitles.ellie.huh": "えっ",
+
+  "subtitles.ellie.lightbreathing": "軽い息",
+
+  "subtitles.ellie.lipsound": "リップ音",
+
+  "subtitles.ellie.mmm": "んん",
+
+  "subtitles.ellie.moan": "喘ぎ",
+
+  "subtitles.ellie.mommyhorny": "ママ発情中",
+
+  "subtitles.ellie.sadoh": "悲しいあぁ",
+
+  "subtitles.ellie.sigh": "ため息",
+
+  "key.categories.freecam": "Mate - フリーカメラ",
+
+  "key.freecam.toggle": "フリーカメラ切替",
+
+  "key.freecam.playerControl": "プレイヤー操作",
+
+  "key.freecam.tripodReset": "三脚リセット",
+
+  "key.freecam.configGui": "設定画面",
+
+  "mate.patchouli.heart_guide.name": "ハートガイド",
+  "mate.patchouli.heart_guide.landing_text": "$(o)ハートガイドへようこそ！$()$(br2)あなたの世界にいる全てのガールを発見しましょう！性格やなつかせ方、好きなシーンについて学べます。$(br2)右のカテゴリーを選んで始めましょう！",
+
+  "msg.freecam.enable": "フリーカメラが有効になりました。",
+
+  "msg.freecam.disable": "フリーカメラが無効になりました。",
+
+  "msg.freecam.openTripod": "カメラ%sを開いています",
+
+  "msg.freecam.closeTripod": "カメラ%sを閉じています",
+
+  "msg.freecam.tripodReset": "カメラ%sをリセット",
+
+  "text.autoconfig.matex.category.default": "Mate",
+
+  "text.autoconfig.matex.category.freecam": "フリーカメラ",
+
+  "text.autoconfig.matex.title": "Mate設定",
+
+  "text.autoconfig.matex.option.girls": "ガール",
+
+  "text.autoconfig.matex.option.girls.boobWindow": "胸の窓",
+
+  "text.autoconfig.matex.option.girls.disableShading": "シェーディング無効",
+
+  "text.autoconfig.matex.option.girls.boobJiggle": "胸の揺れ",
+  "text.autoconfig.matex.option.girls.jigglePhysics": "揺れ物理 (マスター)",
+  "text.autoconfig.matex.option.girls.jigglePhysics.@Tooltip": "ON: 胸/お腹/お尻が物理システムで完全に制御され、アニメーションを上書きします。OFF: 物理を無効化し、デフォルトのアニメーションを再生します。",
+
+  "text.autoconfig.matex.option.girls.buttJiggle": "お尻の揺れ",
+
+  "text.autoconfig.matex.option.girls.boobWindow.@Tooltip": "ガールの防具に胸が見える窓を追加します",
+
+  "text.autoconfig.matex.option.girls.disableShading.@Tooltip": "ガールのシェーディング/影を無効にしてフラットライティングにします",
+
+  "text.autoconfig.matex.option.girls.boobJiggle.@Tooltip": "ガールの胸に揺れの物理演算を有効にします。",
+
+  "text.autoconfig.matex.option.girls.buttJiggle.@Tooltip": "ガールのお尻に揺れの物理演算を有効にします。",
+
+  "text.autoconfig.matex.option.player": "プレイヤー",
+
+  "text.autoconfig.matex.option.player.renderFirstPersonBody": "一人称で体を表示",
+
+  "text.autoconfig.matex.option.player.renderFirstPersonBody.@Tooltip": "一人称視点で変身したガールの体を表示します（頭は非表示のまま）",
+
+  "text.autoconfig.matex.option.player.renderPenis": "ペニスを表示",
+
+  "text.autoconfig.matex.option.player.renderPenis.@Tooltip": "シーン中にプレイヤーモデルにペニスを表示するかどうか切り替え",
+
+  "text.autoconfig.matex.option.player.penisShaftColor": "ペニスの竿の色",
+
+  "text.autoconfig.matex.option.player.penisShaftColor.@Tooltip": "プレイヤーモデルのペニスの竿の色を設定します",
+
+  "text.autoconfig.matex.option.player.penisHeadColor": "ペニスの先端の色",
+
+  "text.autoconfig.matex.option.player.penisHeadColor.@Tooltip": "プレイヤーモデルのペニスの先端の色を設定します",
+
+  "text.autoconfig.matex.option.controls": "キー設定",
+
+  "text.autoconfig.matex.option.controls.@Tooltip": "フリーカメラのキー設定。",
+
+  "text.autoconfig.matex.option.movement": "移動オプション",
+
+  "text.autoconfig.matex.option.movement.@Tooltip": "カメラの移動方法。",
+
+  "text.autoconfig.matex.option.movement.flightMode": "飛行モード",
+
+  "text.autoconfig.matex.option.movement.flightMode.@Tooltip": "フリーカメラで使用する飛行タイプ。",
+
+  "text.autoconfig.matex.option.movement.flightMode.default": "デフォルト",
+
+  "text.autoconfig.matex.option.movement.flightMode.creative": "クリエイティブ",
+
+  "text.autoconfig.matex.option.movement.horizontalSpeed": "水平速度",
+
+  "text.autoconfig.matex.option.movement.horizontalSpeed.@Tooltip": "フリーカメラの水平速度。",
+
+  "text.autoconfig.matex.option.movement.verticalSpeed": "垂直速度",
+
+  "text.autoconfig.matex.option.movement.verticalSpeed.@Tooltip": "フリーカメラの垂直速度。",
+
+  "text.autoconfig.matex.option.collision": "衝突オプション",
+
+  "text.autoconfig.matex.option.collision.@Tooltip": "フリーカメラで通過できるブロック。",
+
+  "text.autoconfig.matex.option.collision.ignoreTransparent": "透明ブロックを無視",
+
+  "text.autoconfig.matex.option.collision.ignoreTransparent.@Tooltip": "フリーカメラで透明ブロックを通過できます。",
+
+  "text.autoconfig.matex.option.collision.ignoreOpenable": "開閉ブロックを無視",
+
+  "text.autoconfig.matex.option.collision.ignoreOpenable.@Tooltip": "フリーカメラでドア/トラップドア/ゲートを通過できます。",
+
+  "text.autoconfig.matex.option.collision.ignoreCustom": "カスタム無視リスト",
+
+  "text.autoconfig.matex.option.collision.ignoreCustom.@Tooltip[0]": "フリーカメラで特定のブロックを通過できます。",
+
+  "text.autoconfig.matex.option.collision.whitelist.ids": "無視するID",
+
+  "text.autoconfig.matex.option.collision.whitelist.ids.@Tooltip[0]": "ブロックIDを使用してください。例: \"grass_block\"。",
+
+  "text.autoconfig.matex.option.collision.whitelist.ids.@Tooltip[1]": "名前空間を省略すると\"minecraft:\"が使われます。",
+
+  "text.autoconfig.matex.option.collision.whitelist.patterns": "無視する正規表現",
+
+  "text.autoconfig.matex.option.collision.whitelist.patterns.@Tooltip[0]": "正規表現構文を使用してください。",
+
+  "text.autoconfig.matex.option.collision.whitelist.patterns.@Tooltip[1]": "完全なブロックIDに対してマッチします。例: \"minecraft:grass_block\"。",
+
+  "text.autoconfig.matex.option.collision.ignoreAll": "全ての衝突を無視",
+
+  "text.autoconfig.matex.option.collision.ignoreAll.@Tooltip[0]": "フリーカメラで全てのブロックを通過できます。",
+
+  "text.autoconfig.matex.option.collision.ignoreAll.@Tooltip[1]": "§e上記の設定を上書きします。",
+
+  "text.autoconfig.matex.option.collision.ignoreAll.@ModrinthTooltip[2]": "§c注意: シングルプレイヤー、クリエイティブ、またはオペレーター権限でのみ使用できます。",
+
+  "text.autoconfig.matex.option.collision.alwaysCheck": "常に初期衝突をチェック",
+
+  "text.autoconfig.matex.option.collision.alwaysCheck.@Tooltip[0]": "§7初期パースペクティブ§rが衝突をチェックするかどうか",
+
+  "text.autoconfig.matex.option.collision.alwaysCheck.@Tooltip[1]": "§7全ての衝突を無視§rを使用している場合でも。",
+
+  "text.autoconfig.matex.option.visual": "ビジュアルオプション",
+
+  "text.autoconfig.matex.option.visual.@Tooltip": "フリーカメラの見た目。",
+
+  "text.autoconfig.matex.option.visual.perspective": "初期パースペクティブ",
+
+  "text.autoconfig.matex.option.visual.perspective.@Tooltip": "カメラの初期パースペクティブ。",
+
+  "text.autoconfig.matex.option.visual.perspective.firstPerson": "一人称",
+
+  "text.autoconfig.matex.option.visual.perspective.thirdPerson": "三人称",
+
+  "text.autoconfig.matex.option.visual.perspective.thirdPersonMirror": "ミラー",
+
+  "text.autoconfig.matex.option.visual.perspective.inside": "内部",
+
+  "text.autoconfig.matex.option.visual.hidePlayer": "プレイヤーを非表示",
+
+  "text.autoconfig.matex.option.visual.hidePlayer.@Tooltip": "プレイヤーモデルを非表示にします。",
+
+  "text.autoconfig.matex.option.visual.showHand": "手を表示",
+
+  "text.autoconfig.matex.option.visual.showHand.@Tooltip": "フリーカメラで手を表示するかどうか。",
+
+  "text.autoconfig.matex.option.visual.fullBright": "フル明るさ",
+
+  "text.autoconfig.matex.option.visual.fullBright.@Tooltip": "フリーカメラ中の明るさを上げます。",
+
+  "text.autoconfig.matex.option.visual.showSubmersion": "水没フォグを表示",
+
+  "text.autoconfig.matex.option.visual.showSubmersion.@Tooltip": "水中、溶岩中、粉雪中にフォグオーバーレイを表示するかどうか。",
+
+  "text.autoconfig.matex.option.utility": "ユーティリティオプション",
+
+  "text.autoconfig.matex.option.utility.@Tooltip": "フリーカメラの拡張機能。",
+
+  "text.autoconfig.matex.option.utility.disableOnDamage": "ダメージで無効",
+
+  "text.autoconfig.matex.option.utility.disableOnDamage.@Tooltip": "ダメージを受けるとフリーカメラを無効にします。",
+
+  "text.autoconfig.matex.option.utility.freezePlayer": "プレイヤーを固定",
+
+  "text.autoconfig.matex.option.utility.freezePlayer.@Tooltip[0]": "フリーカメラ中のプレイヤーの移動を防ぎます。",
+
+  "text.autoconfig.matex.option.utility.freezePlayer.@Tooltip[1]": "§c警告: マルチプレイヤーでの使用は非推奨。",
+
+  "text.autoconfig.matex.option.utility.allowInteract": "インタラクションを許可",
+
+  "text.autoconfig.matex.option.utility.allowInteract.@Tooltip[0]": "フリーカメラでブロック/エンティティとインタラクションできるかどうか。",
+
+  "text.autoconfig.matex.option.utility.interactionMode": "インタラクションモード",
+
+  "text.autoconfig.matex.option.utility.interactionMode.@Tooltip": "ブロック/エンティティインタラクションのソース。",
+
+  "text.autoconfig.matex.option.utility.interactionMode.camera": "カメラ",
+
+  "text.autoconfig.matex.option.utility.interactionMode.player": "プレイヤー",
+
+  "text.autoconfig.matex.option.notification": "通知オプション",
+
+  "text.autoconfig.matex.option.notification.@Tooltip": "通知の表示/非表示。",
+
+  "text.autoconfig.matex.option.notification.notifyFreecam": "フリーカメラ通知",
+
+  "text.autoconfig.matex.option.notification.notifyFreecam.@Tooltip": "フリーカメラの開始/終了を通知します。",
+
+  "text.autoconfig.matex.option.notification.notifyTripod": "三脚通知",
+
+  "text.autoconfig.matex.option.notification.notifyTripod.@Tooltip": "三脚カメラの開始/終了を通知します。",
+
+  "advancements.matex.root.title": "おい、お前。やっと目を覚ましたか",
+  "advancements.matex.root.description": "国境を越えようとしてたんだろ？",
+  "advancements.matex.tame_girl.title": "ずっと一緒",
+  "advancements.matex.tame_girl.description": "ガールのハートを射止めよう",
+  "advancements.matex.max_relationship.title": "結婚してくれますか？",
+  "advancements.matex.max_relationship.description": "ガールとの好感度を最大にする",
+  "advancements.matex.break_up.title": "失恋",
+  "advancements.matex.break_up.description": "ガールと別れる",
+  "advancements.matex.kill_girl.title": "許してくれ…",
+  "advancements.matex.kill_girl.description": "ガールを殺す",
+  "advancements.matex.enter_jenny_house.title": "記憶よりずっと素敵",
+  "advancements.matex.enter_jenny_house.description": "ジェニーの家を発見する",
+  "advancements.matex.enter_bia_house.title": "居心地のいい場所",
+  "advancements.matex.enter_bia_house.description": "ビアの家を発見する",
+  "advancements.matex.enter_ellie_house.title": "ママのお城！！？",
+  "advancements.matex.enter_ellie_house.description": "エリーの家を発見する",
+  "advancements.matex.summon_coppie.title": "銅のゴー…コッピー？",
+  "advancements.matex.summon_coppie.description": "コッピーを召喚する",
+  "advancements.matex.craft_custom_girl_spawn_egg.title": "ホムンクルス！？",
+  "advancements.matex.craft_custom_girl_spawn_egg.description": "カスタムガールのスポーンエッグをクラフトする",
+  "advancements.matex.craft_slime_spawn_egg.title": "ぷるぷるの友達",
+  "advancements.matex.craft_slime_spawn_egg.description": "スライムガールのスポーンエッグをクラフトする",
+  "advancements.matex.craft_aly_spawn_egg.title": "なんか見た目違くない？",
+  "advancements.matex.craft_aly_spawn_egg.description": "アリーのスポーンエッグをクラフトする",
+  "advancements.matex.craft_love_ball.title": "ポケット・ディメンション",
+  "advancements.matex.craft_love_ball.description": "ラブボールをクラフトする",
+  "advancements.matex.craft_fusion_table.title": "ガール作りを始めるか",
+  "advancements.matex.craft_fusion_table.description": "フュージョンテーブルをクラフトする",
+  "advancements.matex.craft_master_ring.title": "お前は私のものだ",
+  "advancements.matex.craft_master_ring.description": "マスターリングをクラフトする",
+  "advancements.matex.craft_x_pill.title": "この錠剤、なんか変だな",
+  "advancements.matex.craft_x_pill.description": "X-ピルをクラフトする",
+  "advancements.matex.transform.title": "天上天下唯我独尊",
+  "advancements.matex.transform.description": "X-ピルを使って変身する",
+  "advancements.matex.capture_love_ball.title": "僕と一緒に行こう",
+  "advancements.matex.capture_love_ball.description": "ラブボールでガールを捕獲する",
+  "advancements.matex.capture_master_ring.title": "今度は逃がさないぞ",
+  "advancements.matex.capture_master_ring.description": "マスターリングでガールを捕獲する",
+
+  "subtitles.sarah.aftersessionmoan": "事後の喘ぎ",
+  "subtitles.sarah.ahh": "あぁ",
+  "subtitles.sarah.bjmoan": "フェラの喘ぎ",
+  "subtitles.sarah.cometomommy": "ママのところにおいで",
+  "subtitles.sarah.giggle": "くすくす",
+  "subtitles.sarah.goodboy": "いい子",
+  "subtitles.sarah.happyoh": "嬉しいあぁ",
+  "subtitles.sarah.heavybreathing": "荒い息",
+  "subtitles.sarah.hmph": "ふんっ",
+  "subtitles.sarah.huh": "えっ",
+  "subtitles.sarah.lightbreathing": "軽い息",
+  "subtitles.sarah.lipsound": "リップ音",
+  "subtitles.sarah.mmm": "んん",
+  "subtitles.sarah.moan": "喘ぎ",
+  "subtitles.sarah.mommyhorny": "ママ発情中",
+  "subtitles.sarah.sadoh": "悲しいあぁ",
+  "subtitles.sarah.sigh": "ため息",
+
+  "subtitles.gallath.aaa": "戦闘の叫び",
+  "subtitles.gallath.ahh": "あぁ",
+  "subtitles.gallath.breathing": "呼吸",
+  "subtitles.gallath.dialog": "セリフ",
+  "subtitles.gallath.giggle": "くすくす",
+  "subtitles.gallath.hmph": "ふんっ",
+  "subtitles.gallath.huh": "えっ",
+  "subtitles.gallath.lightcharge": "軽いチャージ",
+  "subtitles.gallath.moan": "喘ぎ",
+  "subtitles.gallath.orgasm": "オーガズム",
+  "subtitles.gallath.strongcharge": "強いチャージ",
+  "subtitles.gallath.uuh": "うぅ",
+
+  "entity.matex.jenny.variant.jenna": "ジェナ",
+  "gui.matex.button.variant": "バリアント",
+  "gui.matex.variant_selection": "バリアントを選択",
+  "scene.matex.jenna.blowjob": "フェラ",
+  "scene.matex.jenna.cowgirl": "騎乗位",
+  "scene.matex.jenna.missionary": "正常位",
+  "scene.matex.jenna.paizuri": "パイズリ",
+  "scene.matex.jenna.rape": "レイプ",
+  "scene.matex.jenna.straddling": "またがり",
+  "scene.matex.jenna.stuck": "拘束",
+  "subtitles.misc.bounceboobs": "ジェニー: *胸が揺れる*",
+  "subtitles.misc.clothes": "ジェニー: *衣ずれの音*"
+}

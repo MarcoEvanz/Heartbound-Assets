@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "matex:block/fusion_table"
+    }
+  }
+}

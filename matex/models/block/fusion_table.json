@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "matex:block/fusion_table_top",
+    "bottom": "matex:block/fusion_table_bottom",
+    "side": "matex:block/fusion_table_side"
+  }
+}

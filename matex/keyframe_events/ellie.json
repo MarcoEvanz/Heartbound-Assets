@@ -1,0 +1,163 @@
+{
+  "girl_id": "ellie",
+  "events": [
+    {
+      "key": "stripMSG1",
+      "random_sounds": [
+        "matex:ellie.giggle"
+      ]
+    },
+    {
+      "key": "carry_introMSG1",
+      "sounds": [
+        "matex:ellie.hmph"
+      ],
+      "messages": [
+        "msg.matex.scene.ellie.carry_introMSG1"
+      ]
+    },
+    {
+      "key": "carry_introMSG2",
+      "sounds": [
+        "matex:ellie.giggle"
+      ],
+      "messages": [
+        "msg.matex.scene.ellie.carry_introMSG2"
+      ]
+    },
+    {
+      "key": "lipsound",
+      "sounds": [
+        "matex:ellie.lipsound"
+      ]
+    },
+    {
+      "key": "suckFast",
+      "sounds": [
+        "matex:misc.pounding"
+      ]
+    },
+    {
+      "key": "cum",
+      "sounds": [
+        "matex:misc.inserts",
+        "matex:ellie.lipsound"
+      ]
+    },
+    {
+      "key": "sitdownMSG1",
+      "sounds": [
+        "matex:ellie.cometomommy"
+      ],
+      "messages": [
+        "msg.matex.scene.ellie.sitdownMSG1"
+      ]
+    },
+    {
+      "key": "missionary_slowMSG1",
+      "sounds": [
+        "matex:misc.pounding",
+        "matex:ellie.ahh"
+      ]
+    },
+    {
+      "key": "missionary_fastMSG1",
+      "sounds": [
+        "matex:misc.pounding"
+      ],
+      "random_sounds": [
+        "matex:ellie.ahh",
+        "matex:ellie.moan"
+      ]
+    },
+    {
+      "key": "bedRustle",
+      "sounds": [
+        "matex:misc.pounding",
+        "matex:misc.bedrustle"
+      ]
+    },
+    {
+      "key": "missionary_cumMSG1",
+      "sounds": [
+        "matex:ellie.ahh"
+      ]
+    },
+    {
+      "key": "missionary_cumMSG2",
+      "sounds": [
+        "matex:ellie.goodboy"
+      ],
+      "messages": [
+        "msg.matex.scene.ellie.missionary_cumMSG2"
+      ]
+    },
+    {
+      "key": "cowgirlStartMSG0",
+      "sounds": [
+        "matex:ellie.giggle"
+      ]
+    },
+    {
+      "key": "cowgirlStartMSG1",
+      "messages": [
+        "msg.matex.scene.ellie.cowgirlStartMSG1"
+      ]
+    },
+    {
+      "key": "cowgirlStartMSG2",
+      "sounds": [
+        "matex:misc.pounding"
+      ],
+      "random_sounds": [
+        "matex:ellie.ahh",
+        "matex:ellie.moan"
+      ]
+    },
+    {
+      "key": "cowgirlfastMSG1",
+      "sounds": [
+        "matex:misc.pounding"
+      ],
+      "random_sounds": [
+        "matex:ellie.ahh",
+        "matex:ellie.moan"
+      ]
+    },
+    {
+      "key": "cowgirlcumMSG1",
+      "sounds": [
+        "matex:misc.pounding",
+        "matex:ellie.ahh"
+      ]
+    },
+    {
+      "key": "cowgirlcumMSG2",
+      "sounds": [
+        "matex:misc.pounding",
+        "matex:ellie.moan"
+      ]
+    },
+    {
+      "key": "cowgirlcumMSG3",
+      "sounds": [
+        "matex:misc.pounding"
+      ]
+    },
+    {
+      "key": "cowgirlcumMSG4",
+      "sounds": [
+        "matex:ellie.goodboy"
+      ],
+      "messages": [
+        "msg.matex.scene.ellie.cowgirlcumMSG4"
+      ]
+    },
+    {
+      "key": "clothes_off",
+      "random_sounds": [
+        "matex:misc.clothes"
+      ]
+    }
+  ]
+}

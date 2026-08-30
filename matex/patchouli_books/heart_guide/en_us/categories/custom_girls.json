@@ -1,0 +1,6 @@
+{
+  "name": "Custom Girls",
+  "description": "Learn how to spawn custom girls in-game.",
+  "icon": "minecraft:knowledge_book",
+  "parent": "matex:girls"
+}

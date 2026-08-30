@@ -1,0 +1,192 @@
+{
+  "girl_id": "jenny",
+  "variant_id": "jenna",
+  "events": [
+    {
+      "key": "aftersessionmoan",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.aftersessionmoan" ]
+    },
+    {
+      "key": "ahh",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.ahh" ]
+    },
+    {
+      "key": "bjmoan",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.bjmoan" ]
+    },
+    {
+      "key": "lipsound",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.lipsound" ]
+    },
+    {
+      "key": "giggle",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.giggle" ]
+    },
+    {
+      "key": "happyoh",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.happyoh" ]
+    },
+    {
+      "key": "heavybreathing",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.heavybreathing" ]
+    },
+    {
+      "key": "hmph",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.hmph" ]
+    },
+    {
+      "key": "huh",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.huh" ]
+    },
+    {
+      "key": "lightbreathing",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.lightbreathing" ]
+    },
+    {
+      "key": "moan",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.moan" ]
+    },
+    {
+      "key": "mmm",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.mmm" ]
+    },
+    {
+      "key": "sadoh",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.sadoh" ]
+    },
+    {
+      "key": "sigh",
+      "sounds": [],
+      "random_sounds": [ "matex:jenna.sigh" ]
+    },
+    {
+      "key": "bjtMSG1",
+      "sounds": [
+        "matex:jenna.mmm",
+        "matex:jenna.lipsound"
+      ]
+    },
+    {
+      "key": "bjcMSG1",
+      "sounds": [
+        "matex:jenna.bjmoan"
+      ]
+    },
+    {
+      "key": "bjcMSG2",
+      "sounds": [
+        "matex:jenna.bjmoan"
+      ]
+    },
+    {
+      "key": "bjcMSG3",
+      "sounds": [
+        "matex:jenna.aftersessionmoan"
+      ]
+    },
+    {
+      "key": "bjcMSG4",
+      "sounds": [
+        "matex:jenna.lightbreathing"
+      ]
+    },
+    {
+      "key": "bjcMSG5",
+      "sounds": [
+        "matex:jenna.lightbreathing"
+      ]
+    },
+    {
+      "key": "bjcMSG6",
+      "sounds": [
+        "matex:jenna.lightbreathing"
+      ]
+    },
+    {
+      "key": "paizuriStartMSG1",
+      "sounds": [
+        "matex:misc.pounding"
+      ]
+    },
+    {
+      "key": "doggyIntroMSG1",
+      "sounds": [
+        "matex:misc.touch"
+      ]
+    },
+    {
+      "key": "doggyIntroMSG2",
+      "sounds": [
+        "matex:misc.touch"
+      ]
+    },
+    {
+      "key": "doggyIntroMSG3",
+      "sounds": [
+        "matex:misc.bedrustle"
+      ]
+    },
+    {
+      "key": "doggyIntroMSG4",
+      "sounds": [
+        "matex:misc.smallinserts",
+        "matex:jenna.mmm"
+      ]
+    },
+    {
+      "key": "doggyIntroMSG5",
+      "sounds": [
+        "matex:misc.pounding",
+        "matex:jenna.moan"
+      ]
+    },
+    {
+      "key": "doggySlowMSG1",
+      "sounds": [
+        "matex:misc.pounding"
+      ],
+      "random_sounds": [
+        "matex:jenna.lightbreathing",
+        "matex:jenna.mmm"
+      ]
+    },
+    {
+      "key": "doggySlowMSG2",
+      "sounds": [
+        "matex:jenna.lightbreathing"
+      ]
+    },
+    {
+      "key": "doggyFastMSG1",
+      "sounds": [
+        "matex:misc.pounding"
+      ],
+      "random_sounds": [
+        "matex:jenna.moan",
+        "matex:jenna.heavybreathing",
+        "matex:jenna.ahh"
+      ]
+    },    
+    {
+      "key": "doggyCumMSG1",
+      "sounds": [
+        "matex:misc.cuminflation",
+        "matex:misc.cuminflation",
+        "matex:misc.cuminflation"
+      ]
+    }
+  ]
+}
