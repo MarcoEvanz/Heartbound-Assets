@@ -211,6 +211,8 @@
   "gui.heartbound.customizePlayer": "自定义玩家",
 
   "gui.heartbound.customize.breastSize": "胸部大小",
+  "gui.heartbound.customize.boobPhysics": "胸部物理",
+  "gui.heartbound.customize.buttPhysics": "臀部物理",
   "gui.heartbound.customize.breastOffset": "胸部偏移",
   "gui.heartbound.customize.playerBreastSize": "胸部大小",
   "gui.heartbound.customize.playerBreastOffset": "胸部偏移",

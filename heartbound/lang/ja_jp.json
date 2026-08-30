@@ -211,6 +211,8 @@
   "gui.heartbound.customizePlayer": "プレイヤーのカスタマイズ",
 
   "gui.heartbound.customize.breastSize": "胸のサイズ",
+  "gui.heartbound.customize.boobPhysics": "胸の物理",
+  "gui.heartbound.customize.buttPhysics": "お尻の物理",
   "gui.heartbound.customize.breastOffset": "胸のオフセット",
   "gui.heartbound.customize.playerBreastSize": "胸のサイズ",
   "gui.heartbound.customize.playerBreastOffset": "胸のオフセット",
