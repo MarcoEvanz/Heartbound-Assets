@@ -1,6 +1,3 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "matex:item/custom_girl_spawn_egg"
-  }
+  "parent": "matex:item/template_spawn_egg"
 }
