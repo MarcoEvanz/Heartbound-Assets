@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "heartbound:block/gold_node"
+    }
+  }
+}

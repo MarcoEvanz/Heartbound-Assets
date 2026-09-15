@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "heartbound:block/coal_node"
+    }
+  }
+}
