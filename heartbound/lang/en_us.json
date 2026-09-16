@@ -148,6 +148,10 @@
   "screen.heartbound.heart_core.map_hint": "Right-click a chest: set its role · Right-click a zone: its menu · Click: highlight in the world",
   "screen.heartbound.heart_core.storage_btn": "Storage…",
   "screen.heartbound.heart_core.trade_btn": "Trade",
+  "screen.heartbound.heart_core.stock_btn": "Stock",
+  "screen.heartbound.heart_core.stock_title": "Stock targets",
+  "screen.heartbound.heart_core.stock_hint": "Click a number and type. Empty = default, 0 = never make.",
+  "screen.heartbound.heart_core.stock_have": "have %s",
   "screen.heartbound.heart_core.trades_title": "Villager trading",
   "screen.heartbound.heart_core.trades_hint": "Girls on the Trading job sell to these villager types for emeralds. Block a type, or untick goods you want to keep.",
   "screen.heartbound.heart_core.trades_empty": "No villager professions are known.",
@@ -829,5 +833,7 @@
   "subtitles.gallath.strongcharge": "Strong Charge",
   "subtitles.gallath.uuh": "Uuh",
   "subtitles.misc.bounceboobs": "Jenny: *boobs bouncing*",
-  "subtitles.misc.clothes": "Jenny: *clothes rustling*"
+  "subtitles.misc.clothes": "Jenny: *clothes rustling*",
+  "screen.heartbound.heart_core.stock_ores": "Ore nodes",
+  "screen.heartbound.heart_core.stock_food": "Kitchen"
 }
