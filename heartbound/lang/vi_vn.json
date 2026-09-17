@@ -566,5 +566,8 @@
   "screen.heartbound.girl_experience.take_button": "Lấy",
   "screen.heartbound.girl_experience.give_button": "Đưa",
   "screen.heartbound.girl_experience.outcome": "→ cô ấy %s, bạn %s",
-  "screen.heartbound.girl_inventory.level": "Lv %s"
+  "screen.heartbound.girl_inventory.level": "Lv %s",
+  "screen.heartbound.heart_core.activity.sorting": "Sắp xếp kho",
+  "screen.heartbound.heart_core.activity.hauling": "Vận chuyển",
+  "screen.heartbound.heart_core.job.helper": "Trợ lý"
 }

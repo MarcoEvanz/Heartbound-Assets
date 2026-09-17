@@ -247,6 +247,7 @@
   "screen.heartbound.heart_core.job.ranching": "Ranching",
   "screen.heartbound.heart_core.job.smithing": "Smithing",
   "screen.heartbound.heart_core.job.fishing": "Fishing",
+  "screen.heartbound.heart_core.job.helper": "Helper",
   "screen.heartbound.heart_core.activity.idle": "Idle",
   "screen.heartbound.heart_core.activity.sleeping": "Sleeping",
   "screen.heartbound.heart_core.activity.busy": "Busy",
@@ -849,5 +850,7 @@
   "screen.heartbound.girl_experience.take_button": "Take",
   "screen.heartbound.girl_experience.give_button": "Give",
   "screen.heartbound.girl_experience.outcome": "→ her %s, you %s",
-  "screen.heartbound.girl_inventory.level": "Lv %s"
+  "screen.heartbound.girl_inventory.level": "Lv %s",
+  "screen.heartbound.heart_core.activity.sorting": "Sorting",
+  "screen.heartbound.heart_core.activity.hauling": "Hauling"
 }
