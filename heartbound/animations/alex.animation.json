@@ -6659,7 +6659,8 @@
 					"position": [0, 0.3, 0]
 				},
 				"body": {
-					"rotation": [90, 0, 0]
+					"rotation": [90, 0, 0],
+					"position": [0, 0, 16]
 				},
 				"head": {
 					"rotation": {
@@ -6749,7 +6750,8 @@
 					"position": [0, 0.3, 0]
 				},
 				"body": {
-					"rotation": [90, 0, 0]
+					"rotation": [90, 0, 0],
+					"position": [0, 0, 16]
 				},
 				"upperBody": {
 					"rotation": {

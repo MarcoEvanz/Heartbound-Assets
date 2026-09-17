@@ -596,7 +596,21 @@
   "subtitles.gallath.moan": "Gemido",
   "subtitles.gallath.orgasm": "Orgasmo",
   "subtitles.gallath.strongcharge": "Carga Forte",
-  "subtitles.gallath.uuh": "Uuh"
+  "subtitles.gallath.uuh": "Uuh",
+  "screen.heartbound.girl_inventory.experience_tooltip": "%s experience · level %s",
+  "gui.heartbound.button.experience": "Experience",
+  "screen.heartbound.girl_experience.title": "Experience",
+  "screen.heartbound.girl_experience.hers": "%s",
+  "screen.heartbound.girl_experience.yours": "You",
+  "screen.heartbound.girl_experience.level_points": "Level %s · %s XP",
+  "screen.heartbound.girl_experience.take_label": "Take from her",
+  "screen.heartbound.girl_experience.give_label": "Give to her",
+  "screen.heartbound.girl_experience.take_percent": "Take %s%% · %s XP",
+  "screen.heartbound.girl_experience.give_percent": "Give %s%% · %s XP",
+  "screen.heartbound.girl_experience.take_button": "Take",
+  "screen.heartbound.girl_experience.give_button": "Give",
+  "screen.heartbound.girl_experience.outcome": "→ her %s, you %s",
+  "screen.heartbound.girl_inventory.level": "Lv %s"
 }
 
 
