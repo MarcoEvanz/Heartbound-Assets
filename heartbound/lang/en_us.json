@@ -678,6 +678,8 @@
   "text.autoconfig.heartbound.option.girls.buttJiggle": "Butt Jiggle Physics",
   "text.autoconfig.heartbound.option.girls.boobJiggle.@Tooltip": "Enables breast jiggle physics. Turn off to disable it.",
   "text.autoconfig.heartbound.option.girls.buttJiggle.@Tooltip": "Enables butt jiggle physics. Turn off to disable it.",
+  "text.autoconfig.heartbound.option.girls.cullBackFaces": "Cull Back Faces",
+  "text.autoconfig.heartbound.option.girls.cullBackFaces.@Tooltip": "Draws only the outward side of each face, the way Blockbench previews a model with \"Render Sides: Outside\". Fixes the flickering texture on flat parts of a model, where the two sides sit at the same depth and neither can win. Turn off if a model relies on being seen from the inside.",
   "text.autoconfig.heartbound.option.player": "Player",
   "text.autoconfig.heartbound.option.player.renderFirstPersonBody": "Render Body in First Person",
   "text.autoconfig.heartbound.option.player.renderFirstPersonBody.@Tooltip": "Shows the transformed girl body in first person view (head stays hidden)",
