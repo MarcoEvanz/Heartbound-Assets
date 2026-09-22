@@ -20797,73 +20797,44 @@
 			"animation_length": 6.4,
 			"bones": {
 				"legL": {
-					"rotation": {
-						"vector": [0, 0, 0]
-					}
+					"rotation": [0, 0, 0]
 				},
 				"shinL": {
-					"rotation": {
-						"vector": [0, 0, 0]
-					}
+					"rotation": [0, 0, 0]
 				},
 				"legR": {
-					"rotation": {
-						"vector": [0, 0, 0]
-					}
+					"rotation": [0, 0, 0]
 				},
 				"shinR": {
-					"rotation": {
-						"vector": [0, 0, 0]
-					}
+					"rotation": [0, 0, 0]
 				},
 				"tongueSmile2": {
-					"position": {
-						"vector": [0, 0, 0]
-					}
+					"position": [0, 0, 0]
 				},
 				"boobs": {
 					"rotation": {
-						"0.0": {
-							"vector": [0, 0, 0]
-						},
-						"2.92": {
-							"vector": [-2.5, 0, 0],
-							"easing": "easeInOutSine"
-						},
-						"6.4": {
-							"vector": [0, 0, 0]
-						}
+						"0.0": [0, 0, 0],
+						"2.92": [-2.5, 0, 0],
+						"6.4": [0, 0, 0]
 					}
 				},
 				"armR": {
 					"rotation": {
-						"0.0": {
-							"vector": [0, 0, 0]
-						},
-						"2.84": {
-							"vector": [0, 0, 2],
-							"easing": "easeInOutSine"
-						},
-						"6.24": {
-							"vector": [0, 0, 0],
-							"easing": "easeInOutSine"
-						}
+						"0.0": [0, 0, 0],
+						"2.84": [0, 0, 2],
+						"6.24": [0, 0, 0]
 					}
 				},
 				"armL": {
 					"rotation": {
-						"0.0": {
-							"vector": [0, 0, 0]
-						},
-						"2.84": {
-							"vector": [0, 0, -2],
-							"easing": "easeInOutSine"
-						},
-						"6.24": {
-							"vector": [0, 0, 0],
-							"easing": "easeInOutSine"
-						}
+						"0.0": [0, 0, 0],
+						"2.84": [0, 0, -2],
+						"6.24": [0, 0, 0]
 					}
+				},
+				"head": {
+					"rotation": [0, 0, 0],
+					"position": [0, 0, 0]
 				}
 			}
 		},

@@ -6072,6 +6072,10 @@
 				"body": {
 					"rotation": [0, 0, 0],
 					"position": [0, 0, 0]
+				},
+				"head": {
+					"rotation": [0, 0, 0],
+					"position": [0, 0, 0]
 				}
 			}
 		},
