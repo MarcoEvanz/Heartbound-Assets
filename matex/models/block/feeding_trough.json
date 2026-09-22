@@ -1,0 +1,57 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "planks": "minecraft:block/oak_planks",
+    "log": "minecraft:block/stripped_oak_log",
+    "particle": "minecraft:block/oak_planks"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0], "to": [16, 3, 16],
+      "faces": {
+        "down":  {"uv": [0, 0, 16, 16], "texture": "#log", "cullface": "down"},
+        "up":    {"uv": [0, 0, 16, 16], "texture": "#planks"},
+        "north": {"uv": [0, 13, 16, 16], "texture": "#log", "cullface": "north"},
+        "south": {"uv": [0, 13, 16, 16], "texture": "#log", "cullface": "south"},
+        "west":  {"uv": [0, 13, 16, 16], "texture": "#log", "cullface": "west"},
+        "east":  {"uv": [0, 13, 16, 16], "texture": "#log", "cullface": "east"}
+      }
+    },
+    {
+      "from": [0, 3, 0], "to": [16, 8, 2],
+      "faces": {
+        "up":    {"uv": [0, 0, 16, 2], "texture": "#log"},
+        "north": {"uv": [0, 8, 16, 13], "texture": "#log", "cullface": "north"},
+        "south": {"uv": [0, 8, 16, 13], "texture": "#planks"},
+        "west":  {"uv": [0, 8, 2, 13], "texture": "#log"},
+        "east":  {"uv": [14, 8, 16, 13], "texture": "#log"}
+      }
+    },
+    {
+      "from": [0, 3, 14], "to": [16, 8, 16],
+      "faces": {
+        "up":    {"uv": [0, 14, 16, 16], "texture": "#log"},
+        "north": {"uv": [0, 8, 16, 13], "texture": "#planks"},
+        "south": {"uv": [0, 8, 16, 13], "texture": "#log", "cullface": "south"},
+        "west":  {"uv": [0, 8, 2, 13], "texture": "#log"},
+        "east":  {"uv": [14, 8, 16, 13], "texture": "#log"}
+      }
+    },
+    {
+      "from": [0, 3, 2], "to": [2, 8, 14],
+      "faces": {
+        "up":    {"uv": [0, 2, 2, 14], "texture": "#log"},
+        "west":  {"uv": [2, 8, 14, 13], "texture": "#log", "cullface": "west"},
+        "east":  {"uv": [2, 8, 14, 13], "texture": "#planks"}
+      }
+    },
+    {
+      "from": [14, 3, 2], "to": [16, 8, 14],
+      "faces": {
+        "up":    {"uv": [14, 2, 16, 14], "texture": "#log"},
+        "west":  {"uv": [2, 8, 14, 13], "texture": "#planks"},
+        "east":  {"uv": [2, 8, 14, 13], "texture": "#log", "cullface": "east"}
+      }
+    }
+  ]
+}
