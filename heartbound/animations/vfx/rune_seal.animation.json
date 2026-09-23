@@ -1,0 +1,152 @@
+{
+ "format_version": "1.8.0",
+ "animations": {
+  "animation.vfx.rune_seal.play": {
+   "loop": true,
+   "animation_length": 4.0,
+   "bones": {
+    "ring_outer": {
+     "rotation": {
+      "0": {
+       "vector": [
+        0,
+        0,
+        0
+       ]
+      },
+      "4": {
+       "vector": [
+        0,
+        360,
+        0
+       ]
+      }
+     },
+     "position": {
+      "0": {
+       "vector": [
+        0,
+        0,
+        0
+       ]
+      },
+      "2": {
+       "vector": [
+        0,
+        0,
+        0
+       ]
+      },
+      "4": {
+       "vector": [
+        0,
+        0,
+        0
+       ]
+      }
+     }
+    },
+    "ring_middle": {
+     "rotation": {
+      "0": {
+       "vector": [
+        0,
+        0,
+        0
+       ]
+      },
+      "4": {
+       "vector": [
+        0,
+        -540.0,
+        0
+       ]
+      }
+     },
+     "position": {
+      "0": {
+       "vector": [
+        0,
+        0,
+        0
+       ]
+      },
+      "2": {
+       "vector": [
+        0,
+        1.2,
+        0
+       ]
+      },
+      "4": {
+       "vector": [
+        0,
+        0,
+        0
+       ]
+      }
+     }
+    },
+    "ring_inner": {
+     "rotation": {
+      "0": {
+       "vector": [
+        0,
+        0,
+        0
+       ]
+      },
+      "4": {
+       "vector": [
+        0,
+        720,
+        0
+       ]
+      }
+     },
+     "position": {
+      "0": {
+       "vector": [
+        0,
+        0,
+        0
+       ]
+      },
+      "2": {
+       "vector": [
+        0,
+        1.2,
+        0
+       ]
+      },
+      "4": {
+       "vector": [
+        0,
+        0,
+        0
+       ]
+      }
+     }
+    },
+    "core": {
+     "rotation": {
+      "0": {
+       "vector": [
+        0,
+        0,
+        0
+       ]
+      },
+      "4": {
+       "vector": [
+        0,
+        720,
+        0
+       ]
+      }
+     }
+    }
+   }
+  }
+ }
+}

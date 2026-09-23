@@ -1,0 +1,141 @@
+{
+ "format_version": "1.12.0",
+ "minecraft:geometry": [
+  {
+   "description": {
+    "identifier": "geometry.vfx_spear",
+    "texture_width": 128,
+    "texture_height": 64,
+    "visible_bounds_width": 6,
+    "visible_bounds_height": 6,
+    "visible_bounds_offset": [
+     0,
+     1,
+     0
+    ]
+   },
+   "bones": [
+    {
+     "name": "spear",
+     "pivot": [
+      0,
+      0,
+      0
+     ],
+     "cubes": [
+      {
+       "origin": [
+        -0.5,
+        -0.5,
+        -40.0
+       ],
+       "size": [
+        1,
+        1,
+        40
+       ],
+       "uv": [
+        0,
+        0
+       ]
+      },
+      {
+       "origin": [
+        -1.5,
+        -1.5,
+        20
+       ],
+       "size": [
+        3,
+        3,
+        4
+       ],
+       "uv": [
+        82,
+        0
+       ],
+       "pivot": [
+        0,
+        0,
+        22
+       ],
+       "rotation": [
+        0,
+        0,
+        45
+       ]
+      },
+      {
+       "origin": [
+        -0.5,
+        -0.5,
+        24
+       ],
+       "size": [
+        1,
+        1,
+        6
+       ],
+       "uv": [
+        96,
+        0
+       ]
+      },
+      {
+       "origin": [
+        -1.5,
+        -0.5,
+        18
+       ],
+       "size": [
+        1,
+        1,
+        4
+       ],
+       "uv": [
+        110,
+        0
+       ],
+       "pivot": [
+        0,
+        0,
+        20
+       ],
+       "rotation": [
+        0,
+        -30,
+        0
+       ]
+      },
+      {
+       "origin": [
+        0.5,
+        -0.5,
+        18
+       ],
+       "size": [
+        1,
+        1,
+        4
+       ],
+       "uv": [
+        0,
+        41
+       ],
+       "pivot": [
+        0,
+        0,
+        20
+       ],
+       "rotation": [
+        0,
+        30,
+        0
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

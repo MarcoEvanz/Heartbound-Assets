@@ -1,0 +1,99 @@
+{
+ "format_version": "1.12.0",
+ "minecraft:geometry": [
+  {
+   "description": {
+    "identifier": "geometry.vfx_void_orb",
+    "texture_width": 64,
+    "texture_height": 64,
+    "visible_bounds_width": 6,
+    "visible_bounds_height": 6,
+    "visible_bounds_offset": [
+     0,
+     1,
+     0
+    ]
+   },
+   "bones": [
+    {
+     "name": "shell0",
+     "pivot": [
+      0,
+      8,
+      0
+     ],
+     "cubes": [
+      {
+       "origin": [
+        -7.0,
+        1.0,
+        -7.0
+       ],
+       "size": [
+        14,
+        14,
+        14
+       ],
+       "uv": [
+        0,
+        0
+       ]
+      }
+     ]
+    },
+    {
+     "name": "shell1",
+     "pivot": [
+      0,
+      8,
+      0
+     ],
+     "cubes": [
+      {
+       "origin": [
+        -4.5,
+        3.5,
+        -4.5
+       ],
+       "size": [
+        9,
+        9,
+        9
+       ],
+       "uv": [
+        0,
+        28
+       ]
+      }
+     ]
+    },
+    {
+     "name": "shell2",
+     "pivot": [
+      0,
+      8,
+      0
+     ],
+     "cubes": [
+      {
+       "origin": [
+        -2.5,
+        5.5,
+        -2.5
+       ],
+       "size": [
+        5,
+        5,
+        5
+       ],
+       "uv": [
+        36,
+        28
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
