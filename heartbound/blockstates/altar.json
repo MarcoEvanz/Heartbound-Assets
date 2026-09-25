@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "heartbound:block/altar"
+    },
+    "facing=south": {
+      "model": "heartbound:block/altar"
+    },
+    "facing=east": {
+      "model": "heartbound:block/altar"
+    },
+    "facing=west": {
+      "model": "heartbound:block/altar"
+    }
+  }
+}
