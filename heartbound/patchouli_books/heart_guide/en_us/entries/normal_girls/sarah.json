@@ -1,0 +1,31 @@
+{
+  "name": "Sarah",
+  "icon": "heartbound:sarah_spawn_egg",
+  "category": "heartbound:normal_girls",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Sarah is the quiet one who stands between you and whatever is coming. She says little, notices everything, and does not step back. Where the others make a home, she keeps it.$(br2)Broad-shouldered and steady, she carries herself like a wall that has decided where it stands."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "heartbound:sarah",
+      "scale": 0.8,
+      "offset": 0.3,
+      "rotate": false,
+      "default_rotation": 0,
+      "name": "Sarah",
+      "text": "Sarah, the bulwark!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "heartbound:sarah_spawn_egg",
+      "title": "Sarah Spawn Egg",
+      "text": "Craft her spawn egg to bring her home."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(o)Tame Item$()$(br)Sarah has a quiet weakness for $(#8b5a2b)Cocoa Beans$().$(br2)$(o)Scenes$()$(br)$(li)Blow Job$(li)Cunnilingus$(li)Cowgirl (bed)$(li)Nursing Handjob (bed)"
+    }
+  ]
+}
