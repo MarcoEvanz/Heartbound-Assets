@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "heartbound:block/feeding_trough" }
+    "": { "model": "matex:block/feeding_trough" }
   }
 }

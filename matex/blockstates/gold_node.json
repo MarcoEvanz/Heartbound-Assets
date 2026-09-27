@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "heartbound:block/gold_node"
+      "model": "matex:block/gold_node"
     }
   }
 }

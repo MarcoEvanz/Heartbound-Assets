@@ -4,13 +4,13 @@
     {
       "key": "pounding",
       "sounds": [
-        "heartbound:misc.pounding"
+        "matex:misc.pounding"
       ]
     },
     {
       "key": "cumLoud",
       "sounds": [
-        "heartbound:misc.cuminflation"
+        "matex:misc.cuminflation"
       ]
     }
   ]

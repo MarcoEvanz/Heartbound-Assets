@@ -1523,5 +1523,10 @@
   "attribute.matex.trait.great_fire": "Great Fire",
   "attribute.matex.trait.great_fire.desc": "Antares, the Great Fire, is the Heart mansion's own star: fire cannot touch her, what she strikes burns, and under the night sky her blows carry the star's heat.",
   "attribute.matex.effect.stealth": "Hostiles lose sight of her unless she struck within 5s",
-  "screen.matex.girl_traits.locked": "Her traits are hers by character and cannot be changed"
+  "screen.matex.girl_traits.locked": "Her traits are hers by character and cannot be changed",
+
+  "msg.matex.altar.begun": "祭壇が供物を受け取った…何かが応える。",
+  "msg.matex.altar.held": "祭壇はそれを返そうとしない。",
+  "msg.matex.altar.bound": "祭壇はまだ、自らが呼び出したものに縛られている。",
+  "block.matex.altar": "召喚の祭壇"
 }

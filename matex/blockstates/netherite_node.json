@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "heartbound:block/netherite_node"
+      "model": "matex:block/netherite_node"
     }
   }
 }

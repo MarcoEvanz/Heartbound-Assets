@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "heartbound:block/netherite_node"
+    "all": "matex:block/netherite_node"
   }
 }

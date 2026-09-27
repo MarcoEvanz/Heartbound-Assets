@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "matex:block/altar"
+    },
+    "facing=south": {
+      "model": "matex:block/altar"
+    },
+    "facing=east": {
+      "model": "matex:block/altar"
+    },
+    "facing=west": {
+      "model": "matex:block/altar"
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "heartbound:block/iron_node"
+      "model": "matex:block/iron_node"
     }
   }
 }

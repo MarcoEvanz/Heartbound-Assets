@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "heartbound:block/heart_core"
+      "model": "matex:block/heart_core"
     }
   }
 }

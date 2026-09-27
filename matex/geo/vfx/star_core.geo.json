@@ -1,0 +1,405 @@
+{
+ "format_version": "1.12.0",
+ "minecraft:geometry": [
+  {
+   "description": {
+    "identifier": "geometry.vfx_star_core",
+    "texture_width": 64,
+    "texture_height": 32,
+    "visible_bounds_width": 6,
+    "visible_bounds_height": 6,
+    "visible_bounds_offset": [
+     0,
+     1,
+     0
+    ]
+   },
+   "bones": [
+    {
+     "name": "star",
+     "pivot": [
+      0,
+      8,
+      0
+     ],
+     "cubes": [
+      {
+       "origin": [
+        -3.0,
+        5,
+        -3.0
+       ],
+       "size": [
+        6,
+        6,
+        6
+       ],
+       "uv": [
+        0,
+        16
+       ],
+       "pivot": [
+        0,
+        8,
+        0
+       ],
+       "rotation": [
+        45,
+        45,
+        0
+       ]
+      }
+     ]
+    },
+    {
+     "name": "spike0",
+     "pivot": [
+      0,
+      8,
+      0
+     ],
+     "parent": "star",
+     "rotation": [
+      0,
+      0,
+      0
+     ],
+     "cubes": [
+      {
+       "origin": [
+        -1.0,
+        8,
+        -1.0
+       ],
+       "size": [
+        2,
+        14,
+        2
+       ],
+       "uv": [
+        0,
+        0
+       ],
+       "pivot": [
+        0,
+        8,
+        0
+       ],
+       "rotation": [
+        0,
+        45,
+        0
+       ]
+      },
+      {
+       "origin": [
+        -0.5,
+        20,
+        -0.5
+       ],
+       "size": [
+        1,
+        4,
+        1
+       ],
+       "uv": [
+        24,
+        16
+       ]
+      }
+     ]
+    },
+    {
+     "name": "spike1",
+     "pivot": [
+      0,
+      8,
+      0
+     ],
+     "parent": "star",
+     "rotation": [
+      180,
+      0,
+      0
+     ],
+     "cubes": [
+      {
+       "origin": [
+        -1.0,
+        8,
+        -1.0
+       ],
+       "size": [
+        2,
+        14,
+        2
+       ],
+       "uv": [
+        8,
+        0
+       ],
+       "pivot": [
+        0,
+        8,
+        0
+       ],
+       "rotation": [
+        0,
+        45,
+        0
+       ]
+      },
+      {
+       "origin": [
+        -0.5,
+        20,
+        -0.5
+       ],
+       "size": [
+        1,
+        4,
+        1
+       ],
+       "uv": [
+        28,
+        16
+       ]
+      }
+     ]
+    },
+    {
+     "name": "spike2",
+     "pivot": [
+      0,
+      8,
+      0
+     ],
+     "parent": "star",
+     "rotation": [
+      90,
+      0,
+      0
+     ],
+     "cubes": [
+      {
+       "origin": [
+        -1.0,
+        8,
+        -1.0
+       ],
+       "size": [
+        2,
+        14,
+        2
+       ],
+       "uv": [
+        16,
+        0
+       ],
+       "pivot": [
+        0,
+        8,
+        0
+       ],
+       "rotation": [
+        0,
+        45,
+        0
+       ]
+      },
+      {
+       "origin": [
+        -0.5,
+        20,
+        -0.5
+       ],
+       "size": [
+        1,
+        4,
+        1
+       ],
+       "uv": [
+        32,
+        16
+       ]
+      }
+     ]
+    },
+    {
+     "name": "spike3",
+     "pivot": [
+      0,
+      8,
+      0
+     ],
+     "parent": "star",
+     "rotation": [
+      -90,
+      0,
+      0
+     ],
+     "cubes": [
+      {
+       "origin": [
+        -1.0,
+        8,
+        -1.0
+       ],
+       "size": [
+        2,
+        14,
+        2
+       ],
+       "uv": [
+        24,
+        0
+       ],
+       "pivot": [
+        0,
+        8,
+        0
+       ],
+       "rotation": [
+        0,
+        45,
+        0
+       ]
+      },
+      {
+       "origin": [
+        -0.5,
+        20,
+        -0.5
+       ],
+       "size": [
+        1,
+        4,
+        1
+       ],
+       "uv": [
+        36,
+        16
+       ]
+      }
+     ]
+    },
+    {
+     "name": "spike4",
+     "pivot": [
+      0,
+      8,
+      0
+     ],
+     "parent": "star",
+     "rotation": [
+      0,
+      0,
+      90
+     ],
+     "cubes": [
+      {
+       "origin": [
+        -1.0,
+        8,
+        -1.0
+       ],
+       "size": [
+        2,
+        14,
+        2
+       ],
+       "uv": [
+        32,
+        0
+       ],
+       "pivot": [
+        0,
+        8,
+        0
+       ],
+       "rotation": [
+        0,
+        45,
+        0
+       ]
+      },
+      {
+       "origin": [
+        -0.5,
+        20,
+        -0.5
+       ],
+       "size": [
+        1,
+        4,
+        1
+       ],
+       "uv": [
+        40,
+        16
+       ]
+      }
+     ]
+    },
+    {
+     "name": "spike5",
+     "pivot": [
+      0,
+      8,
+      0
+     ],
+     "parent": "star",
+     "rotation": [
+      0,
+      0,
+      -90
+     ],
+     "cubes": [
+      {
+       "origin": [
+        -1.0,
+        8,
+        -1.0
+       ],
+       "size": [
+        2,
+        14,
+        2
+       ],
+       "uv": [
+        40,
+        0
+       ],
+       "pivot": [
+        0,
+        8,
+        0
+       ],
+       "rotation": [
+        0,
+        45,
+        0
+       ]
+      },
+      {
+       "origin": [
+        -0.5,
+        20,
+        -0.5
+       ],
+       "size": [
+        1,
+        4,
+        1
+       ],
+       "uv": [
+        44,
+        16
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
